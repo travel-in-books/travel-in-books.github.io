@@ -1,0 +1,34 @@
+---
+title: صد سال تنهایی
+categories: [Novel,Fiction]
+tags: [comedy,fiction,swedish,book club,columbia,magic realism]
+---
+
+<style type="text/css"> 
+@font-face { font-family: 'Roya'; src: url('../../roya.ttf'); } 
+p { font-family: Roya; direction: rtl; font-size:24px; } 
+ul {direction:rtl;font-family: Roya;}
+h2 {direction:rtl;font-family: Roya;}
+</style> 
+
+## صد سال تنهایی از گابریل گارسیا مارکز
+خوزه آرکادیو بوندیا Jose Arcadio Buendia
+اورسلا Ursula
+ملکیادس Melquiades
+
+خوزه آرکادیو بوندیا دهکده ای به اسم ماکوندو بنانهاده بود. 
+در جنوب مرداب پهناوری بود.
+
+چیزی که امروز من را برام جالب بود این بود که خوزه آرکادیو دوم و خوزه آیورلیانو دوم احتمالا در سن پایین جابجا شده اند. حال یا با آگاهی خودشون یا نه. نمی دونم. و این را شاید بتوان در اتفاقاتی که برای آنها نیز می افتد دنبال کرد. طوری که شاید خوزه آرکادیوی دوم شبیه خوزه آیورلیانو و خوزه آیورلیانو دوم شبیه خوزه آرکادیو رفتار می کند.
+
+ربکا بعد از مرگ خوزه آرکادیو که معلوم نیست چطور کشته شده است در آن خانه تنها زندگی می کند و به جز دفعات معدودی کسی ندیده است که از خانه خارج شود. ربکا احتمالا آنجا با خوردن خاک به زندگی ادامه می دهد. به نظر می رسد که شخصیت دیگری به نام ربکا در داستان کوتاه دیگری از گابریل گارسیا مارکز وجود دارد که شبیه این ربکا ست.
+
+کتاب صوتی بدون سانسور صدسال تنهایی به زبان فارسی را می توانید از اینجا گوش دهید:
+https://www.youtube.com/watch?v=adbd0PU5f0o&list=PL-sl6GiB4NOZqcx40LBZdUFhkiqD4fcD_
+
+همچنین لیست شخصیت های خانواده بوندیا و روابط آنها را می توانید در دو تصویر زیر مشاهده کنید:
+![One hundred years of solitude (infography)](sad_sal_tanhaei1.jpg)
+![One hundred years of solitude (infography)](sad_sal_tanhaei2.jpg)
+
+
+
