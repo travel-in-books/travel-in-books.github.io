@@ -43,6 +43,12 @@ h2 {direction:rtl;font-family: Roya;}
 - حرف مادرش که می شد لحن صحبتش عوش می شد
 
 
+فصل ها:
+فصل ۲۴:
+فصل ۲۵: دیدار امیل و ویولت و کلی دیگه تو آشپزخونه!
+فصل ۲۶:
+
+
 کتاب صوتی:
 [چراغ ها را من خاموش می کنم با صدای ناهید عزیزی](https://www.youtube.com/playlist?list=PLXKXu_evJveenXAbAgLNFguEuybduBwOR)
 
