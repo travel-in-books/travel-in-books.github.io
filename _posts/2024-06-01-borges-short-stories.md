@@ -30,7 +30,7 @@ h3 {direction:rtl;font-family: Roya;font-size:2.0rem}
 
 ### ابن حُقان بخاری و مرگ او در هزارتوی خود
 - Abenjacán el Bojarí, muerto en su laberinto (Ibn-Hakam al-Bokhari, Murdered in His Labyrinth)
-
+- [داستان و توضیحات از زبان اورهان پاموک](https://www.newyorker.com/podcast/fiction/orhan-pamuk-reads-jorge-luis-borges)
 
 از اینجا می توان ورژن انگیسی بعضی از این داستان ها را می توان پیدا کرد:
 [Borges Short Stories](https://posthegemony.wordpress.com/wp-content/uploads/2013/02/borges_collected-fictions.pdf)
