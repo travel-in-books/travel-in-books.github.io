@@ -25,3 +25,7 @@ h3 {direction:rtl;font-family: Roya;font-size:2.5rem}
 - el encuentro (the encounter)
 - Maneco Uriarte (مانکو اوریارته) and Duncan (دونکان)
 - 
+
+
+از اینجا می توان ورژن انگیسی بعضی از این داستان ها را می توان پیدا کرد:
+[Borges Short Stories](https://posthegemony.wordpress.com/wp-content/uploads/2013/02/borges_collected-fictions.pdf)
