@@ -6,10 +6,13 @@ tags: [fiction,argentina,short stories]
 
 <style type="text/css"> 
 @font-face { font-family: 'Roya'; src: url('../../roya.ttf'); } 
-p { font-family: Roya; direction: rtl; font-size:1.5rem; } 
-ul {direction:rtl;font-family: Roya;font-size:1.5rem}
-h2 {direction:rtl;font-family: Roya;font-size:2.5rem}
-h3 {direction:rtl;font-family: Roya;font-size:2.0rem}
+.px-1 {
+    font-family: Roya; direction: rtl;
+}
+/* p { font-family: Roya; direction: rtl; font-size:1.5rem; }  */
+/* ul {direction:rtl;font-family: Roya;font-size:1.5rem} */
+/* h2 {direction:rtl;font-family: Roya;font-size:2.5rem} */
+/* h3 {direction:rtl;font-family: Roya;font-size:2.0rem} */
 </style> 
 
 ## داستان های کوتاه بورخس
