@@ -9,6 +9,8 @@ tags: [fiction,argentina,short stories]
 p { font-family: Roya; direction: rtl; font-size:24px; } 
 ul {direction:rtl;font-family: Roya;}
 h2 {direction:rtl;font-family: Roya;}
+h3 {direction:rtl;font-family: Roya;}
+
 </style> 
 
 ## داستان های کوتاه بورخس
@@ -17,4 +19,10 @@ h2 {direction:rtl;font-family: Roya;}
 - la forma de la speda (The form of the sword)
 -  عمل يک انسان چنان است که گويي همه انسان‌ها مرتکب آن شده‌اند.
 - شوپنهاور حق داشت که گفت: من ديگرانم، هر انساني همه انسان‌هاست. به يک تعبير شکسپير همان وين‌سنت مون قابل تحقير است.
+
 ### دوست نالوطی
+
+### مواجهه
+- el encuentro (the encounter)
+- Maneco Uriarte (مانکو اوریارته) and Duncan (دونکان)
+- 
