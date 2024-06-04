@@ -1,0 +1,19 @@
+---
+title: داستان کوتاه های بورخس
+categories: [Short Story,Fiction]
+tags: [fiction,argentina,short stories]
+---
+
+<style type="text/css"> 
+@font-face { font-family: 'Roya'; src: url('../../roya.ttf'); } 
+p { font-family: Roya; direction: rtl; font-size:24px; } 
+ul {direction:rtl;font-family: Roya;}
+h2 {direction:rtl;font-family: Roya;}
+</style> 
+
+## داستان های کوتاه بورخس
+
+- [^1] زخم شمشیر
+
+
+[^1] la forma de la speda (The form of the sword)
