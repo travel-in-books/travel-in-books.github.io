@@ -13,10 +13,11 @@ h2 {direction:rtl;font-family: Roya;}
 
 ## داستان های کوتاه بورخس
 
-- [[1]](#1) زخم شمشیر
+- زخم شمشیر
+-- la forma de la speda (The form of the sword)
 --  عمل يک انسان چنان است که گويي همه انسان‌ها مرتکب آن شده‌اند.
 -- شوپنهاور حق داشت که گفت: من ديگرانم، هر انساني همه انسان‌هاست. به يک تعبير شکسپير همان وين‌سنت مون قابل تحقير است.
 - دوست نالوطی
 
 
-<a id="1">[1]</a>  la forma de la speda (The form of the sword)
+1. la forma de la speda (The form of the sword)
