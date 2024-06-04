@@ -26,6 +26,9 @@ h3 {direction:rtl;font-family: Roya;font-size:2.0rem}
 - Maneco Uriarte (مانکو اوریارته) and Duncan (دونکان)
 - 
 
+### ابن حُقان بخاری و مرگ او در هزارتوی خود
+- Abenjacán el Bojarí, muerto en su laberinto (Ibn-Hakam al-Bokhari, Murdered in His Labyrinth)
+
 
 از اینجا می توان ورژن انگیسی بعضی از این داستان ها را می توان پیدا کرد:
 [Borges Short Stories](https://posthegemony.wordpress.com/wp-content/uploads/2013/02/borges_collected-fictions.pdf)
