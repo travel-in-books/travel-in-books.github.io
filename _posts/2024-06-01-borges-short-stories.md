@@ -20,6 +20,8 @@ h3 {direction:rtl;font-family: Roya;font-size:2.0rem}
 - شوپنهاور حق داشت که گفت: من ديگرانم، هر انساني همه انسان‌هاست. به يک تعبير شکسپير همان وين‌سنت مون قابل تحقير است.
 
 ### دوست نالوطی
+- El indigno (The unworthy friend)
+
 
 ### مواجهه
 - el encuentro (the encounter)
