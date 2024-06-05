@@ -1,5 +1,5 @@
 ---
-title: دختری که پادشاه سوئد را نجات داد
+title: دختری که پادشاه سوئد را نجات داد از یوناس یوناسون
 categories: [Novel,Fiction]
 tags: [comedy,fiction,sweden]
 ---
