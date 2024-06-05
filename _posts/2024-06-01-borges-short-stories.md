@@ -25,8 +25,11 @@ tags: [fiction,argentina,short stories]
 -  عمل يک انسان چنان است که گويي همه انسان‌ها مرتکب آن شده‌اند.
 - شوپنهاور حق داشت که گفت: من ديگرانم، هر انساني همه انسان‌هاست. به يک تعبير شکسپير همان وين‌سنت مون قابل تحقير است.
 
+
+
 ### دوست نالوطی
 - El indigno (The unworthy friend)
+- 
 
 
 ### مواجهه
@@ -37,6 +40,21 @@ tags: [fiction,argentina,short stories]
 ### ابن حُقان بخاری و مرگ او در هزارتوی خود
 - Abenjacán el Bojarí, muerto en su laberinto (Ibn-Hakam al-Bokhari, Murdered in His Labyrinth)
 - [داستان و توضیحات از زبان اورهان پاموک](https://www.newyorker.com/podcast/fiction/orhan-pamuk-reads-jorge-luis-borges)
+
+
+## کتابخانه بابل
+- The library of Babel (La biblioteca de Babel)
+- 
+## مردی در گوشه خیابان
+- Hombre de la Esquina Rosada (Man on Pink Corner)
+
+## داستان از زبان رزندا خوارز 
+-‌ Historia de Rosendo Juarez (The Story from Rosendo Juárez)
+- داستان کوتاه دیگرش "مردی در گوشه خیابان" از زبان یکی دیگر از شخصیت ها گفته می شود.
+
+## جنوب
+- El Sur (The South)
+- مردی که همیشه آرزوی زندگی و دیدن زمین های پدربزرگش در جنوب را دارد با یک برخورد کوچک با یه سطح تیز دچار عفونت سنگینی می شود که به بیمارستان منتقل می شود. 
 
 از اینجا می توان ورژن انگیسی بعضی از این داستان ها را می توان پیدا کرد:
 [Borges Short Stories](https://posthegemony.wordpress.com/wp-content/uploads/2013/02/borges_collected-fictions.pdf)
