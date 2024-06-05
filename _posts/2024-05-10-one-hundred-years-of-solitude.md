@@ -9,6 +9,9 @@ tags: [comedy,fiction,swedish,book club,columbia,magic realism]
 .px-1 {
     font-family: Roya; direction: rtl;
 }
+.px-1 p {
+    font-size:1.5em;
+}
 </style> 
 
 <!-- ## صد سال تنهایی از گابریل گارسیا مارکز -->

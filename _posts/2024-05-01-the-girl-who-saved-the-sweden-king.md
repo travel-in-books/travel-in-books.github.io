@@ -9,6 +9,9 @@ tags: [comedy,fiction,sweden]
 .px-1 {
     font-family: Roya; direction: rtl;
 }
+.px-1 p {
+    font-size:1.5em;
+}
 </style> 
 
 ## دختری که پادشان سوئد را نجات داد از یوناس یوناسون

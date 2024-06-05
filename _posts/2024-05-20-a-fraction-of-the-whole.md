@@ -9,6 +9,9 @@ tags: [comedy,fiction,australia]
 .px-1 {
     font-family: Roya; direction: rtl;
 }
+.px-1 p {
+    font-size:1.5em;
+}
 </style> 
 
 <!-- ## جز از کل از استیو تولتز -->

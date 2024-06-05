@@ -9,6 +9,9 @@ tags: [fiction,iran,armenian]
 .px-1 {
     font-family: Roya; direction: rtl;
 }
+.px-1 p {
+    font-size:1.5em;
+}
 </style> 
 
 ## چراغ ها را من خاموش می کنم از زویا پیرزاد
