@@ -1,17 +1,21 @@
 ---
-title: پاسخ‌های کوتاه به پرسش‌های بزرگ
+title: پاسخ‌های کوتاه به پرسش‌های بزرگ از استفان هاوکینگ
 categories: [Novel,Nonfiction]
 tags: [biography,science,existence,united states]
 ---
 
 <style type="text/css"> 
 @font-face { font-family: 'Roya'; src: url('../../roya.ttf'); } 
-p { font-family: Roya; direction: rtl; font-size:24px; } 
-ul {direction:rtl;font-family: Roya;}
-h2 {direction:rtl;font-family: Roya;}
+.px-1 {
+    font-family: Roya; direction: rtl;
+}
+
+.px-1 p {
+    font-size:1.5em;
+}
 </style> 
 
-## پاسخ‌های کوتاه به پرسش‌های بزرگ از استفان هاوکینگ
+<!-- ## پاسخ‌های کوتاه به پرسش‌های بزرگ از استفان هاوکینگ -->
 
 در این کتاب در کنار شرح کوتاهی از زندگی و افکار استفان هاوکینگ به سوال های بزرگ هستی جواب هایی از نگاه این دانشمند می شنویم.
 - پیشگفتارها: استفان هاوکینگ سفری به ایران داشته و حتی زلزله بویین زهرا را تجربه کرده است.

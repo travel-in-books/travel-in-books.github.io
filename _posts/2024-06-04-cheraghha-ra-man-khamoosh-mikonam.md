@@ -1,5 +1,5 @@
 ---
-title: چراغ ها را من خاموش می کنم
+title: چراغ ها را من خاموش می کنم از زویا پیرزاد
 categories: [Novel,Fiction]
 tags: [fiction,iran,armenian]
 ---

@@ -15,7 +15,7 @@ tags: [fiction,argentina,short stories]
 /* h3 {direction:rtl;font-family: Roya;font-size:2.0rem} */
 </style> 
 
-## داستان های کوتاه بورخس
+<!-- ## داستان های کوتاه بورخس -->
 
 ### زخم شمشیر
 - la forma de la speda (The form of the sword)

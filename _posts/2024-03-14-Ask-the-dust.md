@@ -1,18 +1,21 @@
 ---
-title: از غبار بپرس
+title:  از غبار بپرس از جان فانته
 categories: [Novel,Fiction]
 tags: [united states,novel,fiction,los angeles]
 ---
 
 <style type="text/css"> 
 @font-face { font-family: 'Roya'; src: url('../../roya.ttf'); } 
-p { font-family: Roya; direction: rtl; font-size:24px; } 
-ul {direction:rtl;font-family: Roya;}
-h2 {direction:rtl;font-family: Roya;}
+.px-1 {
+    font-family: Roya; direction: rtl;
+}
+
+.px-1 p {
+    font-size:1.5em;
+}
 </style> 
 
-
-## از غبار بپرس از جان فانته
+<!-- ## از غبار بپرس از جان فانته -->
 
 کناب جان فانته گفتگوهای درونی آرتورو باندینی شخصیت اصلی داستان در لس آنجلس است. او که مداوم به یک نویسنده معروف شدن فکر می کند با زندگی خود درگیر است. عاشق کامیلا لوپز می شود. 
 ورا ریفکن کسی که با آرتورو باندینی مهربون باد ولی آه در بساط نداشت. 

@@ -1,17 +1,17 @@
 ---
-title: صد سال تنهایی
+title: صد سال تنهایی از گابریل گارسیا مارکز
 categories: [Novel,Fiction]
 tags: [comedy,fiction,swedish,book club,columbia,magic realism]
 ---
 
 <style type="text/css"> 
 @font-face { font-family: 'Roya'; src: url('../../roya.ttf'); } 
-p { font-family: Roya; direction: rtl; font-size:24px; } 
-ul {direction:rtl;font-family: Roya;}
-h2 {direction:rtl;font-family: Roya;}
+.px-1 {
+    font-family: Roya; direction: rtl;
+}
 </style> 
 
-## صد سال تنهایی از گابریل گارسیا مارکز
+<!-- ## صد سال تنهایی از گابریل گارسیا مارکز -->
 خوزه آرکادیو بوندیا Jose Arcadio Buendia
 اورسلا Ursula
 ملکیادس Melquiades

@@ -1,18 +1,22 @@
 ---
-title: سایه باد
+title: سایه باد از کارلوس لوییس زافون
 categories: [Novel,Fiction]
 tags: [spain,barcelona,novel,fiction,classics,book club]
 ---
 
 <style type="text/css"> 
 @font-face { font-family: 'Roya'; src: url('../../roya.ttf'); } 
-p { font-family: Roya; direction: rtl; font-size:24px; } 
-ul {direction:rtl;font-family: Roya;}
-h2 {direction:rtl;font-family: Roya;}
+.px-1 {
+    font-family: Roya; direction: rtl;
+}
+
+.px-1 p {
+    font-size:1.5em;
+}
 </style> 
 
 
-## سایه باد از کارلوس لوییس زافون
+<!-- ## سایه باد از کارلوس لوییس زافون -->
 
 
 سایه باد" اثر کارلوس روئیز زافون، اولین رمان از سری "گورستان کتاب‌های فراموش‌شده" است. در اینجا برخی از شخصیت‌های اصلی رمان آورده شده‌اند:

@@ -6,9 +6,9 @@ tags: [comedy,fiction,sweden]
 
 <style type="text/css"> 
 @font-face { font-family: 'Roya'; src: url('../../roya.ttf'); } 
-p { font-family: Roya; direction: rtl; font-size:24px; } 
-ul {direction:rtl;font-family: Roya;}
-h2 {direction:rtl;font-family: Roya;}
+.px-1 {
+    font-family: Roya; direction: rtl;
+}
 </style> 
 
 ## دختری که پادشان سوئد را نجات داد از یوناس یوناسون
