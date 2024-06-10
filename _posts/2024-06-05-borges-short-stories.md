@@ -66,5 +66,10 @@ Who Made the Angels Wait
 - El otro duelo (The other duell)
 - دوئل بین مردان در مقابل داستان کوتله دوئل
 
+## مزاحم
+- La Intrusa (The Interloper)
+- دو برادر یک زن یولیانا را به اشتراک می گذارند.
+- فیلم غزل کیمیایی از روی آن ساخته شده است.
+
 از اینجا می توان ورژن انگیسی بعضی از این داستان ها را می توان پیدا کرد:
 [Borges Short Stories](https://posthegemony.wordpress.com/wp-content/uploads/2013/02/borges_collected-fictions.pdf)
