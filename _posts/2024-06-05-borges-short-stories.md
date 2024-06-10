@@ -73,7 +73,7 @@ Who Made the Angels Wait
 
 ## اولریکا 
 - Ulrica (Ulrikke)
-
+- اشاره به نمایشناه هداگابلر از ایبسن
 
 ## نوشته خداوند
 - Escrito por Dios (The Writing of the God)
