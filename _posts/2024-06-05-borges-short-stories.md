@@ -71,5 +71,13 @@ Who Made the Angels Wait
 - دو برادر یک زن یولیانا را به اشتراک می گذارند.
 - فیلم غزل کیمیایی از روی آن ساخته شده است.
 
+
+
+## نوشته خداوند
+- Escrito por Dios (The Writing of the God)
+- هیچی از داستان نفهمیدم :)
+
+
+
 از اینجا می توان ورژن انگیسی بعضی از این داستان ها را می توان پیدا کرد:
 [Borges Short Stories](https://posthegemony.wordpress.com/wp-content/uploads/2013/02/borges_collected-fictions.pdf)
