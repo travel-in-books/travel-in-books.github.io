@@ -41,3 +41,4 @@ tags: [novel,japanese,fiction,kafka on the shore]
 رسیدن به شهر و رفتن به کتابخونه
 
 
+فصل ششم:
