@@ -1,4 +1,4 @@
----
+چ---
 title: کافکا در کرانه از موراکامی
 categories: [Novel,Fiction]
 tags: [novel,japanese,fiction,kafka on the shore]
@@ -48,3 +48,4 @@ tags: [novel,japanese,fiction,kafka on the shore]
 
 فصل هشتم: 
 گفتگو با روانشناس درمورد اتفاق تپه کاسه برنج
+صحبت با ناکوتا
