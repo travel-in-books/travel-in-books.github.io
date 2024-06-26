@@ -1,4 +1,4 @@
-حجpچ حج---
+---
 title: کافکا در کرانه از موراکامی
 categories: [Novel,Fiction]
 tags: [novel,japanese,fiction,kafka on the shore]
@@ -107,4 +107,7 @@ tags: [novel,japanese,fiction,kafka on the shore]
 
 فصل بیست و دوم: 
 ناکوتا به کوبه رسید. 
+با راننده کامیون دوست می شود و با هم به شیکوکو می روند.
 
+فصل بیست و سوم:
+کافکا و شبح
