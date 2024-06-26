@@ -1,4 +1,4 @@
-چ حج---
+pچ حج---
 title: کافکا در کرانه از موراکامی
 categories: [Novel,Fiction]
 tags: [novel,japanese,fiction,kafka on the shore]
@@ -97,4 +97,6 @@ tags: [novel,japanese,fiction,kafka on the shore]
 هوشیما ترنس است
 
 فصل بیستم:
+ناکوتا و تجربه های متفاوت
 
+فصل بیست و یکم: 
