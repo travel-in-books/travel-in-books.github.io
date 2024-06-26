@@ -1,4 +1,4 @@
-pچ حج---
+حجpچ حج---
 title: کافکا در کرانه از موراکامی
 categories: [Novel,Fiction]
 tags: [novel,japanese,fiction,kafka on the shore]
@@ -100,3 +100,4 @@ tags: [novel,japanese,fiction,kafka on the shore]
 ناکوتا و تجربه های متفاوت
 
 فصل بیست و یکم: 
+تامورا مجسمه ساز معروف با کارد به قتل رسید
