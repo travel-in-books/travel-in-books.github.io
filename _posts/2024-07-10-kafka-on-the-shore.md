@@ -111,3 +111,4 @@ tags: [novel,japanese,fiction,kafka on the shore]
 
 فصل بیست و سوم:
 کافکا و شبح
+شنیدن کافکا در کرانه نوشته میس ساییکی
