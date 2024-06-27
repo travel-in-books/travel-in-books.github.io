@@ -1,5 +1,5 @@
 ---
-title: داستان کوتاه های داستایوسکی
+title: داستان‌های کوتاه داستایوسکی
 categories: [Short Story,Fiction]
 tags: [fiction,argentina,short stories]
 ---

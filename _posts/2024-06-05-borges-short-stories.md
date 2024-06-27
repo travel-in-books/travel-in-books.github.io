@@ -1,5 +1,5 @@
 ---
-title: داستان کوتاه های بورخس
+title: داستان‌های کوتاه بورخس
 categories: [Short Story,Fiction]
 tags: [fiction,argentina,short stories]
 ---

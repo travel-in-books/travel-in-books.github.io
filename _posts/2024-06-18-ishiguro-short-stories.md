@@ -1,5 +1,5 @@
 ---
-title: داستان کوتاه های ایشیگورو
+title: داستان‌های کوتاه ایشیگورو
 categories: [Short Story,Fiction]
 tags: [fiction,uk,short stories]
 ---

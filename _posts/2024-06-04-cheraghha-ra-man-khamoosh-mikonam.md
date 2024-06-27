@@ -1,5 +1,5 @@
 ---
-title: چراغ ها را من خاموش می کنم از زویا پیرزاد
+title: چراغ‌ها را من خاموش می‌کنم از زویا پیرزاد
 categories: [Novel,Fiction]
 tags: [fiction,iran,armenian]
 ---
@@ -11,7 +11,11 @@ tags: [fiction,iran,armenian]
 }
 .px-1 p {
     font-size:1.5em;
-}
+}---
+title: داستان کوتاه های ایشیگورو
+categories: [Short Story,Fiction]
+tags: [fiction,uk,short stories]
+---
 </style> 
 
 <!-- ## چراغ ها را من خاموش می کنم از زویا پیرزاد -->
