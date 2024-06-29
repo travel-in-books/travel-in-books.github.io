@@ -128,3 +128,4 @@ tags: [novel,japanese,fiction,kafka on the shore]
 
 فصل بیست و هفتم: 
 شبح دختر، میس ساییکی 
+کارآگاهی دنبالش هست
