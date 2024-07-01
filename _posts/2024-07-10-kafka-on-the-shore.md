@@ -140,3 +140,6 @@ tags: [novel,japanese,fiction,kafka on the shore]
 
 فصل سی ام: 
 دنبال کردن سرهنگ. ساندرز
+پیدا کردن سنگ سفید
+
+فصل سی و یکم: 
