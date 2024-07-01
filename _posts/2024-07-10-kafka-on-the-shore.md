@@ -144,3 +144,6 @@ tags: [novel,japanese,fiction,kafka on the shore]
 
 فصل سی و یکم:
 صحبت با میس ساییکی
+
+فصل سی و دوم: 
+ناکوتا سنگ را در کنار سرش روی تخت دید
