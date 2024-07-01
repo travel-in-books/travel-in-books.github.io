@@ -132,3 +132,6 @@ tags: [novel,japanese,fiction,kafka on the shore]
 
 فصل بیست و هشتم: 
 دنبال کردن سرهنگ ساندرز
+
+قسمت بیست و نهم: 
+زنگ زدن به ساکورا
