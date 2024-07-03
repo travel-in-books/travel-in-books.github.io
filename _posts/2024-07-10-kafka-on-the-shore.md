@@ -228,3 +228,7 @@ tags: [novel,japanese,fiction,kafka on the shore]
 
 فصل چهل و نهم:
 کافکا به کتابخانه می‌رود تابلو را برمی‌دارد و به توکیو برمی‌گردد
+
+
+این داستان همچنین بینگوی موراکامی را خوب کامل می کند:
+[Kafka on the shore (Bingo)](MurakamiBingo.jpg)
