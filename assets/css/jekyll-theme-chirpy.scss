@@ -9,8 +9,11 @@
 
 /* append your custom style below */
 @font-face { font-family: 'Roya'; src: url('../../roya.ttf'); } 
+
+body { font-family: Roya; }
+
 .px-1 {
-    font-family: Roya; direction: rtl;
+    direction: rtl;
 }
 
 .px-1 p {
