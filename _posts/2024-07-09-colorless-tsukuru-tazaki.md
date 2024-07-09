@@ -5,20 +5,6 @@ tags: [novel,japanese,fiction,norwegian wood]
 ---
 
 
-<style type="text/css"> 
-@font-face { font-family: 'Roya'; src: url('../../roya.ttf'); } 
-.px-1 {
-    font-family: Roya; direction: rtl;
-}
-
-.px-1 p {
-    font-size:1.5em;
-}
-
-.px-1 ul {
-    font-size:1.2em;
-}
-</style>  
 شخصیت‌های رمان:
 
 - سوکورو تازاکی (Tsukuru Tazaki) - شخصیت اصلی داستان، یک مرد که به دنبال فهم گذشته و دوستان قدیمی‌اش است.
