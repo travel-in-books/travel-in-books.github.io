@@ -1,7 +1,7 @@
 ---
 title:  از غبار بپرس از جان فانته
-categories: [Novel,Fiction]
-tags: [united states,novel,fiction,los angeles]
+categories: [رمان,داستان]
+tags: [آمریکا,رمان,داستان,لس‌آنجلس]
 ---
 
 

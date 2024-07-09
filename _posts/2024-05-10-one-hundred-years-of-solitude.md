@@ -1,12 +1,10 @@
 ---
 title: صد سال تنهایی از گابریل گارسیا مارکز
-categories: [Novel,Fiction]
-tags: [comedy,fiction,swedish,book club,columbia,magic realism]
+categories: [رمان,داستان]
+tags: [کمدی,داستان,باشگاه کتاب,کلمبیا,ریالیسم جادویی]
 ---
 
 
-
-<!-- ## صد سال تنهایی از گابریل گارسیا مارکز -->
 خوزه آرکادیو بوندیا Jose Arcadio Buendia
 اورسلا Ursula
 ملکیادس Melquiades

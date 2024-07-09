@@ -1,7 +1,7 @@
 ---
 title: اصلاحات از جاناتان فرانزن
-categories: [Short Story,Fiction]
-tags: [fiction,argentina,short stories,book club]
+categories: [رمان,داستان]
+tags: [داستان,آمریکا]
 ---
 
 شخصیت ها:

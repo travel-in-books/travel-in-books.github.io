@@ -1,7 +1,7 @@
 ---
 title: داستان‌های کوتاه ایشیگورو
-categories: [Short Story,Fiction]
-tags: [fiction,uk,short stories]
+categories: [داستان کوتاه,داستان]
+tags: [داستان,انگلیس,داستان کوتاه]
 ---
 
 ### تپه های مالورن

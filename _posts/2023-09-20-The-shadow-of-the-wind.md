@@ -1,7 +1,7 @@
 ---
 title: سایه باد از کارلوس لوییس زافون
-categories: [Novel,Fiction]
-tags: [spain,barcelona,novel,fiction,classics,book club]
+categories: [رمان,داستان]
+tags: [اسپانیا,بارسلونا,رمان,داستان,کلاسیک,باشگاه کتاب]
 ---
 
 

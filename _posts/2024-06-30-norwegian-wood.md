@@ -1,7 +1,7 @@
 ---
 title: جنگل نروژی از موراکامی
-categories: [Novel,Fiction]
-tags: [novel,japanese,fiction,norwegian wood]
+categories: [رمان,داستان]
+tags: [رمان,ژاپن,داستان,جنگل نروژی]
 ---
 
 

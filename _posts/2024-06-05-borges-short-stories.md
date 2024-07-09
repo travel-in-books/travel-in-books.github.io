@@ -1,10 +1,9 @@
 ---
 title: داستان‌های کوتاه بورخس
-categories: [Short Story,Fiction]
-tags: [fiction,argentina,short stories]
+categories: [داستان کوتاه,داستان]
+tags: [داستان,آرژانتین,داستان کوتاه]
 ---
 
-<!-- ## داستان های کوتاه بورخس -->
 
 ### زخم شمشیر
 - la forma de la speda (The form of the sword)

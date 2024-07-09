@@ -1,7 +1,7 @@
 ---
 title:  تکه‌هایی از یک کل منسجم 
-categories: [Novel,Fiction]
-tags: [fiction,iran,armenian]
+categories: [روانشناسی,علمی]
+tags: [علمی,ایران]
 ---
 
 

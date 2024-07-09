@@ -1,7 +1,7 @@
 ---
 title: خانه هلندی اثر آن پچت
-categories: [Novel,Fiction]
-tags: [novel,usa,fiction,the dutch house]
+categories: [رمان,داستان]
+tags: [رمان,آمریکا,داستان,خانه هلندی]
 ---
 
 

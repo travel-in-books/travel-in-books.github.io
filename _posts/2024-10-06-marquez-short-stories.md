@@ -1,7 +1,7 @@
 ---
 title: داستان کوتاه های مارکز
-categories: [Short Story,Fiction]
-tags: [fiction,argentina,short stories]
+categories: [داستان کوتاه,داستان]
+tags: [داستان,آرژانتین,داستان کوتاه]
 ---
 
 

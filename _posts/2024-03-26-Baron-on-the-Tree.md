@@ -1,7 +1,7 @@
 ---
 title: بارون درخت نشین از ایتالو کالوینو
-categories: [Novel,Science Fiction]
-tags: [novel,italy,science fiction]
+categories: [رمان,علمی تخیلی]
+tags: [رمان,ایتالیا,علمی تخیلی]
 ---
 
 

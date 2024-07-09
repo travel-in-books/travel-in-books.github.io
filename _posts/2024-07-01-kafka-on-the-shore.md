@@ -1,7 +1,7 @@
 ---
 title: کافکا در کرانه از موراکامی
-categories: [Novel,Fiction]
-tags: [novel,japanese,fiction,kafka on the shore]
+categories: [رمان,داستان]
+tags: [رمان,ژاپن,داستان,کافکا در کرانه]
 ---
 
 

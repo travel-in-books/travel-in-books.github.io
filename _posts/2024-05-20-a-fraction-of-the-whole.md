@@ -1,7 +1,7 @@
 ---
 title: جز از کل از استیو تولتز
-categories: [Novel,Fiction]
-tags: [comedy,fiction,australia]
+categories: [رمان,داستان]
+tags: [کمدی,داستان,استرالیا]
 ---
 
 
