@@ -10,11 +10,11 @@
 /* append your custom style below */
 @font-face { font-family: 'Roya'; src: url('../../roya.ttf'); } 
 
-body { font-family: Roya, Arial, Helvetica, sans-serif; }
-
-.px-1 {
+body { 
+    font-family: Roya, Aria; 
     direction: rtl;
 }
+
 
 .px-1 p {
     font-size:1.5em;
@@ -22,20 +22,4 @@ body { font-family: Roya, Arial, Helvetica, sans-serif; }
 
 .px-1 ul {
     font-size:1.2em;
-}
-
-#post-list {
-    direction: rtl;
-}
-
-#related-posts {
-    direction: rtl;
-}
-
-section {
-    direction: rtl;
-}
-
-#topbar {
-    direction: rtl;
 }
