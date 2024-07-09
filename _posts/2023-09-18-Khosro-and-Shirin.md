@@ -4,16 +4,6 @@ categories: [Novel,Fiction]
 tags: [persian,fiction,poem,classics]
 ---
 
-<style type="text/css"> 
-@font-face { font-family: 'Roya'; src: url('../../roya.ttf'); } 
-.px-1 {
-    font-family: Roya; direction: rtl;
-}
-
-.px-1 p {
-    font-size:1.5em;
-}
-</style> 
 
 ![Khosro and Shirin](KhosroShirin.png)
 

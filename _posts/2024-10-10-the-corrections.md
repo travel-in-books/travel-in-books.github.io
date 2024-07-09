@@ -4,16 +4,6 @@ categories: [Short Story,Fiction]
 tags: [fiction,argentina,short stories,book club]
 ---
 
-<style type="text/css"> 
-@font-face { font-family: 'Roya'; src: url('../../roya.ttf'); } 
-.px-1 {
-    font-family: Roya; direction: rtl;
-}
-.px-1 p {
-    font-size:1.5em;
-}
-</style> 
-
 شخصیت ها:
 - آلفرد لمبرت: پدر خانواده لمبرت، مردی سخت‌گیر و بیمار به پارکینسون.
 - انی‌دون لمبرت: همسر آلفرد، زنی خانه‌دار که با مشکلات و نارضایتی‌های خود دست و پنجه نرم می‌کند.
