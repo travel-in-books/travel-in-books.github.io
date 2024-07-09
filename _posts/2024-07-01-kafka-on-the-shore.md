@@ -231,4 +231,4 @@ tags: [novel,japanese,fiction,kafka on the shore]
 
 
 این داستان همچنین بینگوی موراکامی را خوب کامل می کند:
-[Kafka on the shore (Bingo)](MurakamiBingo.jpg)
+![Kafka on the shore (Bingo)](MurakamiBingo.jpg)
