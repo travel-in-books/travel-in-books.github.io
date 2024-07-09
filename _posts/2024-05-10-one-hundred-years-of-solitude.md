@@ -4,15 +4,7 @@ categories: [Novel,Fiction]
 tags: [comedy,fiction,swedish,book club,columbia,magic realism]
 ---
 
-<style type="text/css"> 
-@font-face { font-family: 'Roya'; src: url('../../roya.ttf'); } 
-.px-1 {
-    font-family: Roya; direction: rtl;
-}
-.px-1 p {
-    font-size:1.5em;
-}
-</style> 
+
 
 <!-- ## صد سال تنهایی از گابریل گارسیا مارکز -->
 خوزه آرکادیو بوندیا Jose Arcadio Buendia

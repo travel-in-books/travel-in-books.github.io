@@ -4,7 +4,6 @@ categories: [Novel,Fiction]
 tags: [novel,japanese,fiction,norwegian wood]
 ---
 
-
 شخصیت‌های رمان:
 
 - سوکورو تازاکی (Tsukuru Tazaki) - شخصیت اصلی داستان، یک مرد که به دنبال فهم گذشته و دوستان قدیمی‌اش است.

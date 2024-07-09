@@ -4,21 +4,7 @@ categories: [Novel,Fiction]
 tags: [fiction,iran,armenian]
 ---
 
-<style type="text/css"> 
-@font-face { font-family: 'Roya'; src: url('../../roya.ttf'); } 
-.px-1 {
-    font-family: Roya; direction: rtl;
-}
-.px-1 p {
-    font-size:1.5em;
-}---
-title: داستان کوتاه های ایشیگورو
-categories: [Short Story,Fiction]
-tags: [fiction,uk,short stories]
----
-</style> 
 
-<!-- ## چراغ ها را من خاموش می کنم از زویا پیرزاد -->
 
 رمان "چراغ‌ها را من خاموش می‌کنم" نوشته زویا پیرزاد، شخصیت‌های اصلی شامل موارد زیر هستند:
 
