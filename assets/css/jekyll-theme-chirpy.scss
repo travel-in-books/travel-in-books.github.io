@@ -32,8 +32,10 @@ body {
     right: 0px;
 }
 
+@media (min-width: 769px) {
 #main-wrapper {
     right: 245px;
+}
 }
 
 span {
