@@ -10,7 +10,7 @@
 /* append your custom style below */
 @font-face { font-family: 'Roya'; src: url('../../roya.ttf'); } 
 
-body { font-family: Roya; }
+body { font-family: Roya, Arial, Helvetica, sans-serif; }
 
 .px-1 {
     direction: rtl;
@@ -27,14 +27,6 @@ body { font-family: Roya; }
 #post-list {
     direction: rtl;
 }
-
-// #search-input {
-//     direction: rtl;
-// }
-
-// #access-lastmod {
-//     direction: rtl;
-// }
 
 #related-posts {
     direction: rtl;
