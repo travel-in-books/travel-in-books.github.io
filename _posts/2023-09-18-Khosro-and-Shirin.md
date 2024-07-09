@@ -1,7 +1,7 @@
 ---
 title:   خسرو و شیرین از نظامی
-categories: [Novel,Fiction]
-tags: [persian,fiction,poem,classics]
+categories: [شعر,داستان]
+tags: [فارسی,ایران,شعر,کلاسیک]
 ---
 
 
