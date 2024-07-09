@@ -14,6 +14,10 @@ tags: [novel,japanese,fiction,norwegian wood]
 .px-1 p {
     font-size:1.5em;
 }
+
+.px-1 ul {
+    font-size:1.2em;
+}
 </style>  
 شخصیت‌های رمان:
 
