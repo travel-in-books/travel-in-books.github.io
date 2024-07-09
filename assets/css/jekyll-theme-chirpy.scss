@@ -28,9 +28,9 @@ body { font-family: Roya; }
     direction: rtl;
 }
 
-#search-input {
-    direction: rtl;
-}
+// #search-input {
+//     direction: rtl;
+// }
 
 // #access-lastmod {
 //     direction: rtl;
@@ -41,5 +41,9 @@ body { font-family: Roya; }
 }
 
 section {
+    direction: rtl;
+}
+
+#topbar {
     direction: rtl;
 }
