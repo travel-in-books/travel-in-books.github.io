@@ -1,0 +1,22 @@
+---
+---
+
+@import 'main
+{%- if jekyll.environment == 'production' -%}
+  .bundle
+{%- endif -%}
+';
+
+/* append your custom style below */
+@font-face { font-family: 'Roya'; src: url('../../roya.ttf'); } 
+.px-1 {
+    font-family: Roya; direction: rtl;
+}
+
+.px-1 p {
+    font-size:1.5em;
+}
+
+.px-1 ul {
+    font-size:1.2em;
+}
