@@ -18,4 +18,4 @@ tags: [داستان,آمریکا]
 
 
 <b id="f1">1</b> (ST. JUDE) [↩](#a1)
-<b id="f2">2</b> (The Failure) [↩](#a2)
+<br><b id="f2">2</b> (The Failure) [↩](#a2)
