@@ -21,5 +21,5 @@ tags: [داستان,آمریکا]
 
 
 
-<b id="f1">1</b> ST. JUDE [↩](#a1)
-<br><b id="f2">2</b> The Failure [↩](#a2)
+<b id="f1">1</b> <span class="footnote">ST. JUDE [↩]</span>(#a1)
+<br><b id="f2">2</b> <span class="footnote">The Failure [↩]</span>(#a2)
