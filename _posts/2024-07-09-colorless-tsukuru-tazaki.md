@@ -40,5 +40,5 @@ tags: [رمان,ژاپن,داستان]
 <br><b id="f2">2</b> <span class="footnote">Akamatsu</span>[↩](#a2)
 <br><b id="f3">3</b> <span class="footnote">Oumi</span>[↩](#a3)
 <br><b id="f4">4</b> <span class="footnote">Shiro</span>[↩](#a4)
-<br><b id="f4">5</b> <span class="footnote">Kuroda</span>[↩](#a5)
-<br><b id="f4">6</b> <span class="footnote">Sara Kimoto</span>[↩](#a6)
+<br><b id="f5">5</b> <span class="footnote">Kuroda</span>[↩](#a5)
+<br><b id="f6">6</b> <span class="footnote">Sara Kimoto</span>[↩](#a6)
