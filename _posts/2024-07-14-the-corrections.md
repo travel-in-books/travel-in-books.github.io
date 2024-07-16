@@ -20,5 +20,5 @@ tags: [داستان,آمریکا]
   - درخواست خرید یکی از اختراعات آلفرد
 
 
-<b id="f1">1</b> <span class="footnote">ST. JUDE [↩]</span>(#a1)
-<br><b id="f2">2</b> <span class="footnote">The Failure [↩]</span>(#a2)
+<b id="f1">1</b> <span class="footnote">ST. JUDE</span>[↩](#a1)
+<br><b id="f2">2</b> <span class="footnote">The Failure</span>[↩](#a2)
