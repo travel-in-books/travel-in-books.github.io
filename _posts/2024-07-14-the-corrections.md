@@ -19,6 +19,8 @@ tags: [داستان,آمریکا]
   - وضعیت بد پیچ، اخراج از دانشگاه به خاطر خوابیدن با یکی از دانشجوهایش، فیلنامه بدش
   - درخواست خرید یکی از اختراعات آلفرد
   - پیشنهاد کار به چیپ در ویلینیوس لیتوانی توسط شوهر جولبا
+- هر چه بیشتر درباره‌اش فکر می‌کرد، عصبانی‌تر می‌شد<sup id="a3">[3](#f3)</sup>
 
 <b id="f1">1</b> <span class="footnote">ST. JUDE</span>[↩](#a1)
 <br><b id="f2">2</b> <span class="footnote">The Failure</span>[↩](#a2)
+<br><b id="f3">3</b> <span class="footnote">The more he thought about it, the angrier he got</span>[↩](#a3)
