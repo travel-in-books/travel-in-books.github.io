@@ -9,5 +9,5 @@ tags: [طنز,روسیه,داستان کوتاه]
 
 ### در آرایشگاه<sup id="a2">[2](#f2)</sup>:
 
-<b id="f1">1</b><span class="footnote">[Oysters](http://www.online-literature.com/anton_chekhov/1121)</span>[↩](#a1)
-<br><b id="f2">2</b><span class="footnote">[At The Barber's](http://www.online-literature.com/anton_chekhov/1104)</span>[↩](#a2)
+<b id="f1">1</b><span class="footnote">Oysters</span>[↩](#a1)
+<br><b id="f2">2</b><span class="footnote">At The Barber's</span>[↩](#a2)
