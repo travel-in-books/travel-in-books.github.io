@@ -10,6 +10,5 @@ tags: [طنز,روسیه,داستان کوتاه]
 ### در آرایشگاه<sup id="a2">[2](#f2)</sup>:
 مرد آرایشگر متوجه می‌شود که دختر پدرخواتده‌اش که عاشقش بود ازدواج کرده به خاطرا اینکه پدرخوانده‌اش شغل اون و درآمدش را قبول ندارد. مرد آرایشگر دیگر می پدرخوانده‌اش را بدون پول نمی‌زند
 
-
-<b id="f1">1</b><span class="footnote">Oysters</span>[↩](#a1)
-<br><b id="f2">2</b><span class="footnote">At The Barber's</span>[↩](#a2)
+<b id="f1">1</b> <span class="footnote">Oysters </span>[↩](#a1)
+<br><b id="f2">2</b> <span class="footnote">At The Barber's</span>[↩](#a2)
