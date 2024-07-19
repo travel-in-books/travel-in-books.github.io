@@ -30,6 +30,8 @@ tags: [داستان,آمریکا]
   - سفر آنها با کشتی تفریحی
   - سیلویا دوست اینید در کشتی راجب کشته شدن دخترشان صحبت می‌کنند و اینکه گان‌آرت تولید می‌کرده است.
   - دکتر کشتی به اینید پیشنهاد قرص‌های اصلان را می‌دهد.
+  - آلفرد به دریا پرت می‌شود
+- ژنراتور<sup id="a4">[4](#f4)</sup> 
 
 
 
@@ -52,3 +54,4 @@ tags: [داستان,آمریکا]
 <b id="f1">1</b> <span class="footnote">ST. JUDE</span>[↩](#a1)
 <br><b id="f2">2</b> <span class="footnote">The Failure</span>[↩](#a2)
 <br><b id="f3">3</b> <span class="footnote">The more he thought about it, the angrier he got</span>[↩](#a3)
+<br><b id="f3">3</b> <span class="footnote">Generator</span>[↩](#a3)
