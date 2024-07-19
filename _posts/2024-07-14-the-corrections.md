@@ -54,4 +54,4 @@ tags: [داستان,آمریکا]
 <b id="f1">1</b> <span class="footnote">ST. JUDE</span>[↩](#a1)
 <br><b id="f2">2</b> <span class="footnote">The Failure</span>[↩](#a2)
 <br><b id="f3">3</b> <span class="footnote">The more he thought about it, the angrier he got</span>[↩](#a3)
-<br><b id="f3">3</b> <span class="footnote">Generator</span>[↩](#a3)
+<br><b id="f4">4</b> <span class="footnote">Generator</span>[↩](#a4)
