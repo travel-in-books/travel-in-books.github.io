@@ -13,6 +13,33 @@ mermaid: true
 - چیپ لمبرت: پسر میانی خانواده، استاد سابق دانشگاه که به دلیل مشکلات مالی و شغلی درگیر بحران‌های شخصی شده است.
 - دنیس لمبرت: دختر کوچک خانواده، که به عنوان سرآشپز در فیلادلفیا کار می‌کند و با هویت جنسی و روابطش دست و پنجه نرم می‌کند.
 
+
+```mermaid
+flowchart LR
+
+%% Colors %%
+classDef blue fill:#66deff,stroke:#000,color:#000
+classDef green fill:#6ad98b,stroke:#000,color:#000
+
+%% GENERATION 1 %%
+Fa1(Alfred):::green --- G3(Marriage):::blue
+Mo1(Enid):::green --- G3
+
+%% GENERATION 3 %%
+G3 --> U1(Gary):::green
+G3 --> U2(Chip):::green
+G3 --> U3(Denise):::green
+W1(Caroline):::green 
+%% G4 --- W1(Caroline):::green
+
+%% GENERATION 4 %%
+U1 --- G4(Marriage):::blue
+W1 --- G4(Marriage):::blue
+G4 --> C1(Jonah)
+G4 --> C2(Caleb)
+G4 --> C3(Aaron)
+```
+
 ### قسمت کوتاهی از شروع رمان
 جنون یک جبهه‌ی هوای سر پاییزه از سوی مرغزار هجوم می‌آورد. می‌شد احساسش کر: قرار بود اتفاق بدی بیفتد. خورشید در ارتفاعی کم در آسمان، نوری ضعیف، ستاره‌ای رو به سرد شدن. حمله‌ی بی‌امان آشفتگی. درختان بی‌قرار، دما رو به کاهش، کل کیش شمالی چیزها در حال پایان یافتن. دیگر خبری از بچه‌ها در حیاط خانه‌ها نیست. سایه‌ها بر چمن‌های خزنده‌ی رو به زرد شدن دراز شده بودند.
 
@@ -41,21 +68,15 @@ mermaid: true
   - جزییات زندگی رابین، همسر صاحب‌کار دنیس
   - برادر رابین که در اصل به فرزندی پذیرفته شده است
   - برادر رابین از بچگی ناآرام بوده و در حال حاضر سر خشونتی که نشان داده در زندان به سر می‌برد
+  - اخراج دنیس از سر کار
+- یک کریسمس آخر<sup id="a5">[5](#f5)</sup>
 
 ### در مورد داروی اصلان در کتاب
    داروی جدیدی به نام اصلان در حال فراگیر شدن ملت است و کارشناسان ادبی معتقدند که می تواند تصور مدرن از خود را به چالش بکشد. اصلان که بیشتر با نام خیابان مکزیکی A شناخته می‌شود، قرصی است که «اثر بازدارنده قابل‌توجهی بر شرم «عمیق» و «بیمارنده» دارد» (4.774). به عبارت دیگر، گیرندگان خود را قادر می سازد تا رابطه متفاوتی را با جهان تجربه کنند.
-
-```mermaid
-flowchart LR
-
-A[Hard] -->|Text| B(Round)
-B --> C{Decision}
-C -->|One| D[Result 1]
-C -->|Two| E[Result 2]
-```
 
 
 <b id="f1">1</b> <span class="footnote">ST. JUDE</span>[↩](#a1)
 <br><b id="f2">2</b> <span class="footnote">The Failure</span>[↩](#a2)
 <br><b id="f3">3</b> <span class="footnote">The more he thought about it, the angrier he got</span>[↩](#a3)
-<br><b id="f4">4</b> <span class="footnote">Generator</span>[↩](#a4)
+<br><b id="f4">4</b> <span class="footnote">The Generator</span>[↩](#a4)
+<br><b id="f5">5</b> <span class="footnote">One Last Christmas</span>[↩](#a5)
