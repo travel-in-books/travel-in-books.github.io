@@ -156,7 +156,7 @@ pwa:
 paginate: 10
 
 # The base URL of your site
-baseurl: "https://travel-in-books.github.io"
+baseurl: ""
 
 # ------------ The following options are not recommended to be modified ------------------
 
