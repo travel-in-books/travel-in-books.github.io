@@ -30,7 +30,15 @@ github:
 
 twitter:
   username: twitter_username # change to your twitter username
-
+  
+og:
+  type: "website"
+  title: "Gathering the moments of reading books - کتاب خوانی، داستان کوتاه"
+  description: "جمع آوری لحظات کتاب خوانی، داستان کوتاه"
+  url: "https://travel-in-books.github.io"
+  image: "https://raw.githubusercontent.com/travel-in-books/travel-in-books.github.io/820dd288cb9e7a913f74139d9fd83328191aaf19/circle_icon.png"
+  site_name: "Travel in Books"
+  
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
