@@ -72,6 +72,10 @@ G4 --> C3(Aaron)
   - خراب شدن اوضاع کار چیپ و رفتن به فرودگاه برای آمدن به آمریکا
 - یک کریسمس آخر<sup id="a5">[5](#f5)</sup>
   - جمع شدن بچه‌ها دور هم
+  - وضعیت خیلی بد بیماری آلفرد
+  - بردنش به بیمارستان
+- اصلاحات<sup id="a6">[6](#f6)</sup>
+
 
 ### وقایع‌نگاری
 
@@ -83,3 +87,4 @@ G4 --> C3(Aaron)
 <br><b id="f3">3</b> <span class="footnote">The more he thought about it, the angrier he got</span>[↩](#a3)
 <br><b id="f4">4</b> <span class="footnote">The Generator</span>[↩](#a4)
 <br><b id="f5">5</b> <span class="footnote">One Last Christmas</span>[↩](#a5)
+<br><b id="f6">6</b> <span class="footnote">The Corrections</span>[↩](#a6)
