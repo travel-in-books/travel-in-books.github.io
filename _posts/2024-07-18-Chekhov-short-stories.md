@@ -14,4 +14,10 @@ toc: true
 <b id="f1">1</b> <span class="footnote">Oysters </span>[↩](#a1)
 <br><b id="f2">2</b> <span class="footnote">At The Barber's</span>[↩](#a2)
 
-### الینکای عزیز<sup id="a2">[2](#f2)</sup>
+### الینکای عزیز<sup id="a3">[3](#f3)</sup>:
+الینکای عزیز داستان الینکا دختری است که از بچگی تا بزرگی همیشه باید عاشق کسی می‌بود. 
+
+
+<b id="f1">1</b> <span class="footnote">Oyster</span>[↩](#a1)
+<br><b id="f2">2</b> <span class="footnote">At Barber's</span>[↩](#a2)
+<br><b id="f3">3</b> <span class="footnote">The darling</span>[↩](#a3)
