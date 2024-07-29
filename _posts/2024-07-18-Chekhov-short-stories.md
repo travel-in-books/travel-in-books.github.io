@@ -13,3 +13,5 @@ toc: true
 
 <b id="f1">1</b> <span class="footnote">Oysters </span>[↩](#a1)
 <br><b id="f2">2</b> <span class="footnote">At The Barber's</span>[↩](#a2)
+
+### الینکای عزیز<sup id="a2">[2](#f2)</sup>
