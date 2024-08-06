@@ -90,11 +90,7 @@ toc: true
     - تورو با نردبان به پایین چاه می‌رود.
     - نصف دریچه چاه را که می‌بیند مثل ماه نیمه‌کامل است.
   - به‌ارث‌بردن اموال، پرس‌و‌جوی عروس دریایی، چیزی مثل حس جدایی
- 
-
- - toru ba nardeban be pain chah miravad 
-- nesfe dariche chah ra ke mibinad mese mahe nime kamel ast
-
+  
 ### وقایع‌نگاری
 - وقایع‌نگاری فصل اول
 
