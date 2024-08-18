@@ -17,8 +17,12 @@ toc: true
 ### بانو با سگ ملوس<sup id="a4">[4](#f4)</sup>:
 این داستان یک رابطه بین یک بانکدار متاهل مسکو و یک زن جوان متاهل را توصیف می کند که در حالی شروع می شود که هر دو به تنهایی در یالتا تعطیلات خود را سپری می کنند.
 
+### شرط‌بندی<sup id="a5">[5](#f5)</sup>
+
+
 
 <b id="f1">1</b> <span class="footnote">Oysters</span>[↩](#a1)
 <br><b id="f2">2</b> <span class="footnote">At The Barber's</span>[↩](#a2)
 <br><b id="f3">3</b> <span class="footnote">The darling</span>[↩](#a3)
 <br><b id="f4">4</b> <span class="footnote">The Lady with the Dog</span>[↩](#a4)
+<br><b id="f5">5</b> <span class="footnote">The Lady with the Dog</span>[↩](#a5)
