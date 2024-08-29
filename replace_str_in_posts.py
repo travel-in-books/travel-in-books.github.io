@@ -25,9 +25,29 @@ def replace_string_in_files(directory, target_string, replacement_string):
                 except Exception as e:
                     print(f"Error processing {file_path}: {e}")
 
+def print_files_without_string(folder_path, search_string):
+    # Iterate over all the files in the folder
+    for filename in os.listdir(folder_path):
+        if filename.endswith(".md"):
+            file_path = os.path.join(folder_path, filename)
+            
+            # Read the file contents
+            with open(file_path, 'r', encoding='utf-8') as file:
+                file_contents = file.read()
+            
+            # Check if the file does not contain the search string
+            if search_string not in file_contents:
+                print(f"File does not contain the string: {filename}")
+
 if __name__ == "__main__":
     directory_path = "_posts"  # Specify your directory path here
     search_text = "پینهاد سروش روحبخش"  # Specify the text you want to replace
     replace_text = "پیشنهاد سروش روحبخش"  # Specify the replacement text
 
-    replace_string_in_files(directory_path, search_text, replace_text)
+    #replace_string_in_files(directory_path, search_text, replace_text)
+
+    # Example usage
+    folder_path = "_posts"
+    search_string = "### نظر شخصی"
+
+    print_files_without_string(folder_path, search_string)
