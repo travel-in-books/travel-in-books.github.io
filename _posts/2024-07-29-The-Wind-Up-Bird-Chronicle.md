@@ -23,16 +23,12 @@ toc: true
 ### موضوع فصل‌ها
 
 #### کتاب اول: زاغی دزد، ژوئن تا ژوئیه ۱۹۸۴
-<!-- <details>
-  <summary>Click to expand/collapse</summary>
-
-  This is the content of the collapsible section.
-
-  - You can include lists
-  - Add various elements
-  - Any content you want!
-
-</details> -->
+<details>
+<summary>Click to expand/collapse</summary>
+- You can include lists
+- Add various elements
+- Any content you want!
+</details>
 1. پرنده کوکی سه‌شنبه، شش انگشت و ۴ پستان
   - زنی که انگار راوی را می‌شناسد به راوی تلفن می‌زند و از او تنها ۱۰ دقیفه وقت می‌خواهد.
   - کومیکو همسر راوی از او می‌خواد که دنبال گربه‌شان بگردد که مدت زیادی است پیدایش نیست
