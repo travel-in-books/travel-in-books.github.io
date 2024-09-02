@@ -5,6 +5,12 @@ tags: [داستان,انگلیس,پیشنهاد سروش روحبخش,گراها
 toc: true
 ---
 
+| Command | Description |
+| --- | --- |
+| git status | List all new or modified files |
+| git diff | Show file differences that haven't been staged |
+
+
 ### شخصیت ها
 آنیتا یک دختر پنج ساله مرده که پدر خوزه بر سر قبرش حاضر به دعا نیست.
 
