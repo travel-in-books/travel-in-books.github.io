@@ -5,6 +5,9 @@ tags: [داستان,انگلیس,پیشنهاد سروش روحبخش,گراها
 toc: true
 ---
 
+"یکی از رازهای تغییر در تعادل ذهنی که به درستی «تبدیل» نامیده شده است، این است که برای بسیاری از ما، نه آسمان و نه زمین هیچ مکاشفه‌ای ندارند تا زمانی که شخصیتی با تأثیری خاص آن‌ها را لمس کند و به حالت پذیرش فرو برد." ~ جورج الیوت
+<sup id="a6">[6](#f6)</sup>
+
 
 ### شخصیت ها
 <details>
@@ -34,3 +37,4 @@ toc: true
 <br><b id="f3">3</b> <span class="footnote">Lorraine Waldron</span> [↩](#a3)
 <br><b id="f4">4</b> <span class="footnote">Denise Sheridan</span> [↩](#a4)
 <br><b id="f5">5</b> <span class="footnote">Alan Sheridan</span> [↩](#a5)
+<br><b id="f6">6</b> <span class="footnote"> "It is one of the secrets in that change of mental poise which has been fitly named conversion, that to many among us neither heaven nor earth has any revelation till some personality touches theirs with a peculiar influence, subduing them into receptiveness." ~ George Elliot </span> [↩](#a6)
