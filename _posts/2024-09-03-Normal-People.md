@@ -10,12 +10,6 @@ toc: true
 
 
 ### شخصیت ها
-<sup id="a1">[1](#f1)</sup>
-<sup id="a2">[2](#f2)</sup>
-<sup id="a3">[3](#f3)</sup>
-<sup id="a4">[4](#f4)</sup>
-<sup id="a5">[5](#f5)</sup>
-
 <details>
   <summary>ماریان شریدان</summary>
 ماریان دختر باهوش، مستقل و گاهی منزوی است که در دوران مدرسه و دانشگاه دچار مشکلات عاطفی و اجتماعی می‌شود. او از یک خانواده‌ی مرفه می‌آید و رابطه‌ی پیچیده‌ای با مادر و برادرش دارد.
@@ -36,6 +30,13 @@ toc: true
   <summary>آلن شریدان</summary>
 برادر ماریان که رفتاری خشن و تحقیرآمیز با او دارد. رابطه‌ی او با ماریان یکی از منابع اصلی تنش در زندگی اوست.
 </details>
+
+اسم انگلیسی شخصیت‌ها:
+<sup id="a1">[1](#f1)</sup>
+<sup id="a2">[2](#f2)</sup>
+<sup id="a3">[3](#f3)</sup>
+<sup id="a4">[4](#f4)</sup>
+<sup id="a5">[5](#f5)</sup>
 
 <b id="f1">1</b> <span class="footnote">Marianne Sheridan</span>[↩](#a1)
 <br><b id="f2">2</b> <span class="footnote">Connell Waldron</span> [↩](#a2)
