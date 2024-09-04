@@ -67,9 +67,12 @@ def extract_infos(input_string,writer):
     tags = tags_match.group(1).split(',') if tags_match else []
 
     # Output
-    if 'از' in title:
-        title_author=title.split('از')
-        writer.writerow([title_author[0].strip(),title_author[1].strip()])
+    az = ' از '
+    print(title)
+    if az in title:
+        title_author=title.rsplit(az,maxsplit=1)
+        writer.writerow([title_author[1].strip(),title_author[0].strip()])
+            
     
     #print("Title:", title_author)
     #print("Categories:", [category.strip() for category in categories])
