@@ -45,6 +45,11 @@ toc: true
 <sup id="a4">[4](#f4)</sup>
 <sup id="a5">[5](#f5)</sup>
 
+### نظر شخصی
+
+برای من خیلی حوصله‌سربر بود. به جز دو شخصیت اصلی داستان بقیه شخصیت‌ها اصلا پرداخته نشده بودند و حتی رابطه شخصیت‌های اصلی داستان با آنها نیز خیلی پرداخت نشده بود
+
+
 <b id="f1">1</b> <span class="footnote">Marianne Sheridan</span>[↩](#a1)
 <br><b id="f2">2</b> <span class="footnote">Connell Waldron</span> [↩](#a2)
 <br><b id="f3">3</b> <span class="footnote">Lorraine Waldron</span> [↩](#a3)
