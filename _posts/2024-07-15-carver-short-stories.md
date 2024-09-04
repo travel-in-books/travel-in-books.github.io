@@ -5,6 +5,15 @@ tags: [داستان کوتاه,آمریکا,داستان]
 toc: true
 ---
 
+
+| نام اثر | داستان‌ کوتاه‌هایی |
+| نویسنده | ریموند کارور |
+| سال چاپ | 1981 |
+| کشور | آمریکا |
+| ژانر | رمان اجتماعی |
+| امتیاز | ⭐⭐⭐⭐⭐⭐⭐☆☆☆ 7/10 |
+
+
 ### کلیسای جامع<sup id="a1">[1](#f1)</sup>
 - هنر دیدن
 
@@ -26,3 +35,24 @@ toc: true
 <b id="f1">1</b> <span class="footnote">Cathedral (from the collection "Cathedradl")</span>[↩](#a1)
 <br><b id="f2">2</b> <span class="footnote">They are not your husband (from the collection "Will You Please Be Quiet, Please?")</span> [↩](#a2)
 <br><b id="f3">3</b> <span class="footnote">What We Talk About When We Talk About Love (from the collection with the same name)</span> [↩](#a3)
+
+
+### شخصیت ها
+- شخصیت اول: پدر خانواده
+- شخصیت دوم: مادر خانواده
+
+### قسمت کوتاهی از شروع رمان
+در این رمان، نویسنده از زبان پدر خانواده روایت می کند.
+
+### موضوع فصل‌ها
+- فصل اول: تیتر اول
+  - زیر فصل اول
+    - زیر فصل زیر فصل اول
+
+### وقایع‌نگاری
+- وقایع‌نگاری فصل اول
+
+### نظر شخصی
+
+
+
