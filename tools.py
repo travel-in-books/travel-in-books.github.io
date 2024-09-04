@@ -1,3 +1,4 @@
+import csv
 import os
 
 def replace_string_in_files(directory, target_string, replacement_string):
@@ -39,6 +40,59 @@ def print_files_without_string(folder_path, search_string):
             if search_string not in file_contents:
                 print(f"File does not contain the string: {filename}")
 
+def print_all_posts(folder_path):
+    for filename in os.listdir(folder_path):
+        if filename.endswith(".md"):
+            print(filename)
+
+
+def extract_infos(input_string,writer):
+    import re
+
+    # Regular expressions to capture title, categories, and tags
+    title_pattern = r'title:\s*(.*)'
+    categories_pattern = r'categories:\s*\[(.*?)\]'
+    tags_pattern = r'tags:\s*\[(.*?)\]'
+
+    # Extracting the title
+    title_match = re.search(title_pattern, input_string)
+    title = title_match.group(1).strip() if title_match else None
+
+    # Extracting the categories
+    categories_match = re.search(categories_pattern, input_string)
+    categories = categories_match.group(1).split(',') if categories_match else []
+
+    # Extracting the tags
+    tags_match = re.search(tags_pattern, input_string)
+    tags = tags_match.group(1).split(',') if tags_match else []
+
+    # Output
+    if 'از' in title:
+        title_author=title.split('از')
+        writer.writerow([title_author[0].strip(),title_author[1].strip()])
+    
+    #print("Title:", title_author)
+    #print("Categories:", [category.strip() for category in categories])
+    #print("Tags:", [tag.strip() for tag in tags])
+
+    #return title, 
+
+def get_files_for_extract_info(folder_path):
+    with open('table_of_posts.csv', 'w') as csvfile:
+        fieldnames = ['title', 'author', 'year']
+        writer = csv.writer(csvfile)
+        writer.writerow(fieldnames)
+
+        for filename in os.listdir(folder_path):
+            if filename.endswith(".md"):
+                file_path = os.path.join(folder_path, filename)
+                print(file_path)
+                # Read the file contents
+                with open(file_path) as input_file:
+                    file_contents = input_file.read()
+                    extract_infos(file_contents,writer)
+
+
 if __name__ == "__main__":
     directory_path = "_posts"  # Specify your directory path here
     search_text = "پینهاد سروش روحبخش"  # Specify the text you want to replace
@@ -50,4 +104,8 @@ if __name__ == "__main__":
     folder_path = "_posts"
     search_string = "### نظر شخصی"
 
-    print_files_without_string(folder_path, search_string)
+    #print_files_without_string(folder_path, search_string)
+
+    #print_all_posts(folder_path)
+
+    get_files_for_extract_info(folder_path)
