@@ -36,11 +36,14 @@ toc: true
 
 در اصل، استفاده موام از همنام یک تکنیک روایی آگاهانه و مؤثر است که مضامین داستان را غنی می‌کند و تجربه خواننده را از طریق کنایه، عمق موضوعی و پیش‌نمایش افزایش می‌دهد.
 
+## باران<sup id="a5">[5](#f5)</sup>
+
 
 <b id="f1">1</b> <span class="footnote">Mr. Know-All</span>[↩](#a1)
 <br><b id="f2">2</b> <span class="footnote">The three fat woman of Antibes</span> [↩](#a2)
 <br><b id="f3">3</b> <span class="footnote">A friend in need</span> [↩](#a3)
 <br><b id="f4">4</b> <span class="footnote">«A friend in need is a friend indeed»</span> [↩](#a4)
+<br><b id="f5">5</b> <span class="footnote">Rain</span> [↩](#a5)
 
 
 
