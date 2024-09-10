@@ -46,6 +46,9 @@ toc: true
 
 این شخصیت‌ها در طول اقامت اجباری‌شان در جزیره‌ای دورافتاده در جنوب دریاها، تعاملات شدیدی دارند که منجر به پایانی دراماتیک و پیچیده از نظر اخلاقی می‌شود.
 
+## یک نمونه بد
+
+
 <b id="f1">1</b> <span class="footnote">Mr. Know-All</span>[↩](#a1)
 <br><b id="f2">2</b> <span class="footnote">The three fat woman of Antibes</span> [↩](#a2)
 <br><b id="f3">3</b> <span class="footnote">A friend in need</span> [↩](#a3)
