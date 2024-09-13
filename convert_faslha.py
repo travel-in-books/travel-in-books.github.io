@@ -17,10 +17,10 @@ with open('faslha','r') as file:
         if contains_number_dot(line):
             if title != '':
                 output = output + f'''
-        <details>
-        <summary>{title}</summary>
-    {content}
-        </details>'''
+<details>
+<summary>{title}</summary>
+{content}
+</details>'''
             title = line.rstrip()
             content = ''
         else:
