@@ -113,3 +113,7 @@ summary {
 #page-tag ul > li > a {
     padding-right: 5px
 }
+
+#post-list .card-wrapper:not(:last-child) {
+    direction: rtl;
+}
