@@ -19,7 +19,7 @@ toc: true
 یک برادر و خواهر میانسال تنها در خانه بسیار بزرگ قدیمی‌شان که در آنجا بزرگ شده‌اند، زندگی می‌کنند بدون اینکه ازدواج کرده باشند.
 
 
-[ترجمه فارسی این داستان با تحلیل](http://www.chouk.ir/maghaleh-naghd-gotogoo/16765-2021-02-04-23-09-27.html)
+<!-- [ترجمه فارسی این داستان با تحلیل](http://www.chouk.ir/maghaleh-naghd-gotogoo/16765-2021-02-04-23-09-27.html) -->
 [کتاب صوتی انگلیسی در یوتیوب](https://www.youtube.com/watch?v=aWalas56tp8)
 
 <b id="f1">1</b> <span class="footnote">Bestiario</span>[↩](#a1)
