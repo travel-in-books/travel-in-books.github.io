@@ -14,7 +14,7 @@ toc: true
 
 
 ## مجموعه داستان رساله جانوران<sup id="a1">[1](#f1)</sup>
-
+[لینک تو مجموعه داستان به اسپانیایی](https://redescolar.ilce.edu.mx/sitios/micrositios/26_agosto_juliocortazar/doc/03_julio-cortazar-bestiario.pdf)
 #### خانه تسخیر شده
 ⭐⭐⭐⭐⭐⭐⭐⭐☆☆ 8/10
 
