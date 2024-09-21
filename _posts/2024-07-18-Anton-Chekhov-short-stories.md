@@ -53,4 +53,4 @@ toc: true
 <br><b id="f2">2</b> <span class="footnote">At The Barber's</span>[↩](#a2)
 <br><b id="f3">3</b> <span class="footnote">The darling</span>[↩](#a3)
 <br><b id="f4">4</b> <span class="footnote">The Lady with the Dog</span>[↩](#a4)
-<br><b id="f5">5</b> <span class="footnote">The Lady with the Dog</span>[↩](#a5)
+<br><b id="f5">5</b> <span class="footnote">The Bet </span>[↩](#a5)
