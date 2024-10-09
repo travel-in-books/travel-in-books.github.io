@@ -12,6 +12,8 @@ toc: true
 | ژانر | ادبیات داستانی |
 | امتیاز | ⭐⭐⭐⭐⭐⭐⭐⭐☆☆ 8/10 |
 
+[لینک به ورژن انگلیسی](https://standardebooks.org/ebooks/gustave-flaubert/madame-bovary/eleanor-marx-aveling)
+
 ### شخصیت‌ها
 
 <details>
