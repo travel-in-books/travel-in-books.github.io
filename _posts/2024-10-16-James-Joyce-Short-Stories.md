@@ -12,9 +12,9 @@ toc: true
 | ژانر | ادبی |
 | امتیاز | ⭐⭐⭐⭐⭐⭐⭐☆☆☆ 7/10 |
 
-از مجموعه دوبلینی‌ها
+## از مجموعه دوبلینی‌ها
 
-## مردگان<sup id="a1">[1](#f1)</sup>
+### مردگان<sup id="a1">[1](#f1)</sup>
 ⭐⭐⭐⭐⭐⭐⭐☆☆☆ 7/10
 
 [ورژن انگلیسی](https://blogs.baruch.cuny.edu/greatworks540spring2013/files/2013/03/James-Joyce_The-Dead.pdf)
