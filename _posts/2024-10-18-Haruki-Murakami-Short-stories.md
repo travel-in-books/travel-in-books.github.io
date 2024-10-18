@@ -57,7 +57,7 @@ toc: true
 </details>
 ------
 
-### بید نابینا، زن خوابیده<sup id="a3">[3](#f3)</sup>
+### بید نابینا، زن خفته<sup id="a3">[3](#f3)</sup>
 
 <details>
   <summary>خلاصه</summary
