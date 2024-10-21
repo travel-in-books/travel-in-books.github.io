@@ -49,8 +49,12 @@ toc: true
 ### شرط‌بندی<sup id="a5">[5](#f5)</sup>
 ⭐⭐⭐⭐⭐⭐⭐☆☆☆ 7/10
 
+----
+### تهمت<sup id="a6">[6](#f6)</sup>
+
 <b id="f1">1</b> <span class="footnote">Oysters</span>[↩](#a1)
 <br><b id="f2">2</b> <span class="footnote">At The Barber's</span>[↩](#a2)
 <br><b id="f3">3</b> <span class="footnote">The darling</span>[↩](#a3)
 <br><b id="f4">4</b> <span class="footnote">The Lady with the Dog</span>[↩](#a4)
 <br><b id="f5">5</b> <span class="footnote">The Bet</span>[↩](#a5)
+<br><b id="f6">6</b> <span class="footnote">The Slanderer</span>[↩](#a6)
