@@ -35,13 +35,18 @@ toc: true
 - خلاصه: چهار دوست با هم در مورد معنی عشق صحبت می‌کنند و هر کدام خاطراتی از خود و زوج‌های دیگر تعریف می‌کنند.
 ----
 
-### قطار
+### قطار<sup id="a4">[4](#f4)</sup>
 
-### پدر
+### پدر<sup id="a5">[5](#f5)</sup>
+
+### آلاسکا مگه چه خبر است؟<sup id="a6">[6](#f6)</sup>
 
 
 
 <b id="f1">1</b> <span class="footnote">Cathedral (from the collection "Cathedradl")</span>[↩](#a1)
 <br><b id="f2">2</b> <span class="footnote">They are not your husband (from the collection "Will You Please Be Quiet, Please?")</span> [↩](#a2)
 <br><b id="f3">3</b> <span class="footnote">What We Talk About When We Talk About Love (from the collection with the same name)</span> [↩](#a3)
+<br><b id="f4">4</b> <span class="footnote">The Train</span>[↩](#a4)
+<br><b id="f5">5</b> <span class="footnote">The Father</span>[↩](#a5)
+<br><b id="f6">6</b> <span class="footnote">What’s in Alaska</span>[↩](#a6)
 
