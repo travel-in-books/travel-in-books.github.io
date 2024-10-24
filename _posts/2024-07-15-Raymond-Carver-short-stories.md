@@ -46,7 +46,12 @@ toc: true
 ### پدر<sup id="a5">[5](#f5)</sup>
 
 ### آلاسکا مگه چه خبر است؟<sup id="a6">[6](#f6)</sup>
+<details>
+  <summary>خلاصه و تحلیل</summary>
+این داستان کوتاه در جلسات تحیلی داستان کوتاه مصطفی مستور بررسی شد. 
 
+سبک غالب مینیمالیسم و سمبولیسم می‌باشد. 
+</details>
 
 
 <b id="f1">1</b> <span class="footnote">Cathedral (from the collection "Cathedradl")</span>[↩](#a1)
