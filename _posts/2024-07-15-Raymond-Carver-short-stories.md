@@ -41,6 +41,14 @@ toc: true
 </details>
 ----
 
+### قطار<sup id="a4">[4](#f4)</sup>
+
+----
+
+### پدر<sup id="a5">[5](#f5)</sup>
+
+----
+
 ### آلاسکا مگه چه خبر است؟<sup id="a6">[6](#f6)</sup>
 <details>
   <summary>خلاصه و تحلیل</summary>
@@ -52,14 +60,6 @@ toc: true
 </details>
 ----
 
-
-### قطار<sup id="a4">[4](#f4)</sup>
-
-----
-
-### پدر<sup id="a5">[5](#f5)</sup>
-
-----
 
 
 
