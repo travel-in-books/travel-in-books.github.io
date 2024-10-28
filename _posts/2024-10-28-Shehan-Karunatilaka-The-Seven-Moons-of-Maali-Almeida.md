@@ -26,6 +26,10 @@ toc: true
 ماه اول
 پدر، آنها را ببخش، زیرا من هرگز نخواهم کرد.<sup id="a1">[1](#f1)</sup>
 
+### لینک‌ها
+
+(مقاله‌ای در مورد رمان)[https://www.sundaytimes.lk/190602/plus/a-dark-comedy-of-the-afterlife-351431.html]
+
 
 
 <b id="f1">1</b> <span class="footnote">“Father, forgive them, for I will never.”</span>[↩](#a1)
