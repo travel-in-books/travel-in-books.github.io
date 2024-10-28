@@ -26,6 +26,8 @@ toc: true
 ماه اول: 
 پدر، آنها را ببخش، زیرا من هرگز نخواهم کرد.<sup id="a1">[1](#f1)</sup>
 
+شما با جواب سوالی که همه می پرسند از خواب بیدار می شوید. پاسخ بله است و پاسخ درست مثل اینجا اما بدتر است. این تمام بینشی است که همیشه به دست خواهید آورد. بنابراین ممکن است دوباره بخوابید.<sup id="a2">[2](#f2)</sup>
+
 ### لینک‌ها
 
 (مقاله‌ای در مورد رمان)[https://www.sundaytimes.lk/190602/plus/a-dark-comedy-of-the-afterlife-351431.html]
@@ -33,4 +35,5 @@ toc: true
 
 
 <b id="f1">1</b> <span class="footnote">“Father, forgive them, for I will never.”</span>[↩](#a1)
+<b id="f2">2</b> <span class="footnote">You wake up with the answer to the question that everyone asks. The answer is Yes, and the answer is Just Like Here But Worse. That's all the insight you'll ever get. So you might as well go back to sleep.</span>[↩](#a2)
 
