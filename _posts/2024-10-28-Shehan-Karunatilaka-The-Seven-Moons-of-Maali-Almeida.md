@@ -23,10 +23,10 @@ toc: true
 
 ### فصل‌ها
 
-
-<details>
-  <summary>ماه اول</summary>
-پدر، آنها را ببخش، زیرا من هرگز نخواهم کرد.
+ماه اول
+پدر، آنها را ببخش، زیرا من هرگز نخواهم کرد.<sup id="a1">[1](#f1)</sup>
 
 
-</details>
+
+<b id="f1">1</b> <span class="footnote">“Father, forgive them, for I will never.”</span>[↩](#a1)
+
