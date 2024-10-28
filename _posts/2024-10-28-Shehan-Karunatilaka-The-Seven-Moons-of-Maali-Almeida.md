@@ -6,7 +6,7 @@ toc: true
 ---
 
 | نام اثر | هفت ماه مالی المیدا |
-| نام اصلی اثر | Yellowface |
+| نام اصلی اثر | The Seven Moons of Maali Almeida by Shehan Karunatilaka |
 | نویسنده | شهان کاروناتیلاکا |
 | سال چاپ | ۲۰۲۲  |
 | کشور | سری‌لانکا  |
