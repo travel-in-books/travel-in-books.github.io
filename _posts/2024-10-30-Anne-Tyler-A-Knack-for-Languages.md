@@ -12,12 +12,11 @@ toc: true
 | امتیاز | ⭐⭐⭐⭐⭐⭐⭐☆☆☆ 7/10 |
 
 
-
-
-
 ### ذوق زبان<sup id="a1">[1](#f1)</sup>
 ⭐⭐⭐⭐⭐⭐⭐☆☆☆ 7/10
+
 [لینک متن انگلیسی در نیویورکر](https://www.newyorker.com/magazine/1975/01/13/a-knack-for-languages)
+
 <details>
   <summary>خلاصه و تحلیل</summary>
 
