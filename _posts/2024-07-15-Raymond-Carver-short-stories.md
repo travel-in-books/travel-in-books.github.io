@@ -15,7 +15,9 @@ toc: true
 
 
 ### کلیسای جامع<sup id="a1">[1](#f1)</sup>
+
 ⭐⭐⭐⭐⭐⭐⭐⭐☆☆ 8/10
+
 <details>
   <summary>خلاصه و تحلیل</summary>
 هنر دیدن
