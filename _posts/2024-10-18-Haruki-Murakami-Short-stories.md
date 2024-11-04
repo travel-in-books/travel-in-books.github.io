@@ -99,4 +99,4 @@ toc: true
 <b id="f1">1</b> <span class="footnote">Hunting Knife</span>[↩](#a1)
 <br><b id="f2">2</b> <span class="footnote">Cream</span> [↩](#a2)
 <br><b id="f3">3</b> <span class="footnote">On a Stone Pillow</span> [↩](#a3)
-<br><b id="f3">3</b> <span class="footnote">The year of spagetti</span> [↩](#a3)
+<br><b id="f4">4</b> <span class="footnote">The year of spagetti</span> [↩](#a4)
