@@ -85,3 +85,16 @@ toc: true
   <summary>آقای ادواردز</summary>
 رئیس سابق کتی و قربانی دستکاری‌های او.
 </details>
+
+### موضوع فصل‌ها
+
+<details>
+<summary>فصل اول</summary>
+توضیح دره سالیناس
+</details>
+
+<details>
+<summary>فصل دوم</summary>
+تاریخچه خانواده همیلتون‌ها
+
+</details>
