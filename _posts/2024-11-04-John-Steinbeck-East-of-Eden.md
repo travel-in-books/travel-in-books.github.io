@@ -94,39 +94,38 @@ toc: true
 ```mermaid
 flowchart LR
 
-    %% Trask Family
-    CyrusTrask("Cyrus Trask")
-    AliceTrask("Alice Trask")
-    FirstWife("First Wife (Unnamed)")
-    
-    CyrusTrask -->|First Wife| AdamTrask("Adam Trask")
-    CyrusTrask -->|Alice Trask| CharlesTrask("Charles Trask")
-    
-    AdamTrask -->|Married| CathyAmes("Cathy Ames (Kate Ames)")
-    CathyAmes -->|Abandons| AdamTrask
-    AdamTrask -->|Children| AronTrask("Aron Trask") & CalTrask("Caleb 'Cal' Trask")
+%% Trask Family
+CyrusTrask("Cyrus Trask")
+AliceTrask("Alice Trask")
+FirstWife("First Wife (Unnamed)")
 
-    AronTrask -->|Love Interest| AbraBacon("Abra Bacon")
-    CalTrask -->|Love Interest| AbraBacon
-    
-    %% Hamilton Family
-    SamuelHamilton("Samuel Hamilton")
-    LizaHamilton("Liza Hamilton")
-    
-    SamuelHamilton -->|Married| LizaHamilton
-    
-    SamuelHamilton --> GeorgeHamilton("George Hamilton")
-    SamuelHamilton --> WillHamilton("Will Hamilton")
-    SamuelHamilton --> TomHamilton("Tom Hamilton")
-    SamuelHamilton --> JoeHamilton("Joe Hamilton")
-    SamuelHamilton --> UnaHamilton("Una Hamilton")
-    SamuelHamilton --> LizzieHamilton("Lizzie Hamilton")
-    SamuelHamilton --> MollieHamilton("Mollie Hamilton")
-    SamuelHamilton --> DessieHamilton("Dessie Hamilton")
-    
-    %% Relationships between families
-    SamuelHamilton -->|Mentor| AdamTrask
-    AdamTrask -->|Friend| SamuelHamilton
+CyrusTrask -->|First Wife| AdamTrask("Adam Trask")
+CyrusTrask -->|Alice Trask| CharlesTrask("Charles Trask")
+
+AdamTrask -->|Married| CathyAmes("Cathy Ames (Kate Ames)")
+CathyAmes -->|Abandons| AdamTrask
+AdamTrask -->|Children| AronTrask("Aron Trask") & CalTrask("Caleb 'Cal' Trask")
+AronTrask -->|Love Interest| AbraBacon("Abra Bacon")
+CalTrask -->|Love Interest| AbraBacon
+
+%% Hamilton Family
+SamuelHamilton("Samuel Hamilton")
+LizaHamilton("Liza Hamilton")
+
+SamuelHamilton -->|Married| LizaHamilton
+
+SamuelHamilton --> GeorgeHamilton("George Hamilton")
+SamuelHamilton --> WillHamilton("Will Hamilton")
+SamuelHamilton --> TomHamilton("Tom Hamilton")
+SamuelHamilton --> JoeHamilton("Joe Hamilton")
+SamuelHamilton --> UnaHamilton("Una Hamilton")
+SamuelHamilton --> LizzieHamilton("Lizzie Hamilton")
+SamuelHamilton --> MollieHamilton("Mollie Hamilton")
+SamuelHamilton --> DessieHamilton("Dessie Hamilton")
+
+%% Relationships between families
+SamuelHamilton -->|Mentor| AdamTrask
+AdamTrask -->|Friend| SamuelHamilton
 ```
 
 ### موضوع فصل‌ها
