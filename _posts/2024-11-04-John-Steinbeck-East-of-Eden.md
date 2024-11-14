@@ -90,6 +90,42 @@ toc: true
 رئیس سابق کتی و قربانی دستکاری‌های او.
 </details>
 
+flowchart LR
+    %% Trask Family
+    CyrusTrask("Cyrus Trask")
+    AliceTrask("Alice Trask")
+    FirstWife("First Wife (Unnamed)")
+    
+    CyrusTrask -->|First Wife| AdamTrask("Adam Trask")
+    CyrusTrask -->|Alice Trask| CharlesTrask("Charles Trask")
+    
+    AdamTrask -->|Married| CathyAmes("Cathy Ames (Kate Ames)")
+    CathyAmes -->|Abandons| AdamTrask
+    AdamTrask -->|Children| AronTrask("Aron Trask") & CalTrask("Caleb 'Cal' Trask")
+
+    AronTrask -->|Love Interest| AbraBacon("Abra Bacon")
+    CalTrask -->|Love Interest| AbraBacon
+    
+    %% Hamilton Family
+    SamuelHamilton("Samuel Hamilton")
+    LizaHamilton("Liza Hamilton")
+    
+    SamuelHamilton -->|Married| LizaHamilton
+    
+    SamuelHamilton --> GeorgeHamilton("George Hamilton")
+    SamuelHamilton --> WillHamilton("Will Hamilton")
+    SamuelHamilton --> TomHamilton("Tom Hamilton")
+    SamuelHamilton --> JoeHamilton("Joe Hamilton")
+    SamuelHamilton --> UnaHamilton("Una Hamilton")
+    SamuelHamilton --> LizzieHamilton("Lizzie Hamilton")
+    SamuelHamilton --> MollieHamilton("Mollie Hamilton")
+    SamuelHamilton --> DessieHamilton("Dessie Hamilton")
+    
+    %% Relationships between families
+    SamuelHamilton -->|Mentor| AdamTrask
+    AdamTrask -->|Friend| SamuelHamilton
+
+
 ### موضوع فصل‌ها
 
 بخش اول
@@ -172,6 +208,55 @@ toc: true
 <details>
 <summary>فصل دهم</summary>
 چارلز و آدام که با درگیریهای زیاد با هم زندگی می‌کنند
+
+</details>
+<summary>فصل یازدهم</summary>
 با کتی در جلوی درشان روبرو می‌شوند.
+با اینکه چارلز راضی نیست، آدام از کتی مراقبت می کند.
+در نهایت آدام با کتی ازدواج می‌کند. 
+کتی هم خود به بستر چارلز می‌رود.
+</details>
+<details>
+<summary>فصل دوازدهم</summary>
+در مورد دنیای نزدیک سال‌های اطراف ۱۹۰۰
+</details>
+<details>
+<summary>فصل سیزدهم</summary>
+آدامز و کتی به کالیفرنیا می‌روند (سالیناس)
+کتی تلاش کرده است که سقط جنین کند و دکتر او را تهدید می‌کند که دیگر این کار را نکند.
+کتی مظلوم می‌شود و دکتر به آدامز نمی گوید که کتی چه کرده است.
+آدامز با ساموئل ملاقات می‌کند که راجب شرایط زمین و کشاورزی در منطقه بپرسد.
+</details>
+<details>
+<summary>فصل چهاردهم</summary>
+راجب الیو مادر راوی می‌شنویم که با تلاش آموزگار می‌شود.
+ازدواج می‌کند و شوهرش می‌میرد.
+</details>
+<details>
+<summary>فصل پانزدهم</summary>
+آدام خدمتکار با اصل چینی‌اش به دنبال ساموئل می‌فرستد که در مورد آب پیدا کردن با او صحبت کند.
+ساموئل در راه با لی صحبت می‌کند و متوجه می‌شود که لی با اینکه در آمریکا بزرگ شده است به حرف زدنش لهجه اضافه می‌کند.
+ساموئل بعد از حدس زدن بخشی از زمین که اگه کنده شود احتمالا به آب می‌رسد برای غذا آنجا می‌ماند.
+سر غذا متوجه سردی عجیبی در فضای آدام و کتی می‌شود و هر چه تلاش می‌کند فضا را گرم کند نمی‌شود.
+در آخر با ترسی عجیب که در دلش افتاده خداحافظی می‌کند و به سمت خانه راه می‌افتد.
+</details>
+<details>
+<summary>فصل شانزدهم</summary>
+
+</details>
+<details>
+<summary>فصل هفدهم</summary>
+
+</details>
+<details>
+<summary>فصل هجدهم</summary>
+
+</details>
+<details>
+<summary>فصل نوزدهم</summary>
+
+</details>
+<details>
+<summary>فصل بیست</summary>
 
 </details>
