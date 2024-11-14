@@ -90,6 +90,8 @@ toc: true
 رئیس سابق کتی و قربانی دستکاری‌های او.
 </details>
 
+
+```mermaid
 flowchart LR
     %% Trask Family
     CyrusTrask("Cyrus Trask")
@@ -124,7 +126,7 @@ flowchart LR
     %% Relationships between families
     SamuelHamilton -->|Mentor| AdamTrask
     AdamTrask -->|Friend| SamuelHamilton
-
+```
 
 ### موضوع فصل‌ها
 
