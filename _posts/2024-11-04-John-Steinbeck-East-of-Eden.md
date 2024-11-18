@@ -241,15 +241,21 @@ toc: true
 </details>
 <details>
 <summary>فصل بیست و سوم</summary>
+توضیح در مورد خانواده همیلتون و بچه‌ها
 </details>
 <details>
 <summary>فصل بیست و چهارم</summary>
+بیشتر در مورد وضعیت ساموئل و خانواده‌اش
 </details>
 <details>
 <summary>فصل بیست و پنجم</summary>
+آدام پیش کیت می‌رود. 
+از خدمتکار کیت درگوشی می‌خورد. 
+کیت در مورد رابطه‌اش با چارلز برادر آدام صحبت می‌کند.
 </details>
 <details>
 <summary>فصل بیست و ششم</summary>
+بعد از برگشتن از پیش کیت آدام احساس بدی ندارد و حتی احساس خوبی دارد.
 </details>
 <details>
 <summary>فصل بیست و هفتم</summary>
