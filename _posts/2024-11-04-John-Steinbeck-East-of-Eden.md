@@ -223,9 +223,70 @@ toc: true
 </details>
 <details>
 <summary>فصل نوزدهم</summary>
-
+توضیح در مورد فاحشه‌خانه‌های مختلف و مادام‌های آن‌ها. 
+کتی که خود را کیت می‌نامد وارد یکی از آنها به ریاست مادام فی می‌شود و شغلی آنجا می گیرد.
 </details>
 <details>
 <summary>فصل بیست</summary>
-
+فی با رفتار کتی او را مانند دختر خود میداند و کتی او را یواش یواش می‌کشد
+</details>
+<details>
+<summary>فصل بیست و یکم</summary>
+فی مریض‌تر می‌شود و کتی کنترل فاحشه‌خانه رو در اختیار می گیرد و در نهایت فی می‌میرد.
+</details>
+<details>
+<summary>فصل بیست و دوم</summary>
+ساموئل به آدام کمک می‌کند تا شرایط را قبول کند و بچه‌هایش را بپذیرد.
+بچه‌ها اسم‌گذاری می‌شوند کالب و آرون.
+</details>
+<details>
+<summary>فصل بیست و سوم</summary>
+</details>
+<details>
+<summary>فصل بیست و چهارم</summary>
+</details>
+<details>
+<summary>فصل بیست و پنجم</summary>
+</details>
+<details>
+<summary>فصل بیست و ششم</summary>
+</details>
+<details>
+<summary>فصل بیست و هفتم</summary>
+</details>
+<details>
+<summary>فصل بیست و هشتم</summary>
+</details>
+<details>
+<summary>فصل بیست و نهم</summary>
+</details>
+<details>
+<summary>فصل سی </summary>
+</details>
+<details>
+<summary>فصل سی و یکم</summary>
+</details>
+<details>
+<summary>فصل سی و دوم</summary>
+</details>
+<details>
+<summary>فصل سی و سوم</summary>
+</details>
+<details>
+<summary>فصل سی و چهارم</summary>
+</details>
+<details>
+<summary>فصل سی و پنجم</summary>
+</details>
+<details>
+<summary>فصل سی و ششم</summary>
+</details>
+<details>
+<summary>فصل سی و هفتم</summary>
+</details>
+<details>
+<summary>فصل سی و هشتم</summary>
+</details>
+<details>
+<summary>فصل سی و نهم</summary>
 </details>
