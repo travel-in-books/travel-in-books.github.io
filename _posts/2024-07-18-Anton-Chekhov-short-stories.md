@@ -58,9 +58,25 @@ toc: true
 </details>
 
 ----
+### در پستخانه<sup id="a7">[7](#f7)</sup>
+⭐⭐⭐⭐⭐⭐⭐☆☆☆ 7/10
+<details>
+  <summary>خلاصه و تحلیل</summary>
+</details>
+
+----
+### شکارچی<sup id="a8">[8](#f8)</sup>
+⭐⭐⭐⭐⭐⭐⭐☆☆☆ 7/10
+<details>
+  <summary>خلاصه و تحلیل</summary>
+</details>
+
+----
 <b id="f1">1</b> <span class="footnote">Oysters</span>[↩](#a1)
 <br><b id="f2">2</b> <span class="footnote">At The Barber's</span>[↩](#a2)
 <br><b id="f3">3</b> <span class="footnote">The darling</span>[↩](#a3)
 <br><b id="f4">4</b> <span class="footnote">The Lady with the Dog</span>[↩](#a4)
 <br><b id="f5">5</b> <span class="footnote">The Bet</span>[↩](#a5)
 <br><b id="f6">6</b> <span class="footnote">The Slanderer</span>[↩](#a6)
+<br><b id="f7">7</b> <span class="footnote">In Post</span>[↩](#a7)
+<br><b id="f8">8</b> <span class="footnote">The huntsman</span>[↩](#a8)
