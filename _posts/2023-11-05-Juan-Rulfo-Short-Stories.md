@@ -18,6 +18,6 @@ toc: true
 Stream of conciousness
 جریال سیال ذهن
 
-[داستان و تحیلی آن به انگلیسی](https://www.gradesaver.com/the-burning-plain-and-other-stories/study-guide/summary-macario)
+[تحیل داستان به انگلیسی](https://www.gradesaver.com/the-burning-plain-and-other-stories/study-guide/summary-macario)
 
 <b id="f1">1</b> <span class="footnote">Macario</span>[↩](#a1)
