@@ -72,9 +72,6 @@ toc: true
 ----
 
 
-
-
-
 <b id="f1">1</b> <span class="footnote">Cathedral (from the collection "Cathedradl")</span>[↩](#a1)
 <br><b id="f2">2</b> <span class="footnote">They are not your husband (from the collection "Will You Please Be Quiet, Please?")</span> [↩](#a2)
 <br><b id="f3">3</b> <span class="footnote">What We Talk About When We Talk About Love (from the collection with the same name)</span> [↩](#a3)
