@@ -50,7 +50,10 @@ mermaid: true
 </details>
 
 ### موضوع فصل‌ها
-
+<details>
+  <summary>همسایه‌های خوب</summary>
+  راجب خانواده مری و والتر برگلوند
+</details>
 
 ### وقایع‌نگاری
 
