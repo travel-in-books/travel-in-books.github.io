@@ -15,4 +15,6 @@ toc: true
 
 
 
-### چاقوی شکاری<sup id="a1">[1](#f1)</sup>
+### داستان اول<sup id="a1">[1](#f1)</sup>
+
+<b id="f1">1</b> <span class="footnote">first story</span>[↩](#a1)
