@@ -61,7 +61,7 @@ toc: true
 
 # دختری که می‌شناختم<sup id="a4">[4](#f4)</sup>
 کلاس مصطفی مستور
-
+[ویکی‌پدیای انگلیسی](https://en.wikipedia.org/wiki/A_Girl_I_Knew)
 ⭐⭐⭐⭐⭐⭐☆☆☆☆ 6/10
 <details>
   <summary>خلاصه</summary>
