@@ -53,4 +53,4 @@ toc: true
 - خانم موری، منشی در زندان
 
 
-<b id="f1">1</b> <span class="footnote">Eileen</span>[↩](#a1)
+<b id="f1">1</b> <span class="footnote">Eileen by Ottessa Moshfegh</span>[↩](#a1)
