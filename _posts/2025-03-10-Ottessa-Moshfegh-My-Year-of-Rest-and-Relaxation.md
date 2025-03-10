@@ -14,4 +14,9 @@ toc: true
 
 تیتر انگلیسی<sup id="a1">[1](#f1)</sup>
 
+### شخصیت‌ها
+
+- دکتر تاتل
+- روا
+
 <b id="f1">1</b> <span class="footnote">My Year of Rest and Relaxation by Ottessa Moshfegh</span>[↩](#a1)
