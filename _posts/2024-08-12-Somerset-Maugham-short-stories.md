@@ -122,6 +122,18 @@ toc: true
 ------
 
 
+## ناهار<sup id="a11">[11](#f11)</sup>
+⭐⭐⭐⭐⭐⭐☆☆☆☆ 6/10
+
+[ورژن انگلیسی](https://online.htseden.co.za/wp-content/uploads/2021/05/The-Luncheon-Short-story.pdf)
+[کتاب گویای انگلیسی](https://www.youtube.com/watch?v=cM-14VwsRm0)
+<details>
+  <summary>خلاصه</summary>
+روایتی طنز از یک وعده غذایی با زنی که «خیلی غذا نمی‌خورد».
+</details>
+------
+
+
 <b id="f1">1</b> <span class="footnote">Mr. Know-All</span>[↩](#a1)
 <br><b id="f2">2</b> <span class="footnote">The three fat woman of Antibes</span> [↩](#a2)
 <br><b id="f3">3</b> <span class="footnote">A friend in need</span> [↩](#a3)
@@ -132,3 +144,4 @@ toc: true
 <br><b id="f8">8</b> <span class="footnote">The closed shop</span> [↩](#a8)
 <br><b id="f9">9</b> <span class="footnote">The Ant and the Grasshopper</span> [↩](#a9)
 <br><b id="f10">10</b> <span class="footnote">The Verger</span> [↩](#a10)
+<br><b id="f11">11</b> <span class="footnote">The Luncheon </span> [↩](#a11)
