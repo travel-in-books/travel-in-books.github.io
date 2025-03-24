@@ -134,6 +134,18 @@ toc: true
 ------
 
 
+## قرمز<sup id="a12">[12](#f12)</sup>
+⭐⭐⭐⭐⭐⭐☆☆☆☆ 6/10
+
+[ورژن انگلیسی](https://gutenberg.ca/ebooks/maughamws-completeshortstories03/maughamws-completeshortstories03-00-e.html#red)
+[کتاب گویای انگلیسی](https://www.youtube.com/watch?v=LylnDGAYUfA)
+<details>
+  <summary>خلاصه</summary>
+داستان مردی به نام رد را روایت می‌کند که زنی بومی به نام سالی را رها می‌کند و 25 سال بعد بدون شناخت به جزیره بازمی‌گردد.
+</details>
+------
+
+
 <b id="f1">1</b> <span class="footnote">Mr. Know-All</span>[↩](#a1)
 <br><b id="f2">2</b> <span class="footnote">The three fat woman of Antibes</span> [↩](#a2)
 <br><b id="f3">3</b> <span class="footnote">A friend in need</span> [↩](#a3)
@@ -144,4 +156,5 @@ toc: true
 <br><b id="f8">8</b> <span class="footnote">The closed shop</span> [↩](#a8)
 <br><b id="f9">9</b> <span class="footnote">The Ant and the Grasshopper</span> [↩](#a9)
 <br><b id="f10">10</b> <span class="footnote">The Verger</span> [↩](#a10)
-<br><b id="f11">11</b> <span class="footnote">The Luncheon </span> [↩](#a11)
+<br><b id="f11">11</b> <span class="footnote">The Luncheon</span> [↩](#a11)
+<br><b id="f12">12</b> <span class="footnote">Red</span> [↩](#a12)
