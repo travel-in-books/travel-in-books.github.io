@@ -110,6 +110,18 @@ toc: true
 </details>
 ------
 
+## خدمتکار کلیسا<sup id="a10">[10](#f10)</sup>
+⭐⭐⭐⭐⭐⭐☆☆☆☆ 6/10
+
+[ورژن انگلیسی](https://www.teachingenglish.org.uk/sites/teacheng/files/Maugham_The_Verger_0.pdf)
+[کتاب گویای انگلیسی](https://www.youtube.com/watch?v=j6NukM9_oak)
+<details>
+  <summary>خلاصه</summary>
+یک خدمتکار کلیسای متواضع شغل خود را از دست می دهد - و در نهایت در زندگی برنده می شود.
+</details>
+------
+
+
 <b id="f1">1</b> <span class="footnote">Mr. Know-All</span>[↩](#a1)
 <br><b id="f2">2</b> <span class="footnote">The three fat woman of Antibes</span> [↩](#a2)
 <br><b id="f3">3</b> <span class="footnote">A friend in need</span> [↩](#a3)
@@ -119,3 +131,4 @@ toc: true
 <br><b id="f7">7</b> <span class="footnote">The voice of the turtle</span> [↩](#a7)
 <br><b id="f8">8</b> <span class="footnote">The closed shop</span> [↩](#a8)
 <br><b id="f9">9</b> <span class="footnote">The Ant and the Grasshopper</span> [↩](#a9)
+<br><b id="f10">10</b> <span class="footnote">The Verger</span> [↩](#a10)
