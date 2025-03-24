@@ -99,6 +99,17 @@ toc: true
 </details>
 ------
 
+## مورچه و ملخ<sup id="a9">[9](#f9)</sup>
+⭐⭐⭐⭐⭐⭐☆☆☆☆ 6/10
+
+[ورژن انگلیسی](https://schools.ednet.ns.ca/avrsb/070/rsbennett/eng12/coursematerials/shortstories/Ant%20and%20grasshopper.pdf)
+[کتاب گویای انگلیسی](https://www.youtube.com/watch?v=03dfc5c4xEQ)
+<details>
+  <summary>خلاصه</summary>
+برداشتی شوخ‌آمیز از افسانه، همراه با طنز و رفتار انسانی.
+</details>
+------
+
 <b id="f1">1</b> <span class="footnote">Mr. Know-All</span>[↩](#a1)
 <br><b id="f2">2</b> <span class="footnote">The three fat woman of Antibes</span> [↩](#a2)
 <br><b id="f3">3</b> <span class="footnote">A friend in need</span> [↩](#a3)
@@ -107,3 +118,4 @@ toc: true
 <br><b id="f6">6</b> <span class="footnote">A bad example</span> [↩](#a6)
 <br><b id="f7">7</b> <span class="footnote">The voice of the turtle</span> [↩](#a7)
 <br><b id="f8">8</b> <span class="footnote">The closed shop</span> [↩](#a8)
+<br><b id="f9">9</b> <span class="footnote">The Ant and the Grasshopper</span> [↩](#a9)
