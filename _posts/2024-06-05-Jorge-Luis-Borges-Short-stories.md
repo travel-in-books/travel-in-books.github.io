@@ -54,9 +54,13 @@ Maneco Uriarte (مانکو اوریارته) and Duncan (دونکان)
 </details>
 ------
 
-## کتابخانه بابل
-- The library of Babel (La biblioteca de Babel)
-- 
+### کتابخانه بابل<sup id="a5">[5](#f5)</sup>
+⭐⭐⭐⭐⭐⭐⭐☆☆☆ 7/10
+<details>
+  <summary>خلاصه</summary>
+</details>
+------
+
 ## مردی در گوشه خیابان
 - Hombre de la Esquina Rosada (Man on Pink Corner)
 
@@ -103,3 +107,4 @@ Who Made the Angels Wait
 <br><b id="f2">2</b> <span class="footnote">El indigno (The unworthy friend)</span> [↩](#a2)
 <br><b id="f3">3</b> <span class="footnote">el encuentro (the encounter)</span> [↩](#a3)
 <br><b id="f4">4</b> <span class="footnote">Abenjacán el Bojarí, muerto en su laberinto (Ibn-Hakam al-Bokhari, Murdered in His Labyrinth)</span> [↩](#a4)
+<br><b id="f5">5</b> <span class="footnote">The library of Babel (La biblioteca de Babel)</span> [↩](#a5)
