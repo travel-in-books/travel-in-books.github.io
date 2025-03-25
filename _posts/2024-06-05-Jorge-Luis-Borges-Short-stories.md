@@ -87,11 +87,16 @@ Maneco Uriarte (مانکو اوریارته) and Duncan (دونکان)
 </details>
 ------
 
-## داستان از زبان رزندا خوارز 
-- Historia de Rosendo Juarez (The Story from Rosendo Juárez)
+### داستان از زبان رزندا خوارز<sup id="a8">[8](#f8)</sup>
+⭐⭐⭐⭐⭐⭐⭐☆☆☆ 7/10
+<details>
+  <summary>خلاصه</summary>
 - داستان کوتاه دیگرش "مردی در گوشه خیابان" از زبان یکی دیگر از شخصیت ها گفته می شود.
 Nabo: The Black Man
 Who Made the Angels Wait
+</details>
+------
+
 
 ## جنوب
 - El Sur (The South)
@@ -130,4 +135,6 @@ Who Made the Angels Wait
 <br><b id="f5">5</b> <span class="footnote">The library of Babel (La biblioteca de Babel)</span> [↩](#a5)
 <br><b id="f6">6</b> <span class="footnote">El Zahir (The Zahir)</span> [↩](#a6)
 <br><b id="f7">7</b> <span class="footnote">Hombre de la Esquina Rosada (Man on Pink Corner)</span> [↩](#a7)
+<br><b id="f8">8</b> <span class="footnote">Historia de Rosendo Juarez (The Story from Rosendo Juárez)</span> [↩](#a8)
 
+Historia de Rosendo Juarez (The Story from Rosendo Juárez)
