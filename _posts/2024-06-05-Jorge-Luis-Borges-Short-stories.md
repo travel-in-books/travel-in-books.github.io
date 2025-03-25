@@ -79,8 +79,13 @@ Maneco Uriarte (مانکو اوریارته) and Duncan (دونکان)
 </details>
 ------
 
-## مردی در گوشه خیابان
-- Hombre de la Esquina Rosada (Man on Pink Corner)
+### مردی در گوشه خیابان<sup id="a7">[7](#f7)</sup>
+⭐⭐⭐⭐⭐⭐⭐☆☆☆ 7/10
+<details>
+  <summary>خلاصه</summary>
+
+</details>
+------
 
 ## داستان از زبان رزندا خوارز 
 - Historia de Rosendo Juarez (The Story from Rosendo Juárez)
@@ -124,3 +129,5 @@ Who Made the Angels Wait
 <br><b id="f4">4</b> <span class="footnote">Abenjacán el Bojarí, muerto en su laberinto (Ibn-Hakam al-Bokhari, Murdered in His Labyrinth)</span> [↩](#a4)
 <br><b id="f5">5</b> <span class="footnote">The library of Babel (La biblioteca de Babel)</span> [↩](#a5)
 <br><b id="f6">6</b> <span class="footnote">El Zahir (The Zahir)</span> [↩](#a6)
+<br><b id="f7">7</b> <span class="footnote">Hombre de la Esquina Rosada (Man on Pink Corner)</span> [↩](#a7)
+
