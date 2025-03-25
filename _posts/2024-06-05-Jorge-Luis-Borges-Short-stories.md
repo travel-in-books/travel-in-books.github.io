@@ -42,15 +42,17 @@ toc: true
 ⭐⭐⭐⭐⭐⭐⭐☆☆☆ 7/10
 <details>
   <summary>خلاصه</summary>
-- Maneco Uriarte (مانکو اوریارته) and Duncan (دونکان)
-
+Maneco Uriarte (مانکو اوریارته) and Duncan (دونکان)
 </details>
 ------
 
-### ابن حُقان بخاری و مرگ او در هزارتوی خود
-- Abenjacán el Bojarí, muerto en su laberinto (Ibn-Hakam al-Bokhari, Murdered in His Labyrinth)
-- [داستان و توضیحات از زبان اورهان پاموک](https://www.newyorker.com/podcast/fiction/orhan-pamuk-reads-jorge-luis-borges)
-
+### ابن حُقان بخاری و مرگ او در هزارتوی خود<sup id="a4">[4](#f4)</sup>
+⭐⭐⭐⭐⭐⭐⭐☆☆☆ 7/10
+<details>
+  <summary>خلاصه</summary>
+[داستان و توضیحات از زبان اورهان پاموک](https://www.newyorker.com/podcast/fiction/orhan-pamuk-reads-jorge-luis-borges)
+</details>
+------
 
 ## کتابخانه بابل
 - The library of Babel (La biblioteca de Babel)
@@ -100,3 +102,4 @@ Who Made the Angels Wait
 <b id="f1">1</b> <span class="footnote">la forma de la speda (The form of the sword)</span>[↩](#a1)
 <br><b id="f2">2</b> <span class="footnote">El indigno (The unworthy friend)</span> [↩](#a2)
 <br><b id="f3">3</b> <span class="footnote">el encuentro (the encounter)</span> [↩](#a3)
+<br><b id="f4">4</b> <span class="footnote">Abenjacán el Bojarí, muerto en su laberinto (Ibn-Hakam al-Bokhari, Murdered in His Labyrinth)</span> [↩](#a4)
