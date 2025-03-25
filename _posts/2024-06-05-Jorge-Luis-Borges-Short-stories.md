@@ -14,21 +14,38 @@ toc: true
 | امتیاز | ⭐⭐⭐⭐⭐⭐⭐☆☆☆ 7/10 |
 
 
-### زخم شمشیر
-- la forma de la speda (The form of the sword)
+
+از اینجا می توان ورژن انگیسی بعضی از این داستان ها را می توان پیدا کرد:
+[Borges Short Stories](https://posthegemony.wordpress.com/wp-content/uploads/2013/02/borges_collected-fictions.pdf)
+
+
+
+### زخم شمشیر<sup id="a1">[1](#f1)</sup>
+⭐⭐⭐⭐⭐⭐⭐☆☆☆ 7/10
+<details>
+  <summary>خلاصه</summary>
 -  عمل يک انسان چنان است که گويي همه انسان‌ها مرتکب آن شده‌اند.
 - شوپنهاور حق داشت که گفت: من ديگرانم، هر انساني همه انسان‌هاست. به يک تعبير شکسپير همان وين‌سنت مون قابل تحقير است.
+</details>
+------
+
+### دوست نالوطی<sup id="a2">[2](#f2)</sup>
+⭐⭐⭐⭐⭐⭐⭐☆☆☆ 7/10
+<details>
+  <summary>خلاصه</summary>
+
+</details>
+------
 
 
-### دوست نالوطی
-- El indigno (The unworthy friend)
-- 
-
-
-### مواجهه
-- el encuentro (the encounter)
+### مواجهه<sup id="a3">[3](#f3)</sup>
+⭐⭐⭐⭐⭐⭐⭐☆☆☆ 7/10
+<details>
+  <summary>خلاصه</summary>
 - Maneco Uriarte (مانکو اوریارته) and Duncan (دونکان)
-- 
+
+</details>
+------
 
 ### ابن حُقان بخاری و مرگ او در هزارتوی خود
 - Abenjacán el Bojarí, muerto en su laberinto (Ibn-Hakam al-Bokhari, Murdered in His Labyrinth)
@@ -75,9 +92,11 @@ Who Made the Angels Wait
 - Escrito por Dios (The Writing of the God)
 - هیچی از داستان نفهمیدم :)
 
+## ظاهر
+- The Zahir (El Zahir)
+- 
 
 
-
-
-از اینجا می توان ورژن انگیسی بعضی از این داستان ها را می توان پیدا کرد:
-[Borges Short Stories](https://posthegemony.wordpress.com/wp-content/uploads/2013/02/borges_collected-fictions.pdf)
+<b id="f1">1</b> <span class="footnote">la forma de la speda (The form of the sword)</span>[↩](#a1)
+<br><b id="f2">2</b> <span class="footnote">El indigno (The unworthy friend)</span> [↩](#a2)
+<br><b id="f3">3</b> <span class="footnote">el encuentro (the encounter)</span> [↩](#a3)
