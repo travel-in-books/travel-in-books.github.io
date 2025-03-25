@@ -99,7 +99,7 @@ Who Made the Angels Wait
 
 ## پایان دوئل یا دوئلی دیگر
 - El otro duelo (The other duell)
-- دوئل بین مردان (گاچو) در مقابل داستان کوتله دوئل
+- دوئل بین مردان (گاچو) در مقابل داستان کوتاه دوئل
 
 ## مزاحم
 - La Intrusa (The Interloper)
