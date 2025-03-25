@@ -97,10 +97,13 @@ Who Made the Angels Wait
 </details>
 ------
 
-
-## جنوب
-- El Sur (The South)
+### جنوب<sup id="a9">[9](#f9)</sup>
+⭐⭐⭐⭐⭐⭐⭐☆☆☆ 7/10
+<details>
+  <summary>خلاصه</summary>
 - مردی که همیشه آرزوی زندگی و دیدن زمین های پدربزرگش در جنوب را دارد با یک برخورد کوچک با یه سطح تیز دچار عفونت سنگینی می شود که به بیمارستان منتقل می شود. 
+</details>
+------
 
 ## دوئل
 - El duelo (The duell)
@@ -136,5 +139,5 @@ Who Made the Angels Wait
 <br><b id="f6">6</b> <span class="footnote">El Zahir (The Zahir)</span> [↩](#a6)
 <br><b id="f7">7</b> <span class="footnote">Hombre de la Esquina Rosada (Man on Pink Corner)</span> [↩](#a7)
 <br><b id="f8">8</b> <span class="footnote">Historia de Rosendo Juarez (The Story from Rosendo Juárez)</span> [↩](#a8)
+<br><b id="f9">9</b> <span class="footnote">El Sur (The South)</span> [↩](#a9)
 
-Historia de Rosendo Juarez (The Story from Rosendo Juárez)
