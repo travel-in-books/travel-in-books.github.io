@@ -47,4 +47,15 @@ toc: true
 </details>
 ----
 
+### گل سرخی برای امیلی<sup id="a2">[2](#f2)</sup>
+
+⭐⭐⭐⭐⭐⭐⭐⭐☆☆ 8/10
+
+<details>
+  <summary>خلاصه و تحلیل</summary>
+
+</details>
+----
+
 <b id="f1">1</b> <span class="footnote">Dry September</span>[↩](#a1)
+<br><b id="f2">2</b> <span class="footnote">A Rose for Emily</span> [↩](#a2)
