@@ -16,6 +16,7 @@ toc: true
 ### آوای تندر<sup id="a1">[1](#f1)</sup>
 
 [ورژن انگلیسی](https://www.astro.sunysb.edu/fwalter/AST389/ASoundofThunder.pdf)
+[ورژن فارسی](https://web.archive.org/web/20080504160701/http://www.fantasy.ir/plugins/content/content.php?content.671)
 
 <details>
   <summary>خلاصه و تحلیل</summary>
