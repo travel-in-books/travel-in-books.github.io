@@ -16,7 +16,6 @@ toc: true
 ### برنده اسب گهواره‌ای<sup id="a1">[1](#f1)</sup>
 
 [ورژن انگلیسی](https://shortstoryproject.com/stories/the-rocking-horse-winner)
-[تحلیل فارسی](http://www.chouk.ir/maghaleh-naghd-gotogoo/17552-2022-02-25-20-44-24.html)
 
 <details>
   <summary>خلاصه و تحلیل</summary>
