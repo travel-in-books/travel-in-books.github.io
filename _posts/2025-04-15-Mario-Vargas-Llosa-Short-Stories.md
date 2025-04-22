@@ -16,6 +16,7 @@ toc: true
 ### رهبران<sup id="a1">[1](#f1)</sup>
 
 [ورژن فارسی](https://delights-of-vanity.github.io/posts/Angela-Carter-The-Kiss/)
+[ورژن انگلیسی](https://www.antalyakultursanat.org.tr/wp-content/uploads/2019/05/1.-The-Kiss-Angela-Carter.pdf)
 
 
 <b id="f1">1</b> <span class="footnote">Leaders</span>[↩](#a1)
