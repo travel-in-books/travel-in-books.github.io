@@ -71,7 +71,7 @@ toc: true
 
 ----
 
-### ایده<sup id="a8">[8](#f8)</sup>
+### فیل<sup id="a8">[8](#f8)</sup>
 [ورژن انگلیسی](https://hghsaicegladiators.weebly.com/uploads/1/1/3/2/1132782/summershortstories_elephant_lookingglass.pdf)
 <details>
   <summary>خلاصه و تحلیل</summary>
