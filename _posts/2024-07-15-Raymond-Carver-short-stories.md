@@ -79,7 +79,7 @@ toc: true
 </details>
 
 ----
-### صمیمیت<sup id="a8">[8](#f8)</sup>
+### صمیمیت<sup id="a9">[9](#f9)</sup>
 [ورژن انگلیسی](https://www.erhsnyc.org/ourpages/auto/2015/3/5/45636942/Intimacy.pdf)
 <details>
   <summary>خلاصه و تحلیل</summary>
