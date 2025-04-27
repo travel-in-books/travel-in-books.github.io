@@ -79,7 +79,14 @@ toc: true
 </details>
 
 ----
+### صمیمیت<sup id="a8">[8](#f8)</sup>
+[ورژن انگلیسی](https://www.erhsnyc.org/ourpages/auto/2015/3/5/45636942/Intimacy.pdf)
+<details>
+  <summary>خلاصه و تحلیل</summary>
+راوی به عنوان یک نویسنده به شهرت عمومی رسیده است. در جاده، بی‌خبر به خانه همسر سابقش سر می‌زند. چهار سال از آخرین ملاقاتشان می‌گذرد. ​​وقتی زن او را می‌بیند، شروع به تک‌گویی بی‌وقفه می‌کند و از رنج‌ها و خشم خود از خیانت او می‌گوید. از میان هجوم او، مشخص است که او عمیقاً به او و زندگی از دست رفته‌ای که با هم ساخته‌اند اهمیت می‌داد. پس از اینکه انتقاد تندش فروکش می‌کند، راوی در مقابل او زانو می‌زند و لبه لباسش را می‌گیرد. او خجالت می‌کشد و سپس نگران می‌شود که شوهر جدیدش به خانه برگردد و آنها را با هم ببیند. او اشاره می‌کند که دلیل ملاقات شوهر سابقش به دست آوردن مطالب جدید برای داستان‌هایش بوده است. او از او می‌خواهد که آنجا را ترک کند. مرد می‌رود.
+</details>
 
+----
 <b id="f1">1</b> <span class="footnote">Cathedral (from the collection "Cathedradl")</span>[↩](#a1)
 <br><b id="f2">2</b> <span class="footnote">They are not your husband (from the collection "Will You Please Be Quiet, Please?")</span> [↩](#a2)
 <br><b id="f3">3</b> <span class="footnote">What We Talk About When We Talk About Love (from the collection with the same name)</span> [↩](#a3)
@@ -88,4 +95,6 @@ toc: true
 <br><b id="f6">6</b> <span class="footnote">What’s in Alaska</span>[↩](#a6)
 <br><b id="f7">7</b> <span class="footnote">The Idea</span>[↩](#a7)
 <br><b id="f8">8</b> <span class="footnote">Elephant</span>[↩](#a8)
+<br><b id="f9">9</b> <span class="footnote">Intimicy</span>[↩](#a9)
+
 
