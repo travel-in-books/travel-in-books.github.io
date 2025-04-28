@@ -70,6 +70,23 @@ toc: true
 
 </details>
 
+---
+
+### بسیار دور<sup id="a4">[4](#f4)</sup>
+
+[ورژن فارسی](https://www.youtube.com/watch?v=qh7KXLSORIY)
+
+[تحلیل](https://mookseandgripes.com/reviews/2018/01/14/alice-munro-carried-away)
+
+<details>
+  <summary>خلاصه و تحلیل</summary>
+
+</details>
+
+---
+
 <b id="f1">1</b> <span class="footnote">Hateship Friendship Courtship Loveship Marriage</span>[↩](#a1)
 <br><b id="f2">2</b> <span class="footnote">Dear Life</span>[↩](#a2)
 <br><b id="f3">3</b> <span class="footnote">Amundsen</span>[↩](#a3)
+<br><b id="f4">4</b> <span class="footnote">Carried Away</span>[↩](#a4)
+
