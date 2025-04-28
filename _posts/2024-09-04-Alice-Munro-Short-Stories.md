@@ -48,9 +48,9 @@ toc: true
 
 ---
 
-### زندگی عزیز<sup id="a2">[2](#f2)</sup>
+### آموندسن<sup id="a2">[2](#f2)</sup>
 
-[ورژن فارسی](https://www.youtube.com/watch?v=GyPja7ndJCQ)
+[ورژن فارسی](https://www.youtube.com/watch?v=p2XdZ8t84E0)
 
 <details>
   <summary>خلاصه و تحلیل</summary>
