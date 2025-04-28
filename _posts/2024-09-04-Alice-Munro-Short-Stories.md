@@ -48,7 +48,7 @@ toc: true
 
 ---
 
-### آموندسن<sup id="a2">[2](#f2)</sup>
+### آموندسن<sup id="a3">[3](#f3)</sup>
 
 [ورژن فارسی](https://www.youtube.com/watch?v=p2XdZ8t84E0)
 
