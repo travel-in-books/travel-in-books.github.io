@@ -12,6 +12,8 @@ toc: true
 | ژانر | رمان ادبی |
 | امتیاز | ⭐⭐⭐⭐⭐⭐⭐☆☆☆ 7/10 |
 
+تیتر انگلیسی<sup id="a1">[1](#f1)</sup>
+
 ### شخصیت‌ها
 - خوزه آرکادیو بوندیا Jose Arcadio Buendia
 - اورسلا Ursula
@@ -35,5 +37,6 @@ toc: true
 
 ### نظر شخصی
 
+<b id="f1">1</b> <span class="footnote">One hundred years of solitude by Gabriel Garcia Marquez</span>[↩](#a1)
 
 
