@@ -28,4 +28,4 @@ toc: true
 
 
 
-<b id="f1">1</b> <span class="footnote">Kiss the Fair Face of God</span>[↩](#a1)
+<b id="f1">1</b> <span class="footnote">Kiss the Fair Face of God by Mostafa Mastoor</span>[↩](#a1)
