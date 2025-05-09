@@ -13,6 +13,8 @@ toc: true
 | ژانر | فانتزی   |
 | امتیاز | ⭐⭐⭐⭐⭐⭐⭐☆☆☆ 7/10  |
 
+تیتر انگلیسی<sup id="a1">[1](#f1)</sup>
+
 ### شخصیت‌ها
 
 مالی المیدا، یک عکاس مرده است که قصد دارد معمای مرگ خود را حل کند و یک هفته ("هفت ماه") به او فرصت داده می شود که در طی آن بتواند بین دنیای پس از مرگ و دنیای واقعی سفر کند. در این زمان، او امیدوار است که مجموعه‌ای از عکس‌ها را که زیر یک تخت ذخیره شده است، بازیابی کند و دوستانش را متقاعد کند که آنها را به طور گسترده به اشتراک بگذارند تا خشونت‌های جنگ داخلی سریلانکا را افشا کنند.
@@ -24,16 +26,16 @@ toc: true
 ### فصل‌ها
 
 ماه اول: 
-پدر، آنها را ببخش، زیرا من هرگز نخواهم کرد.<sup id="a1">[1](#f1)</sup>
+پدر، آنها را ببخش، زیرا من هرگز نخواهم کرد.<sup id="a2">[2](#f2)</sup>
 
-شما با جواب سوالی که همه می پرسند از خواب بیدار می شوید. پاسخ بله است و پاسخ درست مثل اینجا اما بدتر است. این تمام بینشی است که همیشه به دست خواهید آورد. بنابراین ممکن است دوباره بخوابید.<sup id="a2">[2](#f2)</sup>
+شما با جواب سوالی که همه می پرسند از خواب بیدار می شوید. پاسخ بله است و پاسخ درست مثل اینجا اما بدتر است. این تمام بینشی است که همیشه به دست خواهید آورد. بنابراین ممکن است دوباره بخوابید.<sup id="a3">[3](#f3)</sup>
 
 ### لینک‌ها
 
 (مقاله‌ای در مورد رمان)[https://www.sundaytimes.lk/190602/plus/a-dark-comedy-of-the-afterlife-351431.html]
 
 
-
-<b id="f1">1</b> <span class="footnote">“Father, forgive them, for I will never.”</span>[↩](#a1)
-<b id="f2">2</b> <span class="footnote">You wake up with the answer to the question that everyone asks. The answer is Yes, and the answer is Just Like Here But Worse. That's all the insight you'll ever get. So you might as well go back to sleep.</span>[↩](#a2)
+<b id="f1">1</b> <span class="footnote">The Seven Moons of Maali Almeida by Shehan Karunatilaka</span>[↩](#a1)
+<b id="f2">2</b> <span class="footnote">“Father, forgive them, for I will never.”</span>[↩](#a2)
+<b id="f3">3</b> <span class="footnote">You wake up with the answer to the question that everyone asks. The answer is Yes, and the answer is Just Like Here But Worse. That's all the insight you'll ever get. So you might as well go back to sleep.</span>[↩](#a3)
 

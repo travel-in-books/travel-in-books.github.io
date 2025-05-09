@@ -38,5 +38,5 @@ mermaid: true
 </details>
 
 
-<b id="f1">1</b> <span class="footnote">Blue Sisters from Coco Mellors</span>[↩](#a1)
+<b id="f1">1</b> <span class="footnote">Blue Sisters by Coco Mellors</span>[↩](#a1)
 <br><b id="f2">2</b> <span class="footnote">Avery, Bonnie, Nikki, Lucky</span> [↩](#a2)

@@ -326,5 +326,4 @@ toc: true
 
 ---
 
-
-<b id="f1">1</b> <span class="footnote">The History of Tom Jones, a Foundling</span>[↩](#a1)
+<b id="f1">1</b> <span class="footnote">The History of Tom Jones, a Foundling by Henry Fielding</span>[↩](#a1)

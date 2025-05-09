@@ -13,6 +13,7 @@ toc: true
 | ژانر | رمان اجتماعی |
 | امتیاز | ⭐⭐⭐⭐⭐⭐⭐⭐☆☆ 8/10 |
 
+تیتر انگلیسی<sup id="a1">[1](#f1)</sup>
 
 [کتاب صوتی انگلیسی](https://www.youtube.com/watch?v=PgZx_lrgWKE&t=13473s)
 
@@ -44,3 +45,5 @@ toc: true
  توله سگ گلدن رتریور کریستوفر که پدرش در انتهای کتاب برای او می خرد تا رابطه آنها را بازسازی کند.
 کشیش پیترز
  ناظر امتحان ریاضی کریستوفر.
+
+ <b id="f1">1</b><span class="footnote">The Curious Incident of the Dog in the Night Time by Mark Haddon</span>[↩](#a1)
