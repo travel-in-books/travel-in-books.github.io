@@ -24,4 +24,48 @@ toc: true
 
 چهار برادر، ایکنا، بوجا، اوبمبه و بنجامین
 
+### فصل‌ها
+
+لیست انگلیسی فصل‌های کتاب<sup id="a2">[2](#f2)</sup>
+
+1. ماهیگیران
+2. رودخانه
+3. عقاب
+4. مار پیتون
+5. دگردیسی
+6. دیوانه
+7. بازبان
+8. ملخ‌ها
+9. گنجشک
+10. قارچ
+11. عنکبوت‌ها
+12. سگ جستجوگر
+13. زالو
+14. لویاتان
+15. بچه‌قورباغه
+16. خروس‌ها
+17. بید
+18. اگرت‌ها (نوعی پرنده ماهی‌خوار سفید)
+
+
 <b id="f1">1</b> <span class="footnote">The Fishermen by Chigozie Obioma</span>[↩](#a1)
+<br><b id="f2">2</b> <span class="footnote">
+1. Fishermen
+2. The River
+3. The Eagle
+4. The Python
+5. The Metamorphosis
+6. The Madman
+7. The Falconer
+8. The Locusts
+9. The Sparrow
+10. The Fungus
+11. The Spiders
+12. The Searchdog
+13. The Leech
+14. The Leviathan
+15. The Tadpole
+16. The Roosters
+17. The Moth
+18. The Egrets
+</span>[↩](#a2)
