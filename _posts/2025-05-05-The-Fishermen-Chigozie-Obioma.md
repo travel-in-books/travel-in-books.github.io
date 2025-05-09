@@ -15,9 +15,7 @@ toc: true
 
 تیتر انگلیسی<sup id="a1">[1](#f1)</sup>
 
-
 ### خلاصه
-
 
 [خلاصه و جزییات  کتاب به انگلیسی](https://www.bookrags.com/studyguide-the-fishermen/#gsc.tab=0)
 
