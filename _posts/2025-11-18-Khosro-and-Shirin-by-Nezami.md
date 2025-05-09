@@ -5,7 +5,6 @@ tags: [فارسی,ایران,شعر,کلاسیک]
 toc: true
 ---
 
-
 | نام اثر | خسرو و شیرین |
 | نویسنده | نظامی |
 | سال چاپ | 1180 |
@@ -13,7 +12,7 @@ toc: true
 | ژانر | شعر کلاسیک |
 | امتیاز | ⭐⭐⭐⭐⭐⭐⭐⭐☆☆ 8/10 |
 
-
+تیتر انگلیسی<sup id="a1">[1](#f1)</sup>
 
 ![Khosro and Shirin](KhosroShirin.png)
 
@@ -23,6 +22,8 @@ toc: true
 
 
 ### نظر شخصی
+
+<b id="f1">1</b> <span class="footnote">Khosro and Shirin by Nezami</span>[↩](#a1)
 
 
 
