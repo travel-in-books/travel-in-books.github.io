@@ -12,9 +12,10 @@ toc: true
 | ژانر | رمان عاشقانه  |
 | امتیاز | ⭐☆☆☆☆☆☆☆☆☆ 1/10  |
 
+تیتر انگلیسی<sup id="a1">[1](#f1)</sup>
 
 "یکی از رازهای تغییر در تعادل ذهنی که به درستی «تبدیل» نامیده شده است، این است که برای بسیاری از ما، نه آسمان و نه زمین هیچ مکاشفه‌ای ندارند تا زمانی که شخصیتی با تأثیری خاص آن‌ها را لمس کند و به حالت پذیرش فرو برد." ~ جورج الیوت
-<sup id="a6">[6](#f6)</sup>
+<sup id="a2">[2](#f2)</sup>
 
 
 ### شخصیت ها
@@ -40,20 +41,19 @@ toc: true
 </details>
 
 اسم انگلیسی شخصیت‌ها:
-<sup id="a1">[1](#f1)</sup>
-<sup id="a2">[2](#f2)</sup>
 <sup id="a3">[3](#f3)</sup>
-<sup id="a4">[4](#f4)</sup>
-<sup id="a5">[5](#f5)</sup>
 
 ### نظر شخصی
 
 برای من خیلی حوصله‌سربر بود. به جز دو شخصیت اصلی داستان بقیه شخصیت‌ها اصلا پرداخته نشده بودند و حتی رابطه شخصیت‌های اصلی داستان با آنها نیز خیلی پرداخت نشده بود
 
 
-<b id="f1">1</b> <span class="footnote">Marianne Sheridan</span>[↩](#a1)
-<br><b id="f2">2</b> <span class="footnote">Connell Waldron</span> [↩](#a2)
-<br><b id="f3">3</b> <span class="footnote">Lorraine Waldron</span> [↩](#a3)
-<br><b id="f4">4</b> <span class="footnote">Denise Sheridan</span> [↩](#a4)
-<br><b id="f5">5</b> <span class="footnote">Alan Sheridan</span> [↩](#a5)
-<br><b id="f6">6</b> <span class="footnote"> "It is one of the secrets in that change of mental poise which has been fitly named conversion, that to many among us neither heaven nor earth has any revelation till some personality touches theirs with a peculiar influence, subduing them into receptiveness." ~ George Elliot </span> [↩](#a6)
+<b id="f1">1</b> <span class="footnote"></span>[↩](#a1)
+<br><b id="f2">2</b> <span class="footnote"> "It is one of the secrets in that change of mental poise which has been fitly named conversion, that to many among us neither heaven nor earth has any revelation till some personality touches theirs with a peculiar influence, subduing them into receptiveness." ~ George Elliot </span> [↩](#a2)
+<br><b id="f3">3</b> <span class="footnote">
+Marianne Sheridan
+Connell Waldron
+Lorraine Waldron
+Denise Sheridan
+Alan Sheridan
+</span> [↩](#a3)

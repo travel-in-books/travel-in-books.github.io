@@ -12,6 +12,7 @@ toc: true
 | ژانر | رمان سیاسی،اجتماعی،ادبی  |
 | امتیاز | ⭐⭐⭐⭐⭐⭐⭐⭐☆☆ 8/10  |
 
+تیتر انگلیسی<sup id="a1">[1](#f1)</sup>
 
 ### شخصیت‌ها
 <details>
@@ -335,3 +336,5 @@ Fellows یک شخصیت پیلاتس است. او از هرگونه دخالت �
 </details>
 
 [The summary and analysis of the book](https://www.cliffsnotes.com/literature/p/the-power-and-the-glory/about-the-power-and-the-glory)
+
+<b id="f1">1</b><span class="footnote">The power and the glory by Graham Greene</span>[↩](#a1)
