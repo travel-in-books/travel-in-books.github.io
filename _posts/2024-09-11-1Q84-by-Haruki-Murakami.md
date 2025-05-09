@@ -12,6 +12,8 @@ toc: true
 | ژانر | رمان فانتزی  |
 | امتیاز | ⭐⭐⭐⭐⭐⭐⭐☆☆☆ 7/10  |
 
+تیتر انگلیسی<sup id="a1">[1](#f1)</sup>
+
 ### شخصیت ها
 <details>
   <summary>آومامه</summary>
@@ -66,7 +68,7 @@ toc: true
 آومامه متوجه می شود که داستان واقعی است و در واقع یک دستورالعمل است. او مشکوک است که سوباسا در واقع یک دوهتا است، نه یک مازا که به نوعی فرار کرده است، و می‌داند که رهبران با سایه‌های دختران رابطه جنسی داشتند، نه خود دختران واقعی. آومامه معتقد است که او اکنون بخشی از تلاش علیه مردم کوچک است.
 </details>
 
-مفهوم دوهتا و مازاز خیلی برای دریافت ساده نیست.<sup id="a1">[1](#f1)</sup>
+مفهوم دوهتا و مازاز خیلی برای دریافت ساده نیست.<sup id="a2">[2](#f2)</sup>
 
 برای آدم کوچولو ها لینک بعدی کمک می کند:
 [لینک](https://wildmurakamichase.wordpress.com/tag/the-little-people/)
@@ -183,4 +185,5 @@ toc: true
 #### کتاب سوم: از اکتبر تا دسامبر
 
 
-<b id="f1">1</b> <span class="footnote">Maza and Dohta (maybe mother and daughter???)</span>[↩](#a1)
+<b id="f1">1</b> <span class="footnote">1Q84 by Haruki Murakami</span>[↩](#a1)
+<br><b id="f2">2</b> <span class="footnote">Maza and Dohta (maybe mother and daughter???)</span> [↩](#a2)
