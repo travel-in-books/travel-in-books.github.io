@@ -12,5 +12,9 @@ toc: true
 | ژانر | فلسفی  |
 | امتیاز | ⭐⭐⭐⭐⭐⭐⭐☆☆☆ 7/10  |
 
+تیتر انگلیسی<sup id="a1">[1](#f1)</sup>
+
 - خدا مرده است
 - ابرانسان
+
+<b id="f1">1</b> <span class="footnote">Thus Spoke Zarathustra by Friedrich Nietzsche</span>[↩](#a1)
