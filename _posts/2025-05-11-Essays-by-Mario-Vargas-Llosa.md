@@ -1,6 +1,6 @@
 ---
 title: مقاله‌ها از ماریو بارگاس یوسا
-categories: [Essay,Fiction Literature]
+categories: [مقاله,ادبیات غیر داستانی]
 tags: [پرو,مقاله]
 ---     
 
