@@ -13,7 +13,7 @@ toc: true
 | امتیاز | ⭐⭐⭐⭐⭐⭐☆☆☆☆ 6/10 |
 
 
-[کتاب صوتی شامل بعضی از داستان‌ها](https://www.youtube.com/watch?v=wBwb5HwaRpM&t=1948s):
+[کتاب صوتی فارسی شامل بعضی از داستان‌ها](https://www.youtube.com/watch?v=wBwb5HwaRpM&t=1948s):
 - سلاح سری
 - تخم مرغ
 - برده
