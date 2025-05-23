@@ -27,4 +27,4 @@ toc: true
 ---
 
 <b id="f1">1</b> <span class="footnote">L'arma segreta</span>[↩](#a1)
-<b id="f2">2</b> <span class="footnote">The Egg</span>[↩](#a2)
+<br><b id="f2">2</b> <span class="footnote">The Egg</span>[↩](#a2)
