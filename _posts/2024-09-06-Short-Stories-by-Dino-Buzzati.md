@@ -14,4 +14,9 @@ toc: true
 
 ### داستان اول<sup id="a1">[1](#f1)</sup>
 
+---
+
+### تخم‌مرغ<sup id="a2">[2](#f2)</sup>
+
 <b id="f1">1</b> <span class="footnote">first story</span>[↩](#a1)
+<b id="f2">2</b> <span class="footnote">The Egg</span>[↩](#a2)
