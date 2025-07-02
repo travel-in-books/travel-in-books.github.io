@@ -51,4 +51,4 @@ toc: true
 
 
 
-<b id="f1">1</b> <span class="footnote">The First Fifteen Lives of Harry August by Catherin Webb</span>[↩](#a1)
+<b id="f1">1</b> <span class="footnote">The First Fifteen Lives of Harry August by Catherine Webb</span>[↩](#a1)
