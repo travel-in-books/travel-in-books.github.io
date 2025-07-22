@@ -28,4 +28,4 @@ toc: true
 اگنس داروین، مهمان مهمانی که باعث تصادف بن می‌شود
 
 
-<b id="f1">1</b> <span class="footnote">Moon Palace by Paul Auster</span>[↩](#a1)
+<b id="f1">1</b> <span class="footnote">Leviathan by Paul Auster</span>[↩](#a1)
