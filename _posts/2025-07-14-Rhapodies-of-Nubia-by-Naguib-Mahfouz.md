@@ -60,5 +60,6 @@ toc: true
 
 <b id="f1">1</b> <span class="footnote">Rhadopies of Nubia by Naghib Mahfouz</span>[↩](#a1)
 <b id="f2">2</b> <span class="footnote">
-The Festival of Nile, The Sandal, The Palace of Biga, Tahu, Pharaoh, Love, The Shadow of Love, Benamun, Khnumhotep, Nitocris, The New Prime Minister, The two Queens, A Glimmer of Light, The Messenger, The Letter, Tahu's Delirium, The Waiting, The Meeting, The Shout in the Crowd, Hope and Poison, Arrow of the People, Farewell, Tahu's End, The End</span>[↩](#a2)
+The Festival of Nile, The Sandal, The Palace of Biga, Tahu, Pharaoh, Love, The Shadow of Love, Benamun, Khnumhotep, Nitocris, The New Prime Minister, The two Queens, A Glimmer of Light, The Messenger, The Letter, Tahu's Delirium, The Waiting, The Meeting, The Shout in the Crowd, Hope and Poison, Arrow of the People, Farewell, Tahu's End, The End
+</span>[↩](#a2)
 
