@@ -72,6 +72,9 @@ toc: true
 
 ---
 
+![The Poppy War](the_poppy_war.jpg)
+
+
 
 ### خلاصه
 
