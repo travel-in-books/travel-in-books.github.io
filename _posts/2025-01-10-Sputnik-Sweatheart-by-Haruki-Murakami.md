@@ -7,13 +7,11 @@ toc: true
 
 | نام اثر | دلدار اسپوتنیک |
 | نویسنده | هاروکی موراکامی |
+| نام اصلی اثر | Sputnik Sweatheart  |
 | سال چاپ | ۱۹۹۹ |
 | کشور | ژاپن |
 | ژانر | رمان اجتماعی |
 | امتیاز | ⭐⭐⭐⭐⭐⭐⭐⭐☆☆ 8/10 |
 
-تیتر انگلیسی<sup id="a1">[1](#f1)</sup>
-
 ### شخصیت‌ها
 
-<b id="f1">1</b><span class="footnote">Sputnik Sweatheart by Haruki Murakami</span>[↩](#a1)
