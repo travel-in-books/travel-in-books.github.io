@@ -153,3 +153,58 @@ toc: true
 <details>
   <summary>۲۶. پروفسور گوسفند وارد می‌شود</summary>
 </details>
+<details>
+  <summary>۲۷. پروفسور گوسفند همه را می‌خورد، همه را می‌گوید</summary>
+</details>
+<details>
+  <summary>۲۸. خداحافظی با هتل دلفین</summary>
+</details>
+
+بخش هشت - تعقیب گوسفند وحشی ۳
+<details>
+  <summary>۲۹. پیدایش، ظهور و سقوط شهرک جونیتاکی</summary>
+</details>
+<details>
+  <summary>۳۰. زوال بیشتر جونیتاکی و گوسفندانش</summary>
+</details>
+<details>
+  <summary>۳۱. شب در جونیتاکی</summary>
+</details>
+<details>
+  <summary>۳۲. پیچ بدشانسی در جاده</summary>
+</details>
+<details>
+  <summary>۳۳. او کوهستان را ترک می‌کند؛ اعتصاب غذا می‌کند</summary>
+</details>
+<details>
+  <summary>۳۴. یافته‌ای در گاراژ؛ افکاری در میان چراگاه</summary>
+</details>
+<details>
+  <summary>۳۵. مرد گوسفندی می‌آید</summary>
+</details>
+<details>
+  <summary>۳۶. شاهراه خصوصی بادها</summary>
+</details>
+<details>
+  <summary>۳۷. چیزهایی که آینه نشان می‌دهد، چیزهایی که آینه نشان نمی‌دهد</summary>
+</details>
+<details>
+  <summary>۳۸. شاهراه خصوصی بادها</summary>
+</details>
+<details>
+  <summary>۳۹. و اینگونه زمان می‌گذرد</summary>
+</details>
+<details>
+  <summary>۴۰. موشی که ساعت را کوک کرد</summary>
+</details>
+<details>
+  <summary>۴۱. طناب‌های سبز و طناب‌های قرمز؛ مرغ‌های دریایی یخ‌زده</summary>
+</details>
+<details>
+  <summary>۴۲. بازدید مجدد از پیچ بدشانسی</summary>
+</details>
+<details>
+  <summary>۴۳. قرار ملاقات ساعت دوازده</summary>
+</details>
+
+
