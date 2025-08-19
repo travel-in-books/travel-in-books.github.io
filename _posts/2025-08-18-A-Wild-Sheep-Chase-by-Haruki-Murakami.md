@@ -206,5 +206,8 @@ toc: true
 <details>
   <summary>۴۳. قرار ملاقات ساعت دوازده</summary>
 </details>
+<details>
+  <summary>۴۴. سخن پایانی</summary>
+</details>
 
 
