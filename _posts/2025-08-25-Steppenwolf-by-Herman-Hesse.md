@@ -15,7 +15,8 @@ toc: true
 
 ### خلاصه
 
-[متن انگلیسی](https://standardebooks.org/ebooks/hermann-hesse/steppenwolf/basil-creighton/text/harry-hallers-records)
+[متن انگلیسی ۱](https://standardebooks.org/ebooks/hermann-hesse/steppenwolf/basil-creighton/text/harry-hallers-records)
+[متن انگلیسی ۲](https://gutenberg.org/cache/epub/75756/pg75756-images.html)
 
 این کتاب به صورت دست‌نوشته‌ای ارائه شده است که توسط شخصیت اصلی آن، مردی میانسال به نام هری هالر، نوشته شده است که آن را به طور اتفاقی به یکی از آشنایانش، برادرزاده‌ی صاحبخانه‌اش، واگذار می‌کند. این آشنا مقدمه‌ای کوتاه اضافه می‌کند و دست‌نوشته را منتشر می‌کند. عنوان این کتاب «واقعی» درون کتاب، «یادداشت‌های هری هالر (فقط برای دیوانگان)» است.
 
