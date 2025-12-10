@@ -18,7 +18,7 @@ mermaid: true
 ### شخصیت‌ها
 
 - راس و ماریون هیلدبرانت، و چهار فرزندشان، کِلم، بکی، پری و جادسون (Russ and Marion Hildebrandt, and their four children, Clem, Becky, Perry, and Judson)
-- فرانسیس کاترل (Frances Cottrell)
+- فرانسیس کاترل (Frances Cottrell) و لری کاترل (Larry Cottrell) 
 - 
 
 
