@@ -64,6 +64,8 @@ toc: true
 
 ---
 
+### مرده اشتباهی‌ (Sette piani)
+
 <b id="f1">1</b> <span class="footnote">L'arma segreta</span>[↩](#a1)
 <br><b id="f2">2</b> <span class="footnote">L'uovo (The Egg)</span>[↩](#a2)
 <br><b id="f3">3</b> <span class="footnote">Schiavo (Slave)</span>[↩](#a3)
