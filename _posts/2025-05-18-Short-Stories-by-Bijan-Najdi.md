@@ -6,7 +6,7 @@ toc: true
 ---
 
 | نام اثر | یوزپلنگانی که با من دویده‌اند |
-| نام اصلی اثر | The Leopards Who Have Run with Me |
+| نام اصلی اثر | Short Stories by Bijan Najdi  |
 | نویسنده | بیژن نجدی |
 | سال چاپ | ۱۳۷۳  |
 | کشور | ایران  |

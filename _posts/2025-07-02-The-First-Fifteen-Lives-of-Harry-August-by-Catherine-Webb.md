@@ -6,7 +6,7 @@ toc: true
 ---
 
 | نام اثر | اولین پانزده زندگی هری آگوست |
-| نام اصلی اثر | The First Fifteen Lives of Harry August  |
+| نام اصلی اثر | The First Fifteen Lives of Harry August by Catherine Webb  |
 | نویسنده | کاترین وب |
 | سال چاپ | ۲۰۱۴  |
 | کشور | انگلیس  |

@@ -7,7 +7,7 @@ toc: true
 
 | نام اثر | ابداع مورل |
 | نویسنده | آدولفو بیوئی کاسارس |
-| نام اصلی اثر | La invención de Morel by Adolfo Bioy Casares  |
+| نام اصلی اثر | The Invention of Morel by Adolfo Bioy Casares  |
 | سال چاپ | ۱۹۴۰ |
 | کشور | آرژانتین |
 | ژانر | رمان ادبی |

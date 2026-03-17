@@ -7,7 +7,7 @@ toc: true
 
 | نام اثر | راهنمای مسافران مجانی کهکشان |
 | نویسنده | داگلاس آدامز |
-| نام اصلی اثر | The Hitchhiker's Guide to the Galaxy  |
+| نام اصلی اثر | The Hitchhikers Guide to the Galaxy by Douglas Adams  |
 | سال چاپ | ۱۹۸۵  |
 | کشور | انگلیس  |
 | ژانر | رمان   |

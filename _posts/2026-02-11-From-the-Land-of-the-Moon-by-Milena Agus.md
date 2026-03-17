@@ -7,7 +7,7 @@ toc: true
 
 | نام اثر | درد سنگ |
 | نویسنده | میلنا آگوس |
-| نام اصلی اثر | Mal di Pietre by Milena Agus  |
+| نام اصلی اثر | From the Land of the Moon by Milena Agus  |
 | سال چاپ | ۱۹۴۰ |
 | کشور | ایتالیا |
 | ژانر | رمان ادبی |

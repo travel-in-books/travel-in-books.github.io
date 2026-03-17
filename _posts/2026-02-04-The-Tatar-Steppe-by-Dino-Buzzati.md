@@ -7,7 +7,7 @@ toc: true
 
 | نام اثر | بیابان تاتارها |
 | نویسنده | دینو بوتزاتی |
-| نام اصلی اثر | The Tartar Steppe by Dino Buzzati  |
+| نام اصلی اثر | The Tatar Steppe by Dino Buzzati  |
 | سال چاپ | ۱۹۴۰ |
 | کشور | ایتالیا |
 | ژانر | رمان ادبی |

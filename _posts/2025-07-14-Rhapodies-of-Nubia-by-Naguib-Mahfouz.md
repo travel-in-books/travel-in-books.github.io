@@ -6,7 +6,7 @@ toc: true
 ---
 
 | نام اثر | رادوبیس نوبیا |
-| نام اصلی اثر | Rhadopies of Nubia  |
+| نام اصلی اثر | Rhapodies of Nubia by Naguib Mahfouz  |
 | نویسنده | نجیب محفوظ |
 | سال چاپ | ۱۹۴۳ |
 | کشور | مصر |

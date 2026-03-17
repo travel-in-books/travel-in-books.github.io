@@ -6,7 +6,7 @@ toc: true
 ---
 
 | نام اثر | نفوس مرده |
-| نام اصلی اثر | Dead Souls by Nikola Gogol |
+| نام اصلی اثر | Dead Souls by Nikolai Gogol  |
 | نویسنده | نیکلای گوگول |
 | سال چاپ | ۱۸۴۲ |
 | کشور | روسیه |

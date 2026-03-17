@@ -7,7 +7,7 @@ toc: true
 
 | نام اثر | راهنمای به آتش کشیدن خانه نویسندگان |
 | نویسنده | براک کلارک |
-| نام اصلی اثر | An Arsonist's Guide to Writers' Homes in New England  |
+| نام اصلی اثر | An Arsonists Guide to Writers Homes in New England by Brock Clarke  |
 | سال چاپ | ۲۰۰۷  |
 | کشور | آمریکا  |
 | ژانر | رمان   |

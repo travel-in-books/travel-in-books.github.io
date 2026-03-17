@@ -8,7 +8,7 @@ toc: true
 
 | نام اثر | سفر به انتهای شب |
 | نویسنده | لوییس فردینان سلین |
-| نام اصلی اثر | Journey to the End of the Night by Louis-Ferdinand Céline  |
+| نام اصلی اثر | Journey to the End of the Night by Louis Ferdinand Celine  |
 | سال چاپ | ۱۹۳۲ |
 | کشور | فرانسه |
 | ژانر | رمان نیمه خودزندگی‌نامه‌ای |

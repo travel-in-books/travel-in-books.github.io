@@ -7,7 +7,7 @@ toc: true
 
 | نام اثر | گهواره گربه |
 | نویسنده | کرت وانه‌گت |
-| نام اصلی اثر | The Cat's Cradle by Kurt Vonnegut  |
+| نام اصلی اثر | The Cats Cradle by Kurt Vonnegut  |
 | سال چاپ | ۱۹۶۳ |
 | کشور | آمریکا |
 | ژانر | رمان اجتماعی |

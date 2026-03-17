@@ -7,7 +7,7 @@ toc: true
 
 | نام اثر | زاما |
 | نویسنده | آنتونیو دی بندتو |
-| نام اصلی اثر | Mundo Animal by Antonio di Benedetto  |
+| نام اصلی اثر | Animal World by Antonio di Benedetto  |
 | سال چاپ | ۱۹۵۳ |
 | کشور | آرژانتین |
 | ژانر | ادبی |

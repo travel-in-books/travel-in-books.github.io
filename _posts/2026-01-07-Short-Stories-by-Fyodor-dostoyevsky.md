@@ -7,7 +7,7 @@ toc: true
 
 | نام اثر | داستان‌های کوتاه |
 | نویسنده | فیودور داستایفسکی |
-| نام اصلی اثر | Short Stories by Fyodor Dostoyevsky |
+| نام اصلی اثر | Short Stories by Fyodor dostoyevsky  |
 | سال چاپ | ۰۰۰۰ |
 | کشور | روسیه |
 | ژانر | داستان کوتاه |

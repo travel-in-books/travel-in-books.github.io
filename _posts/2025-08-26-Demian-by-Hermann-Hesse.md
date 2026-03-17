@@ -7,7 +7,7 @@ toc: true
 
 | نام اثر | دمیان |
 | نویسنده | هرمان هسه |
-| نام اصلی اثر | Demian. Die Geschichte einer Jugend  |
+| نام اصلی اثر | Demian by Hermann Hesse  |
 | سال چاپ | ۱۹۱۹ |
 | کشور | آلمان |
 | ژانر | رمان |

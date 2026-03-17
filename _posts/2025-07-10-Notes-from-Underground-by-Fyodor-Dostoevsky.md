@@ -7,7 +7,7 @@ toc: true
 
 | نام اثر | یادداشت‌های زیرزمینی |
 | نویسنده | فیودور داستایفسکی |
-| نام اصلی اثر | Notes from Underground  |
+| نام اصلی اثر | Notes from Underground by Fyodor Dostoevsky  |
 | سال چاپ | ۱۸۶۴ |
 | کشور | روسیه |
 | ژانر | رمان طنز اجتماعی |

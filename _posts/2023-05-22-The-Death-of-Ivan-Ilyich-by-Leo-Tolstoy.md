@@ -6,7 +6,7 @@ toc: true
 ---
 
 | نام اثر | مرگ ایوان ایلیچ |
-| نام اصلی اثر | The Death of Ivan Ilyich |
+| نام اصلی اثر | The Death of Ivan Ilyich by Leo Tolstoy  |
 | نویسنده | لیو تولستوی |
 | سال چاپ | ۱۸۸۶ |
 | کشور | روسیه |

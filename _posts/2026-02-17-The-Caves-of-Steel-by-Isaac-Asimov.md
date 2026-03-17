@@ -7,7 +7,7 @@ toc: true
 
 | نام اثر | غارهای پولادی |
 | نویسنده | ایزاک آسیموف |
-| نام اصلی اثر | Mal di Pietre by Milena Agus  |
+| نام اصلی اثر | The Caves of Steel by Isaac Asimov  |
 | سال چاپ | ۱۹۵۴ |
 | کشور | آمریکا |
 | ژانر | رمان ادبی |

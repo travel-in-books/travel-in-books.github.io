@@ -7,7 +7,7 @@ toc: true
 
 | نام اثر | دلدار اسپوتنیک |
 | نویسنده | هاروکی موراکامی |
-| نام اصلی اثر | Sputnik Sweatheart  |
+| نام اصلی اثر | Sputnik Sweatheart by Haruki Murakami  |
 | سال چاپ | ۱۹۹۹ |
 | کشور | ژاپن |
 | ژانر | رمان اجتماعی |

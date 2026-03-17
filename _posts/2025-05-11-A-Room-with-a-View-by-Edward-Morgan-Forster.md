@@ -6,7 +6,7 @@ toc: true
 ---
 
 | نام اثر | اتاقی با یک منظره |
-| نام اصلی اثر | A Room with a View by Edward Morgan |
+| نام اصلی اثر | A Room with a View by Edward Morgan Forster  |
 | نویسنده | ادوارد مورگان فورستر |
 | سال چاپ | ۱۹۰۸  |
 | کشور | انگلیس  |
