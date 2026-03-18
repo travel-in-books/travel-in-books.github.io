@@ -1,0 +1,130 @@
+{% if page.quiz %}
+<div class="book-quiz" dir="rtl">
+  <h3 class="quiz-title">🧠 آزمون کتاب</h3>
+  <div id="quiz-container-{{ page.slug }}"></div>
+  <div id="quiz-score-{{ page.slug }}" class="quiz-score-result" style="display:none"></div>
+</div>
+
+<style>
+.book-quiz {
+  background: var(--card-bg, #f9f9f9);
+  border: 1px solid var(--border-color, #ddd);
+  border-radius: 10px;
+  padding: 1.5rem 1.5rem 1rem;
+  margin: 2rem 0;
+  font-family: inherit;
+}
+.quiz-title {
+  margin: 0 0 1.2rem;
+  font-size: 1.1rem;
+  color: var(--heading-color, #333);
+  border-bottom: 1px solid var(--border-color, #ddd);
+  padding-bottom: 0.6rem;
+}
+.quiz-question {
+  margin-bottom: 1.4rem;
+}
+.quiz-q {
+  margin: 0 0 0.6rem;
+  font-size: 0.98rem;
+  line-height: 1.6;
+}
+.quiz-options {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 0.35rem;
+}
+.quiz-btn {
+  background: var(--card-bg, #fff);
+  border: 1px solid var(--border-color, #ccc);
+  border-radius: 6px;
+  padding: 0.45rem 0.9rem;
+  cursor: pointer;
+  font-family: inherit;
+  font-size: 0.93rem;
+  width: 100%;
+  text-align: right;
+  transition: background 0.15s, border-color 0.15s;
+  line-height: 1.5;
+}
+.quiz-btn:hover:not(:disabled) {
+  background: var(--hover-bg, #f0f0f0);
+  border-color: var(--link-color, #999);
+}
+.quiz-btn:disabled { cursor: default; }
+.quiz-btn.correct {
+  background: #d4edda;
+  border-color: #28a745;
+  color: #155724;
+  font-weight: bold;
+}
+.quiz-btn.wrong {
+  background: #f8d7da;
+  border-color: #dc3545;
+  color: #721c24;
+}
+.quiz-score-result {
+  margin-top: 1rem;
+  padding-top: 1rem;
+  border-top: 1px solid var(--border-color, #ddd);
+  font-size: 1.05rem;
+  font-weight: bold;
+  text-align: center;
+  color: var(--heading-color, #333);
+}
+</style>
+
+<script>
+(function () {
+  var data = {{ page.quiz | jsonify }};
+  var slugId = '{{ page.slug }}';
+  var container = document.getElementById('quiz-container-' + slugId);
+  var scoreEl = document.getElementById('quiz-score-' + slugId);
+  var answered = 0;
+  var score = 0;
+  var total = data.length;
+
+  data.forEach(function (item, qi) {
+    var qDiv = document.createElement('div');
+    qDiv.className = 'quiz-question';
+
+    var qText = document.createElement('p');
+    qText.className = 'quiz-q';
+    qText.innerHTML = '<strong>' + (qi + 1) + '. ' + item.q + '</strong>';
+    qDiv.appendChild(qText);
+
+    var ul = document.createElement('ul');
+    ul.className = 'quiz-options';
+
+    item.options.forEach(function (opt, oi) {
+      var li = document.createElement('li');
+      var btn = document.createElement('button');
+      btn.className = 'quiz-btn';
+      btn.textContent = opt;
+      btn.onclick = function () {
+        var btns = qDiv.querySelectorAll('.quiz-btn');
+        btns.forEach(function (b, bi) {
+          b.disabled = true;
+          if (bi === item.answer) b.classList.add('correct');
+        });
+        if (oi !== item.answer) btn.classList.add('wrong');
+        if (oi === item.answer) score++;
+        answered++;
+        if (answered === total) {
+          scoreEl.style.display = '';
+          scoreEl.textContent = 'نتیجه: ' + score + ' از ' + total + ' ✓';
+        }
+      };
+      li.appendChild(btn);
+      ul.appendChild(li);
+    });
+
+    qDiv.appendChild(ul);
+    container.appendChild(qDiv);
+  });
+})();
+</script>
+{% endif %}
