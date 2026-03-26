@@ -14,6 +14,8 @@ toc: true
 | ژانر | رمان ادبی |
 | امتیاز | ⭐⭐⭐⭐⭐⭐☆☆☆☆ 6/10 |
 
+[ورژن انگلیسی](https://www.kkoworld.com/kitablar/stendal_qirmizi_ve_qara-eng.pdf)
+
 
 # خلاصه
 
