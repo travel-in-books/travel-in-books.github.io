@@ -35,24 +35,29 @@ COUNTRY_FLAGS = {
   'سریلانکا'      => '🇱🇰',
 }.freeze
 
-# Matches any <a> with class containing "post-tag" whose sole text is a country name.
-TAG_LINK_RE = /<a([^>]+class="[^"]*post-tag[^"]*"[^>]*)>(%<country>s)<\/a>/
+# <a class="post-tag …">COUNTRY</a>  — tag pills on post cards and post pages
+TAG_PILL_RE   = /<a([^>]+class="[^"]*post-tag[^"]*"[^>]*)>(%<country>s)<\/a>/
 
-# Matches the value cell that follows a کشور (country) header cell in the info table.
-TABLE_COUNTRY_RE = /(<td>کشور<\/td>\s*<td>)(%<country>s)(<\/td>)/
+# <a class="tag" …>\n  COUNTRY<span  — tag cloud on /tags/ list page
+TAG_CLOUD_RE  = /(<a[^>]+class="tag"[^>]*>)(\s*)(%<country>s)(\s*<span)/m
+
+# <i class="fa fa-tag…"></i>\n  COUNTRY\n  <span  — h1 on individual tag archive page
+TAG_H1_RE     = /(<i[^>]*fa-tag[^>]*><\/i>)(\s*)(%<country>s)(\s*<span)/m
+
+# <td>کشور</td><td>COUNTRY</td>  — info table row in each post
+TABLE_RE      = /(<td>کشور<\/td>\s*<td>)(%<country>s)(<\/td>)/
 
 Jekyll::Hooks.register [:pages, :documents], :post_render do |doc|
   next unless doc.output_ext == '.html'
   next unless doc.output
 
   COUNTRY_FLAGS.each do |country, flag|
-    escaped = Regexp.escape(country)
-
-    tag_re   = Regexp.new(TAG_LINK_RE.source   % { country: escaped })
-    table_re = Regexp.new(TABLE_COUNTRY_RE.source % { country: escaped })
+    e = Regexp.escape(country)
 
     doc.output = doc.output
-      .gsub(tag_re,   "<a\\1>#{flag} #{country}</a>")
-      .gsub(table_re, "\\1#{flag} #{country}\\3")
+      .gsub(Regexp.new(TAG_PILL_RE.source  % { country: e }),           "<a\\1>#{flag} #{country}</a>")
+      .gsub(Regexp.new(TAG_CLOUD_RE.source % { country: e }, Regexp::MULTILINE), "\\1\\2#{flag} #{country}\\4")
+      .gsub(Regexp.new(TAG_H1_RE.source    % { country: e }, Regexp::MULTILINE), "\\1\\2#{flag} #{country}\\4")
+      .gsub(Regexp.new(TABLE_RE.source     % { country: e }),            "\\1#{flag} #{country}\\3")
   end
 end
