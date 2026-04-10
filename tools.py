@@ -1,6 +1,10 @@
 import csv
 import os
 
+def format_rating(score):
+    return '⭐' * score + '☆' * (10 - score) + f' {score}/10'
+
+
 def replace_string_in_files(directory, target_string, replacement_string):
     """
     Replaces all occurrences of target_string with replacement_string in all .md files within the specified directory.

@@ -1,5 +1,6 @@
 import csv
 import os
+from tools import format_rating
 
 
 def generate_book_table(title, author, year, country, genre, rating):
@@ -26,7 +27,7 @@ with open('table_of_posts.csv') as csvfile:
         with open(file_path, 'r', encoding='utf-8') as file:
             file_contents = file.read()
             if 'نام اثر' not in file_contents:
-                rating = '⭐'*int(row[7]) + '☆'*(10-int(row[7])) + ' ' + row[7] + '/10'
+                rating = format_rating(int(row[7]))
 
                 header_for_book = generate_book_table(row[0],row[1],row[2],row[3],row[8],rating)
                 #print(header_for_book)
