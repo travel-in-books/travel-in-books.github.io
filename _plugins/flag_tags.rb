@@ -45,7 +45,8 @@ TAG_CLOUD_RE  = /(<a[^>]+class="tag"[^>]*>)(\s*)(%<country>s)(\s*<span)/m
 TAG_H1_RE     = /(<i[^>]*fa-tag[^>]*><\/i>)(\s*)(%<country>s)(\s*<span)/m
 
 # <td>کشور</td><td>COUNTRY</td>  — info table row in each post
-TABLE_RE      = /(<td>کشور<\/td>\s*<td>)(%<country>s)(<\/td>)/
+# (compress_html strips optional </td> tags in production, so </td> is optional)
+TABLE_RE      = /(<td>کشور(?:<\/td>)?\s*<td>)(%<country>s)/
 
 Jekyll::Hooks.register [:pages, :documents], :post_render do |doc|
   next unless doc.output_ext == '.html'
@@ -58,6 +59,6 @@ Jekyll::Hooks.register [:pages, :documents], :post_render do |doc|
       .gsub(Regexp.new(TAG_PILL_RE.source  % { country: e }),           "<a\\1>#{flag} #{country}</a>")
       .gsub(Regexp.new(TAG_CLOUD_RE.source % { country: e }, Regexp::MULTILINE), "\\1\\2#{flag} #{country}\\4")
       .gsub(Regexp.new(TAG_H1_RE.source    % { country: e }, Regexp::MULTILINE), "\\1\\2#{flag} #{country}\\4")
-      .gsub(Regexp.new(TABLE_RE.source     % { country: e }),            "\\1#{flag} #{country}\\3")
+      .gsub(Regexp.new(TABLE_RE.source     % { country: e }),            "\\1#{flag} #{country}")
   end
 end
