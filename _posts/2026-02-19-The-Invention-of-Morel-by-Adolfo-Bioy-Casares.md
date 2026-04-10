@@ -12,7 +12,7 @@ toc: true
 | سال چاپ | ۱۹۴۰ |
 | کشور | آرژانتین |
 | ژانر | رمان ادبی |
-| امتیاز | ⭐⭐⭐⭐⭐⭐☆☆☆☆ 6/10 |
+| امتیاز | {% include rating.html score=6 %} |
 
 [کتاب صوتی](https://www.youtube.com/watch?v=6PD4GKV684w)
 

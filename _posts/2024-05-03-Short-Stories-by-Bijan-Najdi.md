@@ -12,7 +12,7 @@ toc: true
 | نام اصلی اثر | Short Stories by Bijan Najdi  |
 | سال چاپ | ۱۹۹۴ |
 | کشور | آمریکا |
-| امتیاز | ⭐⭐⭐⭐⭐⭐⭐☆☆☆ 7/10 |
+| امتیاز | {% include rating.html score=7 %} |
 
 
 ### سپرده به زمین

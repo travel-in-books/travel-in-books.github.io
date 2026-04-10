@@ -12,7 +12,7 @@ toc: true
 | سال چاپ | ۲۰۰۵ |
 | کشور | ژاپن |
 | ژانر | فانتزی |
-| امتیاز | ⭐⭐⭐⭐⭐⭐☆☆☆☆ 6/10 |
+| امتیاز | {% include rating.html score=6 %} |
 
 
 ### چاقوی شکاری<sup id="a1">[1](#f1)</sup>
@@ -60,7 +60,7 @@ toc: true
 ### بید نابینا، زن خفته<sup id="a3">[3](#f3)</sup>
 
 | سال چاپ | ۱۹۸۳  |
-| امتیاز | ⭐⭐⭐⭐⭐⭐⭐☆☆☆ 7/10 |
+| امتیاز | {% include rating.html score=7 %} |
 
 <details>
   <summary>خلاصه</summary>
@@ -76,7 +76,7 @@ toc: true
 ### سال اسپاگتی<sup id="a4">[4](#f4)</sup>
 
 | سال چاپ | ۲۰۰۶  |
-| امتیاز | ⭐⭐⭐⭐⭐⭐⭐☆☆☆ 7/10 |
+| امتیاز | {% include rating.html score=7 %} |
 
 [ورژن صوتی فارسی](https://www.youtube.com/watch?v=j5bx6qMt7gU&list=WL&index=19&t=2554s), [ورژن انگلیسی](https://www.newyorker.com/magazine/2021/09/06/magazine20051121the-year-of-spaghetti)
 

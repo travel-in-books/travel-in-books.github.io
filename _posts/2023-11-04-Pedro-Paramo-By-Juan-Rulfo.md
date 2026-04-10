@@ -25,7 +25,7 @@ quiz:
 | سال چاپ | ۱۹۵۵ |
 | کشور | مکزیک |
 | ژانر | رمان ادبی |
-| امتیاز | ⭐⭐⭐⭐⭐⭐⭐☆☆☆ 7/10 |
+| امتیاز | {% include rating.html score=7 %} |
 
 [ورژن انگلیسی](https://www.fadedpage.com/books/20211110/html.php)
 

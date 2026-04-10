@@ -1,0 +1,7 @@
+{%- assign score = include.score | plus: 0 -%}
+{%- assign filled = "" -%}
+{%- for i in (1..score) -%}{%- assign filled = filled | append: "⭐" -%}{%- endfor -%}
+{%- assign empty_count = 10 | minus: score -%}
+{%- assign empty = "" -%}
+{%- for i in (1..empty_count) -%}{%- assign empty = empty | append: "☆" -%}{%- endfor -%}
+{{ filled }}{{ empty }} {{ score }}/10

@@ -12,7 +12,7 @@ toc: true
 | سال چاپ | ۲۰۰۵ |
 | کشور | ایتالیا |
 | ژانر | فانتزی |
-| امتیاز | ⭐⭐⭐⭐⭐⭐☆☆☆☆ 6/10 |
+| امتیاز | {% include rating.html score=6 %} |
 
 
 [کتاب صوتی فارسی شامل بعضی از داستان‌ها](https://www.youtube.com/watch?v=wBwb5HwaRpM&t=1948s):

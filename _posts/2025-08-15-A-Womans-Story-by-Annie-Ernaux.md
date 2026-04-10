@@ -12,7 +12,7 @@ toc: true
 | سال چاپ | ۱۹۸۸  |
 | کشور | فرانسه  |
 | ژانر | رمان   |
-| امتیاز | ⭐⭐⭐⭐⭐⭐⭐☆☆☆ 7/10  |
+| امتیاز | {% include rating.html score=7 %} |
 
 [کتاب صوتی فارسی](https://www.youtube.com/watch?v=6ZP1oyEna9g)
 
