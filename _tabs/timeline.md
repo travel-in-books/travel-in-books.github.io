@@ -104,10 +104,8 @@ function toPersian(n) {
   return String(n).replace(/[0-9]/g, d => '۰۱۲۳۴۵۶۷۸۹'[+d]);
 }
 
-// Sort ascending by year
 books.sort((a, b) => a.year - b.year);
 
-// Group by decade
 const groups = new Map();
 for (const b of books) {
   const d = Math.floor(b.year / 10) * 10;
@@ -115,11 +113,9 @@ for (const b of books) {
   groups.get(d).push(b);
 }
 
-// Summary line
 document.getElementById('tl-summary').textContent =
   `${toPersian(books.length)} کتاب از ${toPersian(books[0].year)} تا ${toPersian(books[books.length-1].year)}`;
 
-// Render
 const wrap = document.getElementById('tl-wrap');
 
 for (const [decade, items] of groups) {
