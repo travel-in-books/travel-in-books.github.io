@@ -10,7 +10,7 @@ toc: true
 | نویسنده | گراهام گرین |
 | نام اصلی اثر | Short Stories by Graham Green  |
 | سال چاپ | ۱۹۵۴ |
-| کشور | انگلستان |
+| کشور | انگلیس |
 | ژانر | ادبی |
 | امتیاز | {% include rating.html score=8 %} |
 
