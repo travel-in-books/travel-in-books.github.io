@@ -24,7 +24,7 @@ toc: true
 
 [لینک به نسخه آلمانی](https://cdn-assetservice.ecom-api.beck-shop.de/product/readingsample/16138425/9783596031177_excerpt_006.pdf)
 
-### داستان‌های برجسته
+### داستان‌ها
 
 **انتظارات (Expectations):**
 {% include rating.html score=9 %}
