@@ -7,8 +7,8 @@ toc: true
 ---
 
 | نام اثر | یک زن |
-| نام اصلی اثر | A Womans Story by Annie Ernaux  |
 | نویسنده | آنی ارنو |
+| نام اصلی اثر | A Womans Story by Annie Ernaux  |
 | سال چاپ | ۱۹۸۸  |
 | کشور | فرانسه  |
 | ژانر | رمان   |

@@ -74,7 +74,7 @@ toc: true
 </details>
 
 ----
-### نینوچکا - داستان یک عشق<sup id="a8">[8](#f8)</sup>
+### نینوچکا - داستان یک عشق<sup id="a9">[9](#f9)</sup>
 [لینک تو ورژن انگلیسی](https://www.prosperosisle.org/spip.php?article1179#Ninotchka)
 ⭐⭐⭐⭐⭐⭐⭐☆☆☆ 7/10
 <details>
@@ -97,3 +97,4 @@ toc: true
 <br><b id="f6">6</b> <span class="footnote">The Slanderer</span>[↩](#a6)
 <br><b id="f7">7</b> <span class="footnote">In Post</span>[↩](#a7)
 <br><b id="f8">8</b> <span class="footnote">The huntsman</span>[↩](#a8)
+<br><b id="f9">9</b> <span class="footnote">Ninotchka</span>[↩](#a9)

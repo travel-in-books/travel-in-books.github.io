@@ -7,8 +7,8 @@ toc: true
 ---
 
 | نام اثر | زردچهره |
-| نام اصلی اثر | Yellowface by Rebecca F Kuang  |
 | نویسنده | ربکا اف کوانگ |
+| نام اصلی اثر | Yellowface by Rebecca F Kuang  |
 | سال چاپ | ۲۰۲۳  |
 | کشور | آمریکا  |
 | ژانر | رمان   |

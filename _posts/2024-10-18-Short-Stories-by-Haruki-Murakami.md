@@ -57,7 +57,7 @@ toc: true
 </details>
 ------
 
-### بید نابینا، زن خفته<sup id="a3">[3](#f3)</sup>
+### بید نابینا، زن خفته<sup id="a4">[4](#f4)</sup>
 
 | سال چاپ | ۱۹۸۳  |
 | امتیاز | {% include rating.html score=7 %} |
@@ -73,7 +73,7 @@ toc: true
 پس از بازگشت پسر عمو از معاینه، دو پسر عمو ناهار می خورند. وقتی آنها در مورد بیماری پسر عمو صحبت می کنند و اینکه احتمالاً تا آخر عمر او را تحت تأثیر قرار می دهد، او می گوید که به خط فیلم فکر می کند: "نگران نباش. اگر توانستی چند سرخپوست را تشخیص بدهی، به این معنی است که آنجا نیستند. این را موقعی به یاد می‌آورد که کسی در مورد گوش هایش با او همدردی می کند، از فیلم فورت آپاچی. با نزدیک شدن اتوبوسی که آنها را به خانه می برد، راوی شروع به رویاپردازی می کند که چگونه او و دوستش سال ها پیش در مورد هدیه دادن شکلات به دوست دختر دوستش بی توجه بودند. وقتی دوباره بتواند به وضوح فکر کند، به پسر عمویش می گوید: "حالم خوب است."
 </details>
 
-### سال اسپاگتی<sup id="a4">[4](#f4)</sup>
+### سال اسپاگتی<sup id="a5">[5](#f5)</sup>
 
 | سال چاپ | ۲۰۰۶  |
 | امتیاز | {% include rating.html score=7 %} |
@@ -98,7 +98,14 @@ toc: true
 
 اسپاگتی‌پز تعجب می‌کند که آیا ایتالیایی‌ها می‌دانستند وقتی گندم صادر می‌کنند، واقعاً تنهایی را صادر می‌کنند.
 </details>
+### کاهو<sup id="a6">[6](#f6)</sup>
+<details>
+  <summary>خلاصه</summary>
+
+</details>
 <b id="f1">1</b> <span class="footnote">Hunting Knife</span>[↩](#a1)
 <br><b id="f2">2</b> <span class="footnote">Cream</span> [↩](#a2)
 <br><b id="f3">3</b> <span class="footnote">On a Stone Pillow</span> [↩](#a3)
-<br><b id="f4">4</b> <span class="footnote">The year of spagetti</span> [↩](#a4)
+<br><b id="f4">4</b> <span class="footnote">Blind Willow, Sleeping Woman</span> [↩](#a4)
+<br><b id="f5">5</b> <span class="footnote">The Year of Spaghetti</span> [↩](#a5)
+<br><b id="f6">6</b> <span class="footnote">Kaho</span> [↩](#a6)

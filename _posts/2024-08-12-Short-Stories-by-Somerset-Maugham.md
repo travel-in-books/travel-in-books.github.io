@@ -15,7 +15,7 @@ toc: true
 | امتیاز | {% include rating.html score=9 %} |
 
 
-## آقای همه‌چیزدان<sup id="a1">[1](#f1)</sup>
+### آقای همه‌چیزدان<sup id="a1">[1](#f1)</sup>
 ⭐⭐⭐⭐⭐⭐⭐☆☆☆ 7/10
 <details>
   <summary>خلاصه</summary>
@@ -23,7 +23,7 @@ toc: true
 </details>
 ------
 
-## سه زن چاق آنتیبس<sup id="a2">[2](#f2)</sup>
+### سه زن چاق آنتیبس<sup id="a2">[2](#f2)</sup>
 ⭐⭐⭐⭐⭐⭐⭐☆☆☆ 7/10
 <details>
   <summary>خلاصه</summary>
@@ -31,7 +31,7 @@ toc: true
 </details>
 ------
 
-## یک دوست نیازمند<sup id="a3">[3](#f3)</sup>
+### یک دوست نیازمند<sup id="a3">[3](#f3)</sup>
 ⭐⭐⭐⭐⭐⭐⭐☆☆☆ 7/10
 <details>
   <summary>خلاصه و تحلیل</summary>
@@ -51,7 +51,7 @@ toc: true
 </details>
 ------
 
-## باران<sup id="a5">[5](#f5)</sup>
+### باران<sup id="a5">[5](#f5)</sup>
 ⭐⭐⭐⭐⭐⭐⭐⭐☆☆ 8/10
 
 <details>
@@ -70,7 +70,7 @@ toc: true
 </details>
 ------
 
-## یک نمونه بد<sup id="a6">[6](#f6)</sup>
+### یک نمونه بد<sup id="a6">[6](#f6)</sup>
 ⭐⭐⭐⭐⭐⭐⭐☆☆☆ 7/10
 
 <details>
@@ -81,7 +81,7 @@ toc: true
 </details>
 ------
 
-## صدای لاک‌پشت<sup id="a7">[7](#f7)</sup>
+### صدای لاک‌پشت<sup id="a7">[7](#f7)</sup>
 ⭐⭐⭐⭐⭐⭐☆☆☆☆ 6/10
 
 <details>
@@ -90,7 +90,7 @@ toc: true
 </details>
 ------
 
-## مغازه بسته<sup id="a8">[8](#f8)</sup>
+### مغازه بسته<sup id="a8">[8](#f8)</sup>
 ⭐⭐⭐⭐⭐⭐☆☆☆☆ 6/10
 
 [درباره این داستان](https://astrofella.wordpress.com/tag/the-closed-shop/)
@@ -101,7 +101,7 @@ toc: true
 </details>
 ------
 
-## مورچه و ملخ<sup id="a9">[9](#f9)</sup>
+### مورچه و ملخ<sup id="a9">[9](#f9)</sup>
 ⭐⭐⭐⭐⭐⭐☆☆☆☆ 6/10
 
 [ورژن انگلیسی](https://schools.ednet.ns.ca/avrsb/070/rsbennett/eng12/coursematerials/shortstories/Ant%20and%20grasshopper.pdf)
@@ -112,7 +112,7 @@ toc: true
 </details>
 ------
 
-## خدمتکار کلیسا<sup id="a10">[10](#f10)</sup>
+### خدمتکار کلیسا<sup id="a10">[10](#f10)</sup>
 ⭐⭐⭐⭐⭐⭐☆☆☆☆ 6/10
 
 [ورژن انگلیسی](https://www.teachingenglish.org.uk/sites/teacheng/files/Maugham_The_Verger_0.pdf)
@@ -124,7 +124,7 @@ toc: true
 ------
 
 
-## ناهار<sup id="a11">[11](#f11)</sup>
+### ناهار<sup id="a11">[11](#f11)</sup>
 ⭐⭐⭐⭐⭐⭐☆☆☆☆ 6/10
 
 [ورژن انگلیسی](https://online.htseden.co.za/wp-content/uploads/2021/05/The-Luncheon-Short-story.pdf)
@@ -136,7 +136,7 @@ toc: true
 ------
 
 
-## قرمز<sup id="a12">[12](#f12)</sup>
+### قرمز<sup id="a12">[12](#f12)</sup>
 ⭐⭐⭐⭐⭐⭐☆☆☆☆ 6/10
 
 [ورژن انگلیسی](https://gutenberg.ca/ebooks/maughamws-completeshortstories03/maughamws-completeshortstories03-00-e.html#red)

@@ -7,8 +7,8 @@ toc: true
 ---
 
 | نام اثر | قلعه شیشه‌ای |
-| نام اصلی اثر | The Glass Castle by Jeannette Walls  |
 | نویسنده | جینت وال |
+| نام اصلی اثر | The Glass Castle by Jeannette Walls  |
 | سال چاپ | ۲۰۰۵  |
 | کشور | آمریکا  |
 | ژانر | شرح حال   |

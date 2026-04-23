@@ -7,8 +7,8 @@ toc: true
 ---
 
 | نام اثر | لویاتان |
-| نام اصلی اثر | Leviathan by Paul Auster  |
 | نویسنده | پل استر |
+| نام اصلی اثر | Leviathan by Paul Auster  |
 | سال چاپ | ۱۹۹۲  |
 | کشور | آمریکا  |
 | ژانر | رمان   |

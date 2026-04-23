@@ -7,8 +7,8 @@ toc: true
 ---
 
 | نام اثر | سارازین |
-| نام اصلی اثر | Sarrasine by Honore de Balzac  |
 | نویسنده | انوره دو بالزاک |
+| نام اصلی اثر | Sarrasine by Honore de Balzac  |
 | سال چاپ | ۱۸۳۰  |
 | کشور | فرانسه  |
 | ژانر | ادبیات داستانی |

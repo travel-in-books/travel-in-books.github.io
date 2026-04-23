@@ -8,8 +8,8 @@ mermaid: true
 ---
 
 | نام اثر | تقاطع‌ها |
-| نام اصلی اثر | Crossroads by Jonathan Franzen |
 | نویسنده | جاناتان فرانزن |
+| نام اصلی اثر | Crossroads by Jonathan Franzen |
 | سال چاپ | ۲۰۲۱ |
 | کشور | آمریکا  |
 | ژانر | رمان ادبی، خانوادگی، اجتماعی  |

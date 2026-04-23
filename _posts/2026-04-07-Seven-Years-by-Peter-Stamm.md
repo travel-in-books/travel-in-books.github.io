@@ -12,7 +12,7 @@ toc: true
 | سال چاپ | ۲۰۰۹ |
 | کشور | سوئیس |
 | ژانر | رمان معاصر |
-| امتیاز | {% include rating.html score=8 %} |
+| امتیاز | {% include rating.html score=5 %} |
 
 ### خلاصه
 

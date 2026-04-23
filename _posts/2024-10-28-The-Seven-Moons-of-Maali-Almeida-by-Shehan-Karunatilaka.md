@@ -7,8 +7,8 @@ toc: true
 ---
 
 | نام اثر | هفت ماه مالی المیدا |
-| نام اصلی اثر | The Seven Moons of Maali Almeida by Shehan Karunatilaka |
 | نویسنده | شهان کاروناتیلاکا |
+| نام اصلی اثر | The Seven Moons of Maali Almeida by Shehan Karunatilaka |
 | سال چاپ | ۲۰۲۲  |
 | کشور | سریلانکا  |
 | ژانر | فانتزی   |

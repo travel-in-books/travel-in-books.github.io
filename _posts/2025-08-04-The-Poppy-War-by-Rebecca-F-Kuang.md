@@ -7,8 +7,8 @@ toc: true
 ---
 
 | نام اثر | جنگ خشخاش |
-| نام اصلی اثر | The Poppy War by Rebecca F Kuang  |
 | نویسنده | ربکا اف کوانگ |
+| نام اصلی اثر | The Poppy War by Rebecca F Kuang  |
 | سال چاپ | ۲۰۱۸  |
 | کشور | آمریکا  |
 | ژانر | رمان فانتزی   |

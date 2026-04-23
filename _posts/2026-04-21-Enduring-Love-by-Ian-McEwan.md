@@ -12,7 +12,7 @@ toc: true
 | سال چاپ | ۱۹۹۷ |
 | کشور | انگلیس |
 | ژانر | رمان روان‌شناختی |
-| امتیاز | {% include rating.html score=6 %} |
+| امتیاز | {% include rating.html score=4 %} |
 
 ### خلاصه
 
