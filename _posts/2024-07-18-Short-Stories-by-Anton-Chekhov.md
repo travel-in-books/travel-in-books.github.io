@@ -14,7 +14,7 @@ toc: true
 | ژانر | طنز اجتماعی |
 | امتیاز | {% include rating.html score=9 %} |
 
-### صدف<sup id="a1">[1](#f1)</sup>
+### صدف (Oysters)
 ⭐⭐⭐⭐⭐⭐⭐⭐⭐☆ 9/10
 
 <details>
@@ -23,7 +23,7 @@ toc: true
 </details>
 ----
 
-### در آرایشگاه<sup id="a2">[2](#f2)</sup>
+### در آرایشگاه (At The Barber's)
 ⭐⭐⭐⭐⭐⭐⭐☆☆☆ 7/10
 
 <details>
@@ -32,7 +32,7 @@ toc: true
 </details>
 ----
 
-### الینکای عزیز<sup id="a3">[3](#f3)</sup>
+### الینکای عزیز (The darling)
 ⭐⭐⭐⭐⭐⭐⭐☆☆☆ 7/10
 <details>
   <summary>خلاصه و تحلیل</summary>
@@ -40,7 +40,7 @@ toc: true
 </details>
 ----
 
-### بانو با سگ ملوس<sup id="a4">[4](#f4)</sup>
+### بانو با سگ ملوس (The Lady with the Dog)
 ⭐⭐⭐⭐⭐⭐⭐⭐☆☆ 8/10
 <details>
   <summary>خلاصه و تحلیل</summary>
@@ -48,11 +48,11 @@ toc: true
 </details>
 ----
 
-### شرط‌بندی<sup id="a5">[5](#f5)</sup>
+### شرط‌بندی (The Bet)
 ⭐⭐⭐⭐⭐⭐⭐☆☆☆ 7/10
 
 ----
-### تهمت<sup id="a6">[6](#f6)</sup>
+### تهمت (The Slanderer)
 ⭐⭐⭐⭐⭐⭐⭐☆☆☆ 7/10
 <details>
   <summary>خلاصه و تحلیل</summary>
@@ -60,21 +60,21 @@ toc: true
 </details>
 
 ----
-### در پستخانه<sup id="a7">[7](#f7)</sup>
+### در پستخانه (In Post)
 ⭐⭐⭐⭐⭐⭐⭐☆☆☆ 7/10
 <details>
   <summary>خلاصه و تحلیل</summary>
 </details>
 
 ----
-### شکارچی<sup id="a8">[8](#f8)</sup>
+### شکارچی (The huntsman)
 ⭐⭐⭐⭐⭐⭐⭐☆☆☆ 7/10
 <details>
   <summary>خلاصه و تحلیل</summary>
 </details>
 
 ----
-### نینوچکا - داستان یک عشق<sup id="a9">[9](#f9)</sup>
+### نینوچکا - داستان یک عشق (Ninotchka)
 [لینک تو ورژن انگلیسی](https://www.prosperosisle.org/spip.php?article1179#Ninotchka)
 ⭐⭐⭐⭐⭐⭐⭐☆☆☆ 7/10
 <details>
@@ -87,14 +87,3 @@ toc: true
 </details>
 
 ----
-
-
-<b id="f1">1</b> <span class="footnote">Oysters</span>[↩](#a1)
-<br><b id="f2">2</b> <span class="footnote">At The Barber's</span>[↩](#a2)
-<br><b id="f3">3</b> <span class="footnote">The darling</span>[↩](#a3)
-<br><b id="f4">4</b> <span class="footnote">The Lady with the Dog</span>[↩](#a4)
-<br><b id="f5">5</b> <span class="footnote">The Bet</span>[↩](#a5)
-<br><b id="f6">6</b> <span class="footnote">The Slanderer</span>[↩](#a6)
-<br><b id="f7">7</b> <span class="footnote">In Post</span>[↩](#a7)
-<br><b id="f8">8</b> <span class="footnote">The huntsman</span>[↩](#a8)
-<br><b id="f9">9</b> <span class="footnote">Ninotchka</span>[↩](#a9)

@@ -14,8 +14,6 @@ toc: true
 | ژانر | رمان تاریخی و اجتماعی |
 | امتیاز | {% include rating.html score=6 %} |
 
-تیتر انگلیسی<sup id="a1">[1](#f1)</sup>
-
 ### شخصیت‌ها
 
 - کلاریس آیوازیان: شخصیت اصلی داستان که زندگی روزمره و چالش‌هایش را در طول داستان دنبال می‌کنیم.
@@ -77,5 +75,3 @@ toc: true
 [چراغ ها را من خاموش می کنم با صدای ناهید عزیزی](https://www.youtube.com/playlist?list=PLXKXu_evJveenXAbAgLNFguEuybduBwOR)
 
 ### نظر شخصی
-
-<b id="f1">1</b> <span class="footnote">I will turn of the Lights by Zoya Pirzad</span>[↩](#a1)

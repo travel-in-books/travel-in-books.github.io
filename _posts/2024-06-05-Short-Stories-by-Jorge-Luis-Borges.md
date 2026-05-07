@@ -21,7 +21,7 @@ toc: true
 
 
 
-### زخم شمشیر<sup id="a1">[1](#f1)</sup>
+### زخم شمشیر (The form of the sword)
 ⭐⭐⭐⭐⭐⭐⭐☆☆☆ 7/10
 <details>
   <summary>خلاصه</summary>
@@ -30,7 +30,7 @@ toc: true
 </details>
 ------
 
-### دوست نالوطی<sup id="a2">[2](#f2)</sup>
+### دوست نالوطی (The unworthy friend)
 ⭐⭐⭐⭐⭐⭐⭐☆☆☆ 7/10
 <details>
   <summary>خلاصه</summary>
@@ -39,7 +39,7 @@ toc: true
 ------
 
 
-### مواجهه<sup id="a3">[3](#f3)</sup>
+### مواجهه (the encounter)
 ⭐⭐⭐⭐⭐⭐⭐☆☆☆ 7/10
 <details>
   <summary>خلاصه</summary>
@@ -47,7 +47,7 @@ Maneco Uriarte (مانکو اوریارته) and Duncan (دونکان)
 </details>
 ------
 
-### ابن حُقان بخاری و مرگ او در هزارتوی خود<sup id="a4">[4](#f4)</sup>
+### ابن حُقان بخاری و مرگ او در هزارتوی خود (Ibn-Hakam al-Bokhari, Murdered in His Labyrinth)
 ⭐⭐⭐⭐⭐⭐⭐☆☆☆ 7/10
 <details>
   <summary>خلاصه</summary>
@@ -55,14 +55,14 @@ Maneco Uriarte (مانکو اوریارته) and Duncan (دونکان)
 </details>
 ------
 
-### کتابخانه بابل<sup id="a5">[5](#f5)</sup>
+### کتابخانه بابل (The library of Babel)
 ⭐⭐⭐⭐⭐⭐⭐☆☆☆ 7/10
 <details>
   <summary>خلاصه</summary>
 </details>
 ------
 
-### ظاهر<sup id="a6">[6](#f6)</sup>
+### ظاهر (The Zahir)
 ⭐⭐⭐⭐⭐⭐⭐☆☆☆ 7/10
 <details>
   <summary>خلاصه</summary>
@@ -80,7 +80,7 @@ Maneco Uriarte (مانکو اوریارته) and Duncan (دونکان)
 </details>
 ------
 
-### مردی در گوشه خیابان<sup id="a7">[7](#f7)</sup>
+### مردی در گوشه خیابان (Man on Pink Corner)
 ⭐⭐⭐⭐⭐⭐⭐☆☆☆ 7/10
 <details>
   <summary>خلاصه</summary>
@@ -88,7 +88,7 @@ Maneco Uriarte (مانکو اوریارته) and Duncan (دونکان)
 </details>
 ------
 
-### داستان از زبان رزندا خوارز<sup id="a8">[8](#f8)</sup>
+### داستان از زبان رزندا خوارز (The Story from Rosendo Juárez)
 ⭐⭐⭐⭐⭐⭐⭐☆☆☆ 7/10
 <details>
   <summary>خلاصه</summary>
@@ -98,7 +98,7 @@ Who Made the Angels Wait
 </details>
 ------
 
-### جنوب<sup id="a9">[9](#f9)</sup>
+### جنوب (The South)
 ⭐⭐⭐⭐⭐⭐⭐☆☆☆ 7/10
 <details>
   <summary>خلاصه</summary>
@@ -129,16 +129,3 @@ Who Made the Angels Wait
 ### نوشته خداوند
 - Escrito por Dios (The Writing of the God)
 - هیچی از داستان نفهمیدم :)
-
-
-
-<b id="f1">1</b> <span class="footnote">la forma de la speda (The form of the sword)</span>[↩](#a1)
-<br><b id="f2">2</b> <span class="footnote">El indigno (The unworthy friend)</span> [↩](#a2)
-<br><b id="f3">3</b> <span class="footnote">el encuentro (the encounter)</span> [↩](#a3)
-<br><b id="f4">4</b> <span class="footnote">Abenjacán el Bojarí, muerto en su laberinto (Ibn-Hakam al-Bokhari, Murdered in His Labyrinth)</span> [↩](#a4)
-<br><b id="f5">5</b> <span class="footnote">The library of Babel (La biblioteca de Babel)</span> [↩](#a5)
-<br><b id="f6">6</b> <span class="footnote">El Zahir (The Zahir)</span> [↩](#a6)
-<br><b id="f7">7</b> <span class="footnote">Hombre de la Esquina Rosada (Man on Pink Corner)</span> [↩](#a7)
-<br><b id="f8">8</b> <span class="footnote">Historia de Rosendo Juarez (The Story from Rosendo Juárez)</span> [↩](#a8)
-<br><b id="f9">9</b> <span class="footnote">El Sur (The South)</span> [↩](#a9)
-
