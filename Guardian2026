@@ -1,100 +1,101 @@
-100 My Ántonia
-99 The Go-Between
-98 The Road
-97 Catch-22
-96 Pedro Páramo
-95 The Return of the Native
-94 The Known World
-93 Invisible Cities
-92 Sentimental Education
-91 Life and Fate
-90 Jacob's Room
-89 The Left Hand of Darkness
-88 Ragtime
-87 The Line of Beauty
-86 The Turn of the Screw
-85 The Vegetarian
-84 The Talented Mr Ripley
-83 A Farewell to Arms
-82 The End of the Affair
-81 Buddenbrooks
-80 Rebecca
-79 Go Tell It on the Mountain
-78 A House for Mr Biswas
-77 The Rainbow
-76 Dracula
-75 The Bluest Eye
-74 Nervous Conditions
-73 Austerlitz
-72 Our Mutual Friend
-71 Kindred
-70 Jude the Obscure
-69 Crime and Punishment
-68 Blood Meridian
-67 The Man Without Qualities
-66 The Master and Margarita
-65 The Color Purple
-64 The Good Soldier
-63 White Teeth
-62 Half of a Yellow Sun
-61 The Rings of Saturn
-60 Howards End
-59 Never Let Me Go
-58 Disgrace
-57 The Sound and the Fury
-56 Mansfield Park
-55 The Waves
-54 Orlando
-53 The Transit of Venus
-52 The Golden Bowl
-51 My Brilliant Friend
-50 Wide Sargasso Sea
-49 A Fine Balance
-48 The Metamorphosis
-47 Vanity Fair
-46 The Leopard
-45 The Golden Notebook
-44 Giovanni's Room
-43 Housekeeping
-42 The Magic Mountain
-41 Heart of Darkness
-40 Song of Solomon
-39 Their Eyes Were Watching God
-38 The Age of Innocence
-37 Invisible Man
-36 The Handmaid's Tale
-35 Great Expectations
-34 Wolf Hall
-33 David Copperfield
-32 The God of Small Things
-31 The Prime of Miss Jean Brodie
-30 Frankenstein
-29 Pale Fire
-28 The Brothers Karamazov
-27 The Trial
-26 Don Quixote
-25 Lolita
-24 The Remains of the Day
-23 Midnight's Children
-22 Things Fall Apart
-21 The Portrait of a Lady
-20 Wuthering Heights
-19 The Life and Opinions of Tristram Shandy, Gentleman
-18 Persuasion
-17 One Hundred Years of Solitude
-16 Nineteen Eighty-Four
-15 Moby-Dick
-14 Mrs Dalloway
-13 Emma
-12 Bleak House
-11 The Great Gatsby
-10 Madame Bovary
-9 Pride and Prejudice
-8 Jane Eyre
-7 War and Peace
-6 Anna Karenina
-5 In Search of Lost Time
-4 To the Lighthouse
-3 Ulysses
-2 Beloved
-1 Middlemarch
+rank,title,author,country
+53,"The Transit of Venus","Shirley Hazzard",Australia
+67,"The Man Without Qualities","Robert Musil",Austria
+27,"The Trial","Franz Kafka",Austria-Hungary
+48,"The Metamorphosis","Franz Kafka",Austria-Hungary
+36,"The Handmaid's Tale","Margaret Atwood",Canada
+49,"A Fine Balance","Rohinton Mistry",Canada
+17,"One Hundred Years of Solitude","Gabriel García Márquez",Colombia
+5,"In Search of Lost Time","Marcel Proust",France
+10,"Madame Bovary","Gustave Flaubert",France
+92,"Sentimental Education","Gustave Flaubert",France
+42,"The Magic Mountain","Thomas Mann",Germany
+61,"The Rings of Saturn","W.G. Sebald",Germany
+73,"Austerlitz","W.G. Sebald",Germany
+81,"Buddenbrooks","Thomas Mann",Germany
+32,"The God of Small Things","Arundhati Roy",India
+3,"Ulysses","James Joyce",Ireland
+19,"Tristram Shandy","Laurence Sterne",Ireland
+76,"Dracula","Bram Stoker",Ireland
+46,"The Leopard","Giuseppe Tomasi di Lampedusa",Italy
+51,"My Brilliant Friend","Elena Ferrante",Italy
+93,"Invisible Cities","Italo Calvino",Italy
+96,"Pedro Páramo","Juan Rulfo",Mexico
+22,"Things Fall Apart","Chinua Achebe",Nigeria
+62,"Half of a Yellow Sun","Chimamanda Ngozi Adichie",Nigeria
+6,"Anna Karenina","Leo Tolstoy",Russia
+7,"War and Peace","Leo Tolstoy",Russia
+25,"Lolita","Vladimir Nabokov",Russia
+28,"The Brothers Karamazov","Fyodor Dostoevsky",Russia
+29,"Pale Fire","Vladimir Nabokov",Russia
+69,"Crime and Punishment","Fyodor Dostoevsky",Russia
+58,"Disgrace","J.M. Coetzee",South Africa
+85,"The Vegetarian","Han Kang",South Korea
+26,"Don Quixote","Miguel de Cervantes",Spain
+78,"A House for Mr Biswas","V.S. Naipaul",Trinidad
+1,"Middlemarch","George Eliot",UK
+4,"To the Lighthouse","Virginia Woolf",UK
+8,"Jane Eyre","Charlotte Brontë",UK
+9,"Pride and Prejudice","Jane Austen",UK
+12,"Bleak House","Charles Dickens",UK
+13,"Emma","Jane Austen",UK
+14,"Mrs Dalloway","Virginia Woolf",UK
+16,"Nineteen Eighty-Four","George Orwell",UK
+18,"Persuasion","Jane Austen",UK
+20,"Wuthering Heights","Emily Brontë",UK
+23,"Midnight's Children","Salman Rushdie",UK
+24,"The Remains of the Day","Kazuo Ishiguro",UK
+30,"Frankenstein","Mary Shelley",UK
+31,"The Prime of Miss Jean Brodie","Muriel Spark",UK
+33,"David Copperfield","Charles Dickens",UK
+34,"Wolf Hall","Hilary Mantel",UK
+35,"Great Expectations","Charles Dickens",UK
+41,"Heart of Darkness","Joseph Conrad",UK
+45,"The Golden Notebook","Doris Lessing",UK
+47,"Vanity Fair","W.M. Thackeray",UK
+50,"Wide Sargasso Sea","Jean Rhys",UK
+54,"Orlando","Virginia Woolf",UK
+55,"The Waves","Virginia Woolf",UK
+56,"Mansfield Park","Jane Austen",UK
+59,"Never Let Me Go","Kazuo Ishiguro",UK
+60,"Howards End","E.M. Forster",UK
+63,"White Teeth","Zadie Smith",UK
+64,"The Good Soldier","Ford Madox Ford",UK
+70,"Jude the Obscure","Thomas Hardy",UK
+72,"Our Mutual Friend","Charles Dickens",UK
+77,"The Rainbow","D.H. Lawrence",UK
+80,"Rebecca","Daphne du Maurier",UK
+82,"The End of the Affair","Graham Greene",UK
+87,"The Line of Beauty","Alan Hollinghurst",UK
+90,"Jacob's Room","Virginia Woolf",UK
+95,"The Return of the Native","Thomas Hardy",UK
+99,"The Go-Between","L.P. Hartley",UK
+2,"Beloved","Toni Morrison",USA
+11,"The Great Gatsby","F. Scott Fitzgerald",USA
+15,"Moby-Dick","Herman Melville",USA
+21,"The Portrait of a Lady","Henry James",USA
+37,"Invisible Man","Ralph Ellison",USA
+38,"The Age of Innocence","Edith Wharton",USA
+39,"Their Eyes Were Watching God","Zora Neale Hurston",USA
+40,"Song of Solomon","Toni Morrison",USA
+43,"Housekeeping","Marilynne Robinson",USA
+44,"Giovanni's Room","James Baldwin",USA
+52,"The Golden Bowl","Henry James",USA
+57,"The Sound and the Fury","William Faulkner",USA
+65,"The Color Purple","Alice Walker",USA
+68,"Blood Meridian","Cormac McCarthy",USA
+71,"Kindred","Octavia Butler",USA
+75,"The Bluest Eye","Toni Morrison",USA
+79,"Go Tell It on the Mountain","James Baldwin",USA
+83,"A Farewell to Arms","Ernest Hemingway",USA
+84,"The Talented Mr Ripley","Patricia Highsmith",USA
+86,"The Turn of the Screw","Henry James",USA
+88,"Ragtime","E.L. Doctorow",USA
+89,"The Left Hand of Darkness","Ursula K. Le Guin",USA
+94,"The Known World","Edward P. Jones",USA
+97,"Catch-22","Joseph Heller",USA
+98,"The Road","Cormac McCarthy",USA
+100,"My Ántonia","Willa Cather",USA
+66,"The Master and Margarita","Mikhail Bulgakov",USSR
+91,"Life and Fate","Vasily Grossman",USSR
+74,"Nervous Conditions","Tsitsi Dangarembga",Zimbabwe
