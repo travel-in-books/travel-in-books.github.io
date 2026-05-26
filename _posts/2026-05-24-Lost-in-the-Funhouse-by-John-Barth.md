@@ -15,9 +15,9 @@ toc: true
 | امتیاز | {% include rating.html score=8 %} |
 
 
-[متن انگلیسی داستان گم در شهربازی](https://pnl2027.gov.pt/np4/file/430/Lost_in_the_funhouse_Barth.pdf)
-[کتاب صوتی گم در شهربازی](https://www.youtube.com/watch?v=2jFpYRkeg60)
-[متن انگلیسی  سفر شبانه-دریا](https://tigerenglish.wordpress.com/wp-content/uploads/2015/08/night-sea-journey-john-barth.pdf)
+- [متن انگلیسی داستان گم در شهربازی](https://pnl2027.gov.pt/np4/file/430/Lost_in_the_funhouse_Barth.pdf)
+- [کتاب صوتی گم در شهربازی](https://www.youtube.com/watch?v=2jFpYRkeg60)
+- [متن انگلیسی  سفر شبانه-دریا](https://tigerenglish.wordpress.com/wp-content/uploads/2015/08/night-sea-journey-john-barth.pdf)
 
 
 کتاب با «قصه-قاب» آغاز می‌شود، «داستانی» که در آن «روزی روزگاری آنجا» و «داستانی آغاز شد» به صورت عمودی، یکی در هر طرف صفحه، چاپ شده‌اند. این داستان قرار است توسط خواننده بریده شود و انتهای آن پس از یک بار پیچیدن به صورت نوار موبیوس، به هم متصل شوند. این منجر به یک سیر نزولی تا بی‌نهایت، حلقه‌ای بدون ابتدا یا انتها می‌شود.
