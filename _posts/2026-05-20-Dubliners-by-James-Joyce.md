@@ -93,8 +93,6 @@ toc: true
 
 [ورژن انگلیسی](https://blogs.baruch.cuny.edu/greatworks540spring2013/files/2013/03/James-Joyce_The-Dead.pdf)
 
-ا:
-
 <details>
   <summary>گابریل کانروی</summary>
 گابریل شخصیت اصلی داستان است. او استاد دانشگاه، منتقد کتاب است. او فردی متفکر است و در پایان داستان دچار یک آشکارسازی احساسی و وجودی می‌شود.
