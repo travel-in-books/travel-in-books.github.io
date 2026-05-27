@@ -1,12 +1,12 @@
 ---
-title: کمشده در شهربازی از جان بارت
+title: گمشده در شهربازی از جان بارت
 description: نقد و بررسی مجموعه داستان گم در خانه‌ی بازی نوشته جان بارث — اثری پست‌مدرن و فراداستانی که مرز میان نویسنده، شخصیت و خواننده را در هم می‌شکند.
 categories: [ادبیات داستانی, داستان کوتاه]
 tags: [آمریکا,⭐⭐⭐⭐⭐⭐⭐⭐☆☆ 8/10,۱۹۶۸,جان بارث,پست‌مدرن,فراداستان]
 toc: true
 ---
 
-| نام اثر | کمشده در شهربازی |
+| نام اثر | گمشده در شهربازی |
 | نویسنده | جان بارت |
 | نام اصلی اثر | Lost in the Funhouse by John Barth |
 | سال چاپ | ۱۹۶۸ |
@@ -15,8 +15,8 @@ toc: true
 | امتیاز | {% include rating.html score=8 %} |
 
 
-- [متن انگلیسی داستان کمشده در شهربازی](https://pnl2027.gov.pt/np4/file/430/Lost_in_the_funhouse_Barth.pdf)
-- [کتاب صوتی کمشده در شهربازی](https://www.youtube.com/watch?v=2jFpYRkeg60)
+- [متن انگلیسی داستان گمشده در شهربازی](https://pnl2027.gov.pt/np4/file/430/Lost_in_the_funhouse_Barth.pdf)
+- [کتاب صوتی گمشده در شهربازی](https://www.youtube.com/watch?v=2jFpYRkeg60)
 - [متن انگلیسی  سفر شبانه-دریا](https://tigerenglish.wordpress.com/wp-content/uploads/2015/08/night-sea-journey-john-barth.pdf)
 
 
