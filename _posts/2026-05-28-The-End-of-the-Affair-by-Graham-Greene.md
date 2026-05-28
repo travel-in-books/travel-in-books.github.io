@@ -14,6 +14,8 @@ toc: true
 | ژانر | رمان ادبی، عاشقانه، مذهبی |
 | امتیاز | {% include rating.html score=7 %} |
 
+[کتاب صوتی فارسی](https://www.youtube.com/watch?v=rVpRzcAOYOY)
+
 ### شخصیت‌ها
 
 <details>
