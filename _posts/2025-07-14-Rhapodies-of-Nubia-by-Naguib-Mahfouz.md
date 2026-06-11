@@ -3,12 +3,15 @@ title: رادوبیس نوبیا از نجیب محفوظ
 description: نقد و بررسی اثر نجیب محفوظ — داستانی از برنده نوبل مصری درباره تاریخ، عشق و هویت در بستر فرهنگ غنی مصر باستان و معاصر.
 categories: [ادبیات داستانی,رمان]
 tags: [مصر,⭐⭐⭐⭐⭐⭐⭐⭐⭐☆ 9/10,۱۹۴۳,نجیب محفوظ,رئالیسم,کلاسیک]
+image:
+  path: /assets/img/covers/Rhapodies-of-Nubia-by-Naguib-Mahfouz.webp
+  alt: جلد کتاب رادوبیس نوبیا از نجیب محفوظ
 toc: true
 ---
 
 | نام اثر | رادوبیس نوبیا |
 | نویسنده | نجیب محفوظ |
-| نام اصلی اثر | Rhapodies of Nubia by Naguib Mahfouz  |
+| نام اصلی اثر | Rhadopis of Nubia by Naguib Mahfouz  |
 | سال چاپ | ۱۹۴۳ |
 | کشور | مصر |
 | ژانر | رمان تاریخی |

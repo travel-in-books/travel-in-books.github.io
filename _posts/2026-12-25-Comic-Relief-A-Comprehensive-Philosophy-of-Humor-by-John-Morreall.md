@@ -3,6 +3,9 @@ title: فلسفه طنز از جان موریل
 description: نقد و بررسی کتاب فلسفه طنز نوشته جان موریل — پژوهشی جامع درباره ماهیت خنده و طنز از منظر فلسفه؛ چرا می‌خندیم و خنده چه نقشی در زندگی انسان دارد.
 categories: [ادبیات غیر‌داستانی,پژوهشی]
 tags: [آمریکا,پژوهشی,☆☆☆☆☆☆☆☆☆☆ 0/10,۲۰۰۵,جان موریل,فلسفی,طنز]
+image:
+  path: /assets/img/covers/Comic-Relief-A-Comprehensive-Philosophy-of-Humor-by-John-Morreall.webp
+  alt: جلد کتاب فلسفه طنز از جان موریل
 toc: true
 ---
 
