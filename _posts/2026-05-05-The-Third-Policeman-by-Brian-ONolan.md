@@ -2,6 +2,9 @@
 title: پلیس سوم از بریان اونولان
 categories: [ادبیات داستانی, رمان]
 tags: [ایرلند, رمان, ۱۹۶۷, ⭐⭐⭐⭐⭐⭐☆☆☆☆ 6/10, فلان اوبرایین ]
+image:
+  path: /assets/img/covers/The-Third-Policeman-by-Brian-ONolan.webp
+  alt: جلد کتاب پلیس سوم از بریان اونولان
 toc: true
 ---
 
