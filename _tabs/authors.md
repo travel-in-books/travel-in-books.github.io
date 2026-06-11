@@ -62,7 +62,8 @@ order: 4
     direction: rtl;
   }
   .au-bio > summary {
-    font-size: 0.78rem;
+    font-size: 0.95rem;
+    font-weight: 600;
     color: #d64534;
     cursor: pointer;
     list-style: none;
@@ -71,7 +72,7 @@ order: 4
   .au-bio > summary::-webkit-details-marker { display: none; }
   .au-bio > summary::before {
     content: "▸ ";
-    font-size: 0.7rem;
+    font-size: 0.8rem;
   }
   .au-bio[open] > summary::before {
     content: "▾ ";
