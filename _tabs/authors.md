@@ -19,6 +19,13 @@ order: 4
 
   .au-group {
     margin-bottom: 2rem;
+    scroll-margin-top: 5rem;
+    border-radius: 6px;
+    transition: background-color 0.4s ease;
+  }
+  .au-group.au-highlight {
+    background-color: rgba(214, 69, 52, 0.12);
+    box-shadow: 0 0 0 0.6rem rgba(214, 69, 52, 0.12);
   }
 
   .au-name {
@@ -300,4 +307,22 @@ for (const author of authors) {
 
   list.appendChild(group);
 }
+
+/* Scroll to and briefly highlight the author targeted by the URL hash
+   (e.g. arriving from a post's author link). */
+function goToHashAuthor() {
+  if (!location.hash) return;
+  const id = decodeURIComponent(location.hash.slice(1));
+  const el = document.getElementById(id);
+  if (!el) return;
+  el.scrollIntoView({ behavior: 'smooth', block: 'start' });
+  el.classList.add('au-highlight');
+  setTimeout(() => el.classList.remove('au-highlight'), 2200);
+  /* Open the biography so the target is immediately visible */
+  const bio = el.querySelector('.au-bio');
+  if (bio) bio.open = true;
+}
+
+goToHashAuthor();
+window.addEventListener('hashchange', goToHashAuthor);
 </script>

@@ -1,0 +1,56 @@
+<!-- Custom metadata hook (overrides the theme placeholder). -->
+
+{%- comment -%}
+On post pages, turn the «نویسنده» cell of the info table into a link to the
+matching author on the نویسندگان (authors) page. The anchor is derived from
+the *tag* author (same logic the authors page uses to build its anchors), so
+the link lands correctly even when the table spelling differs slightly.
+{%- endcomment -%}
+{% if page.layout == 'post' %}
+  {%- assign after_rating = "" -%}
+  {%- assign year_tag = "" -%}
+  {%- assign after_year = "" -%}
+  {%- assign author_tag = "" -%}
+  {%- for tag in page.tags -%}
+    {%- if after_year == "yes" and author_tag == "" -%}
+      {%- assign author_tag = tag | strip -%}
+    {%- endif -%}
+    {%- if after_rating == "yes" and year_tag == "" -%}
+      {%- assign year_tag = tag | strip -%}
+      {%- assign after_year = "yes" -%}
+    {%- endif -%}
+    {%- if tag contains "⭐" or tag contains "☆" -%}
+      {%- assign after_rating = "yes" -%}
+    {%- endif -%}
+  {%- endfor -%}
+  {%- if author_tag != "" -%}
+  <script>
+    (function () {
+      var anchor = {{ author_tag | replace: ' ', '-' | prepend: 'au-' | jsonify }};
+      var url = {{ '/authors/' | relative_url | jsonify }} + '#' + anchor;
+      function linkAuthor() {
+        var cells = document.querySelectorAll('article td');
+        for (var i = 0; i < cells.length; i++) {
+          if (cells[i].textContent.trim() === 'نویسنده') {
+            var valueCell = cells[i].nextElementSibling;
+            if (!valueCell || valueCell.querySelector('a')) return;
+            var name = valueCell.textContent.trim();
+            if (!name) return;
+            var a = document.createElement('a');
+            a.href = url;
+            a.textContent = name;
+            valueCell.textContent = '';
+            valueCell.appendChild(a);
+            return;
+          }
+        }
+      }
+      if (document.readyState === 'loading') {
+        document.addEventListener('DOMContentLoaded', linkAuthor);
+      } else {
+        linkAuthor();
+      }
+    })();
+  </script>
+  {%- endif -%}
+{% endif %}
