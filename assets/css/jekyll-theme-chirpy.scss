@@ -157,6 +157,22 @@ main h2 {
 }
 /* Book covers are portrait; fit them by height (show the whole cover)
    instead of cropping to fill the wide card area. */
-#post-list .preview-img img {
+.preview-img img {
     object-fit: contain;
+}
+
+/* Post-page cover banner: show the whole portrait cover at a sensible size,
+   centered, instead of forcing it into the wide landscape banner box. */
+a.preview-img {
+    aspect-ratio: auto;
+    width: fit-content;
+    max-width: 100%;
+    margin-inline: auto;
+    background: none;
+}
+a.preview-img img {
+    width: auto;
+    height: auto;
+    max-width: 100%;
+    max-height: 70vh;
 }
