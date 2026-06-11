@@ -43,6 +43,47 @@ order: 4
     flex-shrink: 0;
   }
 
+  .au-meta {
+    font-size: 0.78rem;
+    color: #999;
+    margin: 0 0 0.35rem;
+    direction: rtl;
+  }
+
+  .au-bio {
+    margin: 0 0 0.6rem;
+    direction: rtl;
+  }
+  .au-bio > summary {
+    font-size: 0.78rem;
+    color: #d64534;
+    cursor: pointer;
+    list-style: none;
+    width: fit-content;
+  }
+  .au-bio > summary::-webkit-details-marker { display: none; }
+  .au-bio > summary::before {
+    content: "▸ ";
+    font-size: 0.7rem;
+  }
+  .au-bio[open] > summary::before {
+    content: "▾ ";
+  }
+  .au-bio-text {
+    font-size: 0.85rem;
+    line-height: 1.85;
+    color: var(--text-color, #444);
+    margin: 0.4rem 0 0;
+  }
+  .au-works {
+    font-size: 0.8rem;
+    color: #888;
+    margin-top: 0.4rem;
+  }
+  .au-works b {
+    color: #777;
+  }
+
   .au-books {
     padding-right: 0.8rem;
     border-right: 3px solid var(--border-color, #dee2e6);
@@ -132,6 +173,13 @@ const posts = [
   {% endfor %}
 ];
 
+/* Author bios/metadata from _data/authors.yml */
+const authorInfo = {
+  {% for a in site.data.authors %}
+  {{ a.name | jsonify }}: { born: {{ a.born | default: "" | jsonify }}, died: {{ a.died | default: "" | jsonify }}, country: {{ a.country | default: "" | jsonify }}, works: {{ a.works | default: "" | jsonify }}, bio: {{ a.bio | default: "" | jsonify }} },
+  {% endfor %}
+};
+
 /* Strip author name from title ("X از Y" → "X") */
 function bookTitle(fullTitle, author) {
   const sep = ' از ';
@@ -175,6 +223,51 @@ for (const author of authors) {
   heading.appendChild(nameSpan);
   heading.appendChild(countBadge);
   group.appendChild(heading);
+
+  /* Author info (bio, life dates, country, works) */
+  const info = authorInfo[author];
+  if (info) {
+    const metaBits = [];
+    if (info.country) metaBits.push(info.country);
+    if (info.born) {
+      metaBits.push(info.died ? `زاده ${info.born} – درگذشته ${info.died}`
+                              : `زاده ${info.born}`);
+    } else if (info.died) {
+      metaBits.push(`درگذشته ${info.died}`);
+    }
+    if (metaBits.length) {
+      const meta = document.createElement('p');
+      meta.className = 'au-meta';
+      meta.textContent = metaBits.join(' · ');
+      group.appendChild(meta);
+    }
+
+    if (info.bio) {
+      const bio = document.createElement('details');
+      bio.className = 'au-bio';
+
+      const summary = document.createElement('summary');
+      summary.textContent = 'بیوگرافی';
+      bio.appendChild(summary);
+
+      const bioText = document.createElement('p');
+      bioText.className = 'au-bio-text';
+      bioText.textContent = info.bio;
+      bio.appendChild(bioText);
+
+      if (info.works) {
+        const works = document.createElement('p');
+        works.className = 'au-works';
+        const label = document.createElement('b');
+        label.textContent = 'آثار مشهور: ';
+        works.appendChild(label);
+        works.appendChild(document.createTextNode(info.works));
+        bio.appendChild(works);
+      }
+
+      group.appendChild(bio);
+    }
+  }
 
   const bookList = document.createElement('div');
   bookList.className = 'au-books';
