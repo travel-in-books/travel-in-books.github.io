@@ -176,3 +176,12 @@ a.preview-img img {
     max-width: 100%;
     max-height: 70vh;
 }
+
+/* Persian RTL pagination (bottom of post list): mirror the layout and flip the
+   next/prev chevrons so they point the correct way for right-to-left reading. */
+.pagination {
+    direction: rtl;
+}
+.pagination .page-item .fas {
+    transform: scaleX(-1);
+}
