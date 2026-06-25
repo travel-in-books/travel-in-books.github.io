@@ -15,6 +15,7 @@ toc: true
 | سال چاپ | ۱۹۲۵ |
 | کشور | انگلیس |
 | ژانر | رمان |
+| تعداد صفحات | حدود ۲۲۰ صفحه |
 | امتیاز | {% include rating.html score=0 %} |
 
 تیتر انگلیسی<sup id="a1">[1](#f1)</sup>
@@ -76,3 +77,4 @@ toc: true
 
 <b id="f1">1</b><span class="footnote">Mrs Dalloway by Virigina Woolf</span>[↩](#a1)
 
+### آنچه از این کتاب در ذهنم ماند

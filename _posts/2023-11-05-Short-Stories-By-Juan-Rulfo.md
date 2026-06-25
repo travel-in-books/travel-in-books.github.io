@@ -15,6 +15,7 @@ toc: true
 | سال چاپ | ۱۹۵۳ |
 | کشور | مکزیک |
 | ژانر | طنز اجتماعی |
+| تعداد صفحات | حدود ۱۷۰ صفحه |
 | امتیاز | {% include rating.html score=9 %} |
 
 ### ماکاریو<sup id="a1">[1](#f1)</sup>
@@ -26,3 +27,5 @@ Stream of conciousness
 [تحیل داستان به انگلیسی](https://www.gradesaver.com/the-burning-plain-and-other-stories/study-guide/summary-macario)
 
 <b id="f1">1</b> <span class="footnote">Macario</span>[↩](#a1)
+
+### آنچه از این کتاب در ذهنم ماند

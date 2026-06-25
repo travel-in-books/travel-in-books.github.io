@@ -28,6 +28,7 @@ quiz:
 | سال چاپ | ۱۹۶۷  |
 | کشور | روسیه  |
 | ژانر | رمان سیاسی،اجتماعی،ادبی  |
+| تعداد صفحات | حدود ۴۵۰ صفحه |
 | امتیاز | {% include rating.html score=7 %} |
 
 تیتر انگلیسی<sup id="a1">[1](#f1)</sup>
@@ -88,3 +89,5 @@ quiz:
 {% include quiz.html %}
 
 <b id="f1">1</b><span class="footnote">Master and Margerita by Mikhail Bulgakov</span>[↩](#a1)
+
+### آنچه از این کتاب در ذهنم ماند

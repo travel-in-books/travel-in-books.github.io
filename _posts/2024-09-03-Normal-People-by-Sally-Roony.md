@@ -15,6 +15,7 @@ toc: true
 | سال چاپ | ۲۰۱۸  |
 | کشور | ایرلند  |
 | ژانر | رمان عاشقانه  |
+| تعداد صفحات | حدود ۲۸۰ صفحه |
 | امتیاز | {% include rating.html score=1 %} |
 
 تیتر انگلیسی<sup id="a1">[1](#f1)</sup>
@@ -62,3 +63,5 @@ Lorraine Waldron
 Denise Sheridan
 Alan Sheridan
 </span> [↩](#a3)
+
+### آنچه از این کتاب در ذهنم ماند

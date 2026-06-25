@@ -15,6 +15,7 @@ toc: true
 | سال چاپ | ۲۰۰۹ و ۲۰۱۰  |
 | کشور | ژاپن  |
 | ژانر | رمان فانتزی  |
+| تعداد صفحات | حدود ۱۳۰۰ صفحه |
 | امتیاز | {% include rating.html score=7 %} |
 
 تیتر انگلیسی<sup id="a1">[1](#f1)</sup>
@@ -192,3 +193,5 @@ toc: true
 
 <b id="f1">1</b> <span class="footnote">1Q84 by Haruki Murakami</span>[↩](#a1)
 <br><b id="f2">2</b> <span class="footnote">Maza and Dohta (maybe mother and daughter???)</span> [↩](#a2)
+
+### آنچه از این کتاب در ذهنم ماند

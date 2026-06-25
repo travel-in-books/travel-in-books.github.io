@@ -15,6 +15,7 @@ toc: true
 | سال چاپ | ۱۹۳۰ |
 | کشور | آمریکا |
 | ژانر | رمان ادبی |
+| تعداد صفحات | حدود ۲۵۰ صفحه |
 | امتیاز | {% include rating.html score=7 %} |
 
 
@@ -72,3 +73,5 @@ toc: true
 
 <b id="f1">1</b> <span class="footnote">Dry September</span>[↩](#a1)
 <br><b id="f2">2</b> <span class="footnote">A Rose for Emily</span> [↩](#a2)
+
+### آنچه از این کتاب در ذهنم ماند

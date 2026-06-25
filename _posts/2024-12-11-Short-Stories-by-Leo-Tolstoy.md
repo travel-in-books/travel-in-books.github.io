@@ -15,6 +15,7 @@ toc: true
 | سال چاپ | ۱۹۱۱  |
 | کشور | روسیه  |
 | ژانر | رمان ادبی  |
+| تعداد صفحات | حدود ۳۰۰ صفحه |
 | امتیاز | {% include rating.html score=7 %} |
 
 
@@ -61,3 +62,4 @@ toc: true
 <b id="f1">1</b> <span class="footnote">The Devil</span>[↩](#a1)
 <br><b id="f2">2</b> <span class="footnote">The Kreutzer Sonata</span> [↩](#a2)
 
+### آنچه از این کتاب در ذهنم ماند

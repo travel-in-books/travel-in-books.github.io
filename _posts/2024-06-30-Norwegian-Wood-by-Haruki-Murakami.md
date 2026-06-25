@@ -28,6 +28,7 @@ quiz:
 | سال چاپ | ۱۹۸۷ |
 | کشور | ژاپن |
 | ژانر | رمان روانشناسی |
+| تعداد صفحات | حدود ۳۸۰ صفحه |
 | امتیاز | {% include rating.html score=6 %} |
 
 تیتر انگلیسی<sup id="a1">[1](#f1)</sup>
@@ -54,3 +55,4 @@ quiz:
 
 <b id="f1">1</b> <span class="footnote">Norwegian Wood by Haruki Murakami</span>[↩](#a1)
 
+### آنچه از این کتاب در ذهنم ماند

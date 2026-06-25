@@ -16,6 +16,7 @@ toc: true
 | سال چاپ | ۲۰۰۳ |
 | کشور | انگلیس |
 | ژانر | رمان اجتماعی |
+| تعداد صفحات | حدود ۲۷۰ صفحه |
 | امتیاز | {% include rating.html score=8 %} |
 
 تیتر انگلیسی<sup id="a1">[1](#f1)</sup>
@@ -52,3 +53,5 @@ toc: true
  ناظر امتحان ریاضی کریستوفر.
 
  <b id="f1">1</b><span class="footnote">The Curious Incident of the Dog in the Night Time by Mark Haddon</span>[↩](#a1)
+
+### آنچه از این کتاب در ذهنم ماند

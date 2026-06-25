@@ -12,6 +12,7 @@ toc: true
 | سال چاپ | ۲۰۰۱ |
 | کشور | ایران |
 | ژانر | رمان تاریخی و اجتماعی |
+| تعداد صفحات | حدود ۲۹۰ صفحه |
 | امتیاز | {% include rating.html score=6 %} |
 
 ### شخصیت‌ها
@@ -75,3 +76,5 @@ toc: true
 [چراغ ها را من خاموش می کنم با صدای ناهید عزیزی](https://www.youtube.com/playlist?list=PLXKXu_evJveenXAbAgLNFguEuybduBwOR)
 
 ### نظر شخصی
+
+### آنچه از این کتاب در ذهنم ماند

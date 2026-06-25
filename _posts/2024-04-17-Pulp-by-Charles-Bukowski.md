@@ -15,6 +15,7 @@ toc: true
 | سال چاپ | ۱۹۹۴ |
 | کشور | آمریکا |
 | ژانر | رمان طنز و اجتماعی |
+| تعداد صفحات | حدود ۲۰۰ صفحه |
 | امتیاز | {% include rating.html score=7 %} |
 
 تیتر انگلیسی<sup id="a1">[1](#f1)</sup>
@@ -28,4 +29,4 @@ toc: true
 
 <b id="f1">1</b> <span class="footnote">Pulp by Charles Bukowski</span>[↩](#a1)
 
-
+### آنچه از این کتاب در ذهنم ماند

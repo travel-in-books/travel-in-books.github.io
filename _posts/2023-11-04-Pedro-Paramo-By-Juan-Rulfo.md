@@ -28,6 +28,7 @@ quiz:
 | سال چاپ | ۱۹۵۵ |
 | کشور | مکزیک |
 | ژانر | رمان ادبی |
+| تعداد صفحات | حدود ۱۵۰ صفحه |
 | امتیاز | {% include rating.html score=7 %} |
 
 [ورژن انگلیسی](https://www.fadedpage.com/books/20211110/html.php)
@@ -119,3 +120,5 @@ quiz:
 {% include quiz.html %}
 
 <b id="f1">1</b> <span class="footnote">Pedro Paramo by Juan Rulfo</span>[↩](#a1)
+
+### آنچه از این کتاب در ذهنم ماند

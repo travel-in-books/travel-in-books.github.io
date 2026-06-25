@@ -15,6 +15,7 @@ toc: true
 | سال چاپ | ۱۸۵۹ |
 | کشور | روسیه |
 | ژانر | رمان طنز اجتماعی |
+| تعداد صفحات | حدود ۱۶۰ صفحه |
 | امتیاز | {% include rating.html score=5 %} |
 
 تیتر انگلیسی<sup id="a1">[1](#f1)</sup>
@@ -39,5 +40,4 @@ toc: true
 
 <b id="f1">1</b> <span class="footnote">Uncle's Dream by Fyodor Dostoevsky</span>[↩](#a1)
 
-
-
+### آنچه از این کتاب در ذهنم ماند

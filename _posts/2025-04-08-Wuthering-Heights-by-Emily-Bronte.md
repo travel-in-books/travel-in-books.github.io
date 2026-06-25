@@ -15,6 +15,7 @@ toc: true
 | سال چاپ | ۱۸۴۷ |
 | کشور | انگلیس |
 | ژانر | رمان ادبی |
+| تعداد صفحات | حدود ۴۰۰ صفحه |
 | امتیاز | {% include rating.html score=8 %} |
 
 تیتر انگلیسی<sup id="a1">[1](#f1)</sup>
@@ -63,3 +64,5 @@ toc: true
 ---
 
 <b id="f1">1</b> <span class="footnote">Wuthering Heights by Emily Bronte</span>[↩](#a1)
+
+### آنچه از این کتاب در ذهنم ماند

@@ -12,6 +12,7 @@ toc: true
 | سال چاپ | ۲۰۱۱ |
 | کشور | ایران |
 | ژانر | روانشناسی |
+| تعداد صفحات | حدود ۲۰۰ صفحه |
 | امتیاز | {% include rating.html score=0 %} |
 
 تیتر انگلیسی<sup id="a1">[1](#f1)</sup>
@@ -39,4 +40,4 @@ toc: true
 
 <b id="f1">1</b><span class="footnote">Pieces of a Coherent Whole by Pooneh Moghimi</span>[↩](#a1)
 
-
+### آنچه از این کتاب در ذهنم ماند

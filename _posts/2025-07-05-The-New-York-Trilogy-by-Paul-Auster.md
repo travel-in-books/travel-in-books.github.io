@@ -15,6 +15,7 @@ toc: true
 | سال چاپ | ۱۹۸۷  |
 | کشور | آمریکا  |
 | ژانر | رمان   |
+| تعداد صفحات | حدود ۳۵۰ صفحه |
 | امتیاز | {% include rating.html score=7 %} |
 
 
@@ -146,3 +147,5 @@ toc: true
 <br><b id="f2">2</b> <span class="footnote">City of Glass, Ghosts, The Locked Room</span> [↩](#a2)
 <br><b id="f3">3</b> <span class="footnote">Daniel Quinn, Peter Stillman Sr., Peter Stillman Jr., Virginia Stillman, Paul Auster, Max Work</span> [↩](#a3)
 <br><b id="f4">4</b> <span class="footnote">The Narrator, Fanshawe, Sophie, Ben Sachs, Irene, Stuart Green</span> [↩](#a4)
+
+### آنچه از این کتاب در ذهنم ماند

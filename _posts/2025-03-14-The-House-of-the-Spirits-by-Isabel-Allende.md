@@ -15,6 +15,7 @@ toc: true
 | سال چاپ | ۱۹۸۲ |
 | کشور | شیلی |
 | ژانر | رمان ادبی |
+| تعداد صفحات | حدود ۵۰۰ صفحه |
 | امتیاز | {% include rating.html score=6 %} |
 
 تیتر اسپانیایی و انگلیسی<sup id="a1">[1](#f1)</sup>
@@ -95,3 +96,5 @@ Severo (به معنای واقعی کلمه، "شدید") و Nívea ("برفی")
 
 
 <b id="f1">1</b> <span class="footnote">La casa de los espíritus (The House of the Spirits) by Isabel Allende </span>[↩](#a1)
+
+### آنچه از این کتاب در ذهنم ماند

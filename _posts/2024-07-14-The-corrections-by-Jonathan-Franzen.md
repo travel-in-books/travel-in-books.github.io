@@ -16,6 +16,7 @@ mermaid: true
 | سال چاپ | ۲۰۰۱ |
 | کشور | آمریکا  |
 | ژانر | رمان ادبی، خانوادگی، اجتماعی  |
+| تعداد صفحات | حدود ۷۰۰ صفحه |
 | امتیاز | {% include rating.html score=10 %} |
 
 تیتر انگلیسی<sup id="a1">[1](#f1)</sup>
@@ -127,3 +128,5 @@ The more he thought about it, the angrier he got
 The Generator
 One Last Christmas
 </span>[↩](#a2)
+
+### آنچه از این کتاب در ذهنم ماند

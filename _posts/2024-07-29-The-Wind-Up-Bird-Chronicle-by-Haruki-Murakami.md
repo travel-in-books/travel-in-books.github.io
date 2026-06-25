@@ -15,6 +15,7 @@ toc: true
 | سال چاپ | ۱۹۹۴ و ۱۹۹۵  |
 | کشور | ژاپن  |
 | ژانر | فانتزی کم   |
+| تعداد صفحات | حدود ۷۵۰ صفحه |
 | امتیاز | {% include rating.html score=8 %} |
 
 تیتر انگلیسی<sup id="a1">[1](#f1)</sup>
@@ -383,3 +384,5 @@ Nutmeg Akasaka
 Cinnamon Akasaka
 Mr. Honda
 </span>[↩](#a2)
+
+### آنچه از این کتاب در ذهنم ماند

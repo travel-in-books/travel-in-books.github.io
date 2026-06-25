@@ -15,6 +15,7 @@ toc: true
 | سال چاپ | ۰۰۰۰ |
 | کشور | روسیه |
 | ژانر | داستان کوتاه |
+| تعداد صفحات | حدود ۲۵۰ صفحه |
 | امتیاز | {% include rating.html score=0 %} |
 
 
@@ -23,3 +24,5 @@ toc: true
 
 <b id="f1">1</b> <span class="footnote">A Gentle Creature (or somtimes The Meek One)</span>[↩](#a1)
 <!-- <br><b id="f2">2</b> <span class="footnote">The Failure</span>[↩](#a2) -->
+
+### آنچه از این کتاب در ذهنم ماند

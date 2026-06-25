@@ -15,6 +15,7 @@ toc: true
 | سال چاپ | ۱۹۴۳ |
 | کشور | مصر |
 | ژانر | رمان تاریخی |
+| تعداد صفحات | حدود ۲۵۰ صفحه |
 | امتیاز | {% include rating.html score=9 %} |
 
 تیتر انگلیسی<sup id="a1">[1](#f1)</sup>
@@ -67,3 +68,4 @@ toc: true
 The Festival of Nile, The Sandal, The Palace of Biga, Tahu, Pharaoh, Love, The Shadow of Love, Benamun, Khnumhotep, Nitocris, The New Prime Minister, The two Queens, A Glimmer of Light, The Messenger, The Letter, Tahu's Delirium, The Waiting, The Meeting, The Shout in the Crowd, Hope and Poison, Arrow of the People, Farewell, Tahu's End, The End
 </span>[↩](#a2)
 
+### آنچه از این کتاب در ذهنم ماند

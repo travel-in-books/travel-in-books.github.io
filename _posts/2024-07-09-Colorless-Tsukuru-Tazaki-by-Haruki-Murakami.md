@@ -16,6 +16,7 @@ toc: true
 | سال چاپ | ۲۰۱۳ |
 | کشور | ژاپن |
 | ژانر | رمان اجتماعی و روابط دوستی |
+| تعداد صفحات | حدود ۳۰۰ صفحه |
 | امتیاز | {% include rating.html score=8 %} |
 
 تیتر انگلیسی<sup id="a1">[1](#f1)</sup>
@@ -61,3 +62,5 @@ toc: true
 
 <b id="f1">1</b> <span class="footnote">Colorless Tsukuru Tazaki by Haruki Murakami</span>[↩](#a1)
 <br><b id="f2">2</b> <span class="footnote">Tsukuru Tazaki,Akamatsu,Oumi,Shiro,Kuroda,Sara Kimoto</span>[↩](#a2)
+
+### آنچه از این کتاب در ذهنم ماند

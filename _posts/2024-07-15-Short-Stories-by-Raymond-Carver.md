@@ -16,6 +16,7 @@ toc: true
 | سال چاپ | ۱۹۸۱ |
 | کشور | آمریکا |
 | ژانر | رمان اجتماعی |
+| تعداد صفحات | حدود ۲۵۰ صفحه |
 | امتیاز | {% include rating.html score=7 %} |
 
 
@@ -102,4 +103,4 @@ toc: true
 <br><b id="f8">8</b> <span class="footnote">Elephant</span>[↩](#a8)
 <br><b id="f9">9</b> <span class="footnote">Intimicy</span>[↩](#a9)
 
-
+### آنچه از این کتاب در ذهنم ماند

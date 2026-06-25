@@ -15,6 +15,7 @@ toc: true
 | سال چاپ | ۱۸۸۳–۱۸۹۲  |
 | کشور | آلمان  |
 | ژانر | فلسفی  |
+| تعداد صفحات | حدود ۴۰۰ صفحه |
 | امتیاز | {% include rating.html score=7 %} |
 
 تیتر انگلیسی<sup id="a1">[1](#f1)</sup>
@@ -23,3 +24,5 @@ toc: true
 - ابرانسان
 
 <b id="f1">1</b> <span class="footnote">Thus Spoke Zarathustra by Friedrich Nietzsche</span>[↩](#a1)
+
+### آنچه از این کتاب در ذهنم ماند

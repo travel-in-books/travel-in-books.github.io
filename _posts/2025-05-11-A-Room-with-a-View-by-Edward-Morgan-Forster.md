@@ -15,6 +15,7 @@ toc: true
 | سال چاپ | ۱۹۰۸  |
 | کشور | انگلیس  |
 | ژانر | رمان ادبی  |
+| تعداد صفحات | حدود ۲۵۰ صفحه |
 | امتیاز | {% include rating.html score=7 %} |
 
 ### خلاصه
@@ -108,3 +109,5 @@ Reverend Cuthbert Eager
 Miss Eleanor Lavish
 Mrs. Vyse
 </span> [↩](#a1)
+
+### آنچه از این کتاب در ذهنم ماند

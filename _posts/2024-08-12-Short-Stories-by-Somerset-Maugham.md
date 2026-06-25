@@ -15,6 +15,7 @@ toc: true
 | سال چاپ | ۱۹۲۰ |
 | کشور | انگلیس |
 | ژانر | ادبی |
+| تعداد صفحات | حدود ۳۰۰ صفحه |
 | امتیاز | {% include rating.html score=9 %} |
 
 
@@ -163,3 +164,5 @@ toc: true
 <br><b id="f10">10</b> <span class="footnote">The Verger</span> [↩](#a10)
 <br><b id="f11">11</b> <span class="footnote">The Luncheon</span> [↩](#a11)
 <br><b id="f12">12</b> <span class="footnote">Red</span> [↩](#a12)
+
+### آنچه از این کتاب در ذهنم ماند

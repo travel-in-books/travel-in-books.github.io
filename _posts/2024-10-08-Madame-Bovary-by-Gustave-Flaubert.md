@@ -28,6 +28,7 @@ quiz:
 | سال چاپ | ۱۸۵۷  |
 | کشور | فرانسه  |
 | ژانر | ادبیات داستانی |
+| تعداد صفحات | حدود ۴۰۰ صفحه |
 | امتیاز | {% include rating.html score=8 %} |
 
 تیتر انگلیسی<sup id="a1">[1](#f1)</sup>
@@ -80,3 +81,5 @@ quiz:
 {% include quiz.html %}
 
 <b id="f1">1</b><span class="footnote">Madam Bovary by Gustave Flaubert</span>[↩](#a1)
+
+### آنچه از این کتاب در ذهنم ماند

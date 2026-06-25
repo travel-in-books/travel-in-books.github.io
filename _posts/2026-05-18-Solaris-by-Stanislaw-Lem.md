@@ -15,6 +15,7 @@ toc: true
 | سال چاپ | ۱۹۶۱ |
 | کشور | لهستان |
 | ژانر | علمی-تخیلی |
+| تعداد صفحات | حدود ۲۵۰ صفحه |
 | امتیاز | {% include rating.html score=7 %} |
 
 [ورژن انگلیسی با ترجمه قدیمیتر](https://s3.us-west-1.wasabisys.com/luminist/EB/L/Lem%20-%20Solaris.pdf)
@@ -57,3 +58,5 @@ toc: true
 
 
 ![Solaris](solaris.png)
+
+### آنچه از این کتاب در ذهنم ماند

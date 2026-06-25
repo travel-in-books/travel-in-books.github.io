@@ -16,6 +16,7 @@ toc: true
 | سال چاپ | ۰۰۰۰ |
 | کشور | آمریکا |
 | ژانر | رمان اجتماعی |
+| تعداد صفحات | حدود ۲۵۰ صفحه |
 | امتیاز | {% include rating.html score=7 %} |
 
 
@@ -41,3 +42,5 @@ toc: true
 </details>
 
 <b id="f1">1</b> <span class="footnote">Portrait of a Girl in Glass</span>[↩](#a1)
+
+### آنچه از این کتاب در ذهنم ماند

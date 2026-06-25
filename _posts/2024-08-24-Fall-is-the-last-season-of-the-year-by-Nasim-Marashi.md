@@ -12,6 +12,7 @@ toc: true
 | سال چاپ | ۲۰۱۵ |
 | کشور | ایران |
 | ژانر | رمان اجتماعی |
+| تعداد صفحات | حدود ۱۹۰ صفحه |
 | امتیاز | {% include rating.html score=5 %} |
 
 تیتر انگلیسی<sup id="a1">[1](#f1)</sup>
@@ -27,3 +28,4 @@ toc: true
 
 <b id="f1">1</b><span class="footnote">Fall is the last season of the year by Nasim Marashi</span>[↩](#a1)
 
+### آنچه از این کتاب در ذهنم ماند

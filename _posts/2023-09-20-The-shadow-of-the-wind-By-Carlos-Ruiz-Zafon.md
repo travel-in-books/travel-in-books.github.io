@@ -28,6 +28,7 @@ quiz:
 | سال چاپ | ۲۰۰۱ |
 | کشور | اسپانیا |
 | ژانر | رمان گوتیک |
+| تعداد صفحات | حدود ۶۰۰ صفحه |
 | امتیاز | {% include rating.html score=8 %} |
 
 تیتر انگلیسی<sup id="a1">[1](#f1)</sup>
@@ -62,4 +63,4 @@ quiz:
 
 <b id="f1">1</b> <span class="footnote">The Shadow of the Wind by Carlos Ruiz Zafon</span>[↩](#a1)
 
-
+### آنچه از این کتاب در ذهنم ماند

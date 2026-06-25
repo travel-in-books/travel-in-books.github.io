@@ -12,6 +12,7 @@ toc: true
 | سال چاپ | ۱۹۵۱ |
 | کشور | آرژانتین |
 | ژانر | ادبی |
+| تعداد صفحات | حدود ۲۵۰ صفحه |
 | امتیاز | {% include rating.html score=7 %} |
 
 
@@ -102,3 +103,4 @@ toc: true
 <b id="f1">1</b> <span class="footnote">Bestiario</span>[↩](#a1)
 <b id="f2">2</b> <span class="footnote">Final del juego</span>[↩](#a2)
 
+### آنچه از این کتاب در ذهنم ماند

@@ -15,6 +15,7 @@ toc: true
 | سال چاپ | ۲۰۰۵ |
 | کشور | آمریکا |
 | ژانر | آموزشی |
+| تعداد صفحات | حدود ۲۵۰ صفحه |
 | امتیاز | {% include rating.html score=0 %} |
 
 
@@ -35,3 +36,5 @@ toc: true
 | استفاده از برعکس‌گویی برای ایجاد طنز و برجسته کردن تناقضات و تضادها                            | **Reverse Satire**          | **برعکس‌گویی**                |
 
 <b id="f1">1</b><span class="footnote">Comic Relief: A Comprehensive Philosophy of Humor by John Morreall</span>[↩](#a1)
+
+### آنچه از این کتاب در ذهنم ماند

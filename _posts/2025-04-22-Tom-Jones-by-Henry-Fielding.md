@@ -15,6 +15,7 @@ toc: true
 | سال چاپ | ۱۷۴۹  |
 | کشور | انگلیس  |
 | ژانر | رمان ادبی  |
+| تعداد صفحات | حدود ۹۰۰ صفحه |
 | امتیاز | {% include rating.html score=7 %} |
 
 
@@ -332,3 +333,5 @@ toc: true
 ---
 
 <b id="f1">1</b> <span class="footnote">The History of Tom Jones, a Foundling by Henry Fielding</span>[↩](#a1)
+
+### آنچه از این کتاب در ذهنم ماند

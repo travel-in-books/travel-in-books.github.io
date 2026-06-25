@@ -11,6 +11,7 @@ toc: true
 | سال چاپ |  ۲۰۰۱ |
 | کشور | پرو  |
 | ژانر | مقاله  |
+| تعداد صفحات | حدود ۳۰۰ صفحه |
 | امتیاز | {% include rating.html score=7 %} |
 
 ### چرا ادبیات؟<sup id="a1">[1](#f1)</sup>
@@ -25,3 +26,5 @@ toc: true
 
 
 <b id="f1">1</b> <span class="footnote">Why Literature?</span>[↩](#a1)
+
+### آنچه از این کتاب در ذهنم ماند

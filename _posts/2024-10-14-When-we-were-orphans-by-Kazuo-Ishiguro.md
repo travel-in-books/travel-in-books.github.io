@@ -15,6 +15,7 @@ toc: true
 | سال چاپ | ۲۰۰۰  |
 | کشور | انگلیس  |
 | ژانر | رمان تاریخی  |
+| تعداد صفحات | حدود ۳۳۰ صفحه |
 | امتیاز | {% include rating.html score=9 %} |
 
 تیتر انگلیسی<sup id="a1">[1](#f1)</sup>
@@ -51,3 +52,5 @@ toc: true
 ### نظر شخصی
 
 <b id="f1">1</b><span class="footnote">When we were orphans by Kazuo Ishiguro</span>[↩](#a1)
+
+### آنچه از این کتاب در ذهنم ماند

@@ -15,6 +15,7 @@ toc: true
 | سال چاپ | ۲۰۲۲  |
 | کشور | سریلانکا  |
 | ژانر | فانتزی   |
+| تعداد صفحات | حدود ۴۵۰ صفحه |
 | امتیاز | {% include rating.html score=7 %} |
 
 تیتر انگلیسی<sup id="a1">[1](#f1)</sup>
@@ -43,3 +44,4 @@ toc: true
 <b id="f2">2</b> <span class="footnote">“Father, forgive them, for I will never.”</span>[↩](#a2)
 <b id="f3">3</b> <span class="footnote">You wake up with the answer to the question that everyone asks. The answer is Yes, and the answer is Just Like Here But Worse. That's all the insight you'll ever get. So you might as well go back to sleep.</span>[↩](#a3)
 
+### آنچه از این کتاب در ذهنم ماند

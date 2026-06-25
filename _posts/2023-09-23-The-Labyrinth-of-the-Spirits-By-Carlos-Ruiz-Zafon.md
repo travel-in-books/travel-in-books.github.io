@@ -28,6 +28,7 @@ quiz:
 | سال چاپ | ۲۰۱۶ |
 | کشور | اسپانیا |
 | ژانر | رمان گوتیک |
+| تعداد صفحات | حدود ۹۰۰ صفحه |
 | امتیاز | {% include rating.html score=8 %} |
 
 تیتر انگلیسی<sup id="a1">[1](#f1)</sup>
@@ -50,3 +51,5 @@ quiz:
 {% include quiz.html %}
 
 <b id="f1">1</b> <span class="footnote">The Labyrinth of the Spirits by Carlos Ruiz Zafon</span>[↩](#a1)
+
+### آنچه از این کتاب در ذهنم ماند

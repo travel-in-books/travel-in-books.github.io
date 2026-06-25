@@ -12,6 +12,7 @@ toc: true
 | سال چاپ | ۲۰۰۱  |
 | کشور | ایران  |
 | ژانر | رمان ادبی  |
+| تعداد صفحات | حدود ۱۶۰ صفحه |
 | امتیاز | {% include rating.html score=4 %} |
 
 
@@ -31,3 +32,5 @@ toc: true
 
 
 <b id="f1">1</b> <span class="footnote">Kiss the Fair Face of God by Mostafa Mastoor</span>[↩](#a1)
+
+### آنچه از این کتاب در ذهنم ماند

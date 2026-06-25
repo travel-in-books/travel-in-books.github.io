@@ -15,6 +15,7 @@ toc: true
 | سال چاپ | ۱۸۷۲ |
 | کشور | انگلیس |
 | ژانر | رمان ویکتوریایی |
+| تعداد صفحات | حدود ۹۰۰ صفحه |
 | امتیاز | {% include rating.html score=8 %} |
 
 [متن انگلیسی](https://www.gutenberg.org/cache/epub/145/pg145-images.html)
@@ -508,3 +509,5 @@ Pues no podemos haber aquello que queremos, queramos aquello que podremos.
 
 
 **فصل پنجاهم:**
+
+### آنچه از این کتاب در ذهنم ماند

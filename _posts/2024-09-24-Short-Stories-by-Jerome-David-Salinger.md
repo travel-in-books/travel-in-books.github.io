@@ -12,6 +12,7 @@ toc: true
 | سال چاپ | ۱۹۵۰ |
 | کشور | آمریکا |
 | ژانر | ادبی |
+| تعداد صفحات | حدود ۲۵۰ صفحه |
 | امتیاز | {% include rating.html score=7 %} |
 
 ### جنگل وارونه<sup id="a1">[1](#f1)</sup>
@@ -76,3 +77,5 @@ toc: true
 <br><b id="f2">2</b> <span class="footnote">A Perfect Day for Bananafish</span> [↩](#a2)
 <br><b id="f3">3</b> <span class="footnote">Uncle Wiggily in Connecticut</span> [↩](#a3)
 <br><b id="f4">4</b> <span class="footnote">A girl I Knew</span> [↩](#a4)
+
+### آنچه از این کتاب در ذهنم ماند

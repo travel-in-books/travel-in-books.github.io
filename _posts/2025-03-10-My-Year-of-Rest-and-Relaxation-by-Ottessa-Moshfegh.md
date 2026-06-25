@@ -15,6 +15,7 @@ toc: true
 | سال چاپ | ۲۰۱۸ |
 | کشور | آمریکا |
 | ژانر | رمان ادبی |
+| تعداد صفحات | حدود ۲۹۰ صفحه |
 | امتیاز | {% include rating.html score=8 %} |
 
 تیتر انگلیسی<sup id="a1">[1](#f1)</sup>
@@ -29,3 +30,5 @@ toc: true
 - روا
 
 <b id="f1">1</b> <span class="footnote">My Year of Rest and Relaxation by Ottessa Moshfegh</span>[↩](#a1)
+
+### آنچه از این کتاب در ذهنم ماند

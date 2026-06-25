@@ -15,6 +15,7 @@ toc: true
 | سال چاپ | ۱۹۵۳ |
 | کشور | آرژانتین |
 | ژانر | ادبی |
+| تعداد صفحات | حدود ۲۰۰ صفحه |
 | امتیاز | {% include rating.html score=7 %} |
 
 ### خلاصه
@@ -98,3 +99,4 @@ La comida de los cerdos: Pigs devour human remnants, underscoring themes of degr
 
 Salvada pureza: Innocence is purportedly purified through an act of animal sacrifice, questioning redemption's cost.
 
+### آنچه از این کتاب در ذهنم ماند

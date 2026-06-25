@@ -16,6 +16,7 @@ mermaid: true
 | سال چاپ | ۲۰۱۰ |
 | کشور | آمریکا  |
 | ژانر | رمان ادبی، خانوادگی، اجتماعی  |
+| تعداد صفحات | حدود ۷۰۰ صفحه |
 | امتیاز | {% include rating.html score=10 %} |
 
 تیتر انگلیسی<sup id="a1">[1](#f1)</sup>
@@ -103,3 +104,5 @@ mermaid: true
 </details>
 
 <b id="f1">1</b><span class="footnote">Freedom by Jonathan Franzen</span>[↩](#a1)
+
+### آنچه از این کتاب در ذهنم ماند

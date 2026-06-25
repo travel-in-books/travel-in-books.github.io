@@ -15,6 +15,7 @@ toc: true
 | سال چاپ | ۱۹۹۹ |
 | کشور | آفریقای جنوبی |
 | ژانر | رمان تاریخی اجتماعی |
+| تعداد صفحات | حدود ۲۵۰ صفحه |
 | امتیاز | {% include rating.html score=7 %} |
 
 تیتر انگلیسی<sup id="a1">[1](#f1)</sup>
@@ -29,6 +30,4 @@ toc: true
 
 <b id="f1">1</b> <span class="footnote">Disgrace by John Maxwell Coetzee</span>[↩](#a1)
 
-
-
-
+### آنچه از این کتاب در ذهنم ماند

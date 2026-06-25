@@ -15,6 +15,7 @@ toc: true
 | سال چاپ | ۲۰۰۸ |
 | کشور | استرالیا |
 | ژانر | رمان طنز و فانتزی |
+| تعداد صفحات | حدود ۷۰۰ صفحه |
 | امتیاز | {% include rating.html score=7 %} |
 
 تیتر انگلیسی<sup id="a1">[1](#f1)</sup>
@@ -44,4 +45,4 @@ toc: true
 
 <b id="f1">1</b> <span class="footnote">A fraction of the whole by Steve Toltz</span>[↩](#a1)
 
-
+### آنچه از این کتاب در ذهنم ماند

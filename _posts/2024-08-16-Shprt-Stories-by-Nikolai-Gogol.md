@@ -12,6 +12,7 @@ toc: true
 | سال چاپ | ۱۸۴۲ |
 | کشور | روسیه |
 | ژانر | طنز اجتماعی |
+| تعداد صفحات | حدود ۲۵۰ صفحه |
 | امتیاز | {% include rating.html score=7 %} |
 
 
@@ -151,3 +152,4 @@ toc: true
 <br><b id="f2">2</b> <span class="footnote">The nose</span> [↩](#a2)
 <br><b id="f3">3</b> <span class="footnote">Memories of a Madman</span>[↩](#a3)
 
+### آنچه از این کتاب در ذهنم ماند

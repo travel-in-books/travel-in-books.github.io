@@ -15,6 +15,7 @@ toc: true
 | سال چاپ | ۲۰۰۵ |
 | کشور | ژاپن |
 | ژانر | فانتزی |
+| تعداد صفحات | حدود ۲۵۰ صفحه |
 | امتیاز | {% include rating.html score=6 %} |
 
 
@@ -112,3 +113,5 @@ toc: true
 <br><b id="f4">4</b> <span class="footnote">Blind Willow, Sleeping Woman</span> [↩](#a4)
 <br><b id="f5">5</b> <span class="footnote">The Year of Spaghetti</span> [↩](#a5)
 <br><b id="f6">6</b> <span class="footnote">Kaho</span> [↩](#a6)
+
+### آنچه از این کتاب در ذهنم ماند

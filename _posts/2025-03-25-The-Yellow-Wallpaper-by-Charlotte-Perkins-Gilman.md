@@ -15,6 +15,7 @@ toc: true
 | سال چاپ | ۱۸۹۲ |
 | کشور | آمریکا |
 | ژانر | داستان کوتاه |
+| تعداد صفحات | حدود ۸۰ صفحه |
 | امتیاز | {% include rating.html score=6 %} |
 
 تیتر انگلیسی<sup id="a1">[1](#f1)</sup>
@@ -22,3 +23,5 @@ toc: true
 [ورژن انگلیسی داستان کوتاه](https://www.nlm.nih.gov/exhibition/theliteratureofprescription/exhibitionAssets/digitalDocs/The-Yellow-Wall-Paper.pdf)
 
 <b id="f1">1</b><span class="footnote">The Yellow Wallpaper by Charlotte Perkins Gilman</span>[↩](#a1)
+
+### آنچه از این کتاب در ذهنم ماند

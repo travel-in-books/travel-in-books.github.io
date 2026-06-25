@@ -15,6 +15,7 @@ toc: true
 | سال چاپ | ۰۰۰۰ |
 | کشور | آمریکا |
 | ژانر | ادبی |
+| تعداد صفحات | حدود ۲۵۰ صفحه |
 | امتیاز | {% include rating.html score=7 %} |
 
 - پرداخت به جزییات
@@ -44,3 +45,5 @@ toc: true
 ----
 
 <b id="f1">1</b> <span class="footnote">A Knack for Languages</span>[↩](#a1)
+
+### آنچه از این کتاب در ذهنم ماند

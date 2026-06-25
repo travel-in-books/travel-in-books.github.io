@@ -16,6 +16,7 @@ mermaid: true
 | سال چاپ | ۲۰۲۴ |
 | کشور | آمریکا  |
 | ژانر | رمان ادبی، خانوادگی، اجتماعی  |
+| تعداد صفحات | حدود ۳۸۰ صفحه |
 | امتیاز | {% include rating.html score=2 %} |
 
 تیتر انگلیسی<sup id="a1">[1](#f1)</sup>
@@ -45,3 +46,5 @@ mermaid: true
 
 <b id="f1">1</b> <span class="footnote">Blue Sisters by Coco Mellors</span>[↩](#a1)
 <br><b id="f2">2</b> <span class="footnote">Avery, Bonnie, Nikki, Lucky</span> [↩](#a2)
+
+### آنچه از این کتاب در ذهنم ماند

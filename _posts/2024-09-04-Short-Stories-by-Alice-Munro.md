@@ -15,6 +15,7 @@ toc: true
 | سال چاپ | ۲۰۰۱ |
 | کشور | کانادا |
 | ژانر | ادبی |
+| تعداد صفحات | حدود ۳۰۰ صفحه |
 | امتیاز | {% include rating.html score=7 %} |
 
 
@@ -92,3 +93,4 @@ toc: true
 <br><b id="f3">3</b> <span class="footnote">Amundsen</span>[↩](#a3)
 <br><b id="f4">4</b> <span class="footnote">Carried Away</span>[↩](#a4)
 
+### آنچه از این کتاب در ذهنم ماند

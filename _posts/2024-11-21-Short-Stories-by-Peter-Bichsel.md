@@ -13,6 +13,7 @@ toc: true
 | سال چاپ | ۰۰۰۰ |
 | کشور | سوئیس |
 | ژانر | رمان اجتماعی |
+| تعداد صفحات | حدود ۱۲۰ صفحه |
 | امتیاز | {% include rating.html score=7 %} |
 
 
@@ -28,3 +29,5 @@ toc: true
 </details>
 
 <b id="f1">1</b> <span class="footnote">Tisch ist ein Tisch (original), Table is a table (English)</span>[↩](#a1)
+
+### آنچه از این کتاب در ذهنم ماند

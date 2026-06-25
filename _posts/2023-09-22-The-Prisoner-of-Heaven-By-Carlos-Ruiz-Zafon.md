@@ -28,6 +28,7 @@ quiz:
 | سال چاپ | ۲۰۱۱ |
 | کشور | اسپانیا |
 | ژانر | رمان گوتیک |
+| تعداد صفحات | حدود ۴۰۰ صفحه |
 | امتیاز | {% include rating.html score=7 %} |
 
 تیتر انگلیسی<sup id="a1">[1](#f1)</sup>
@@ -50,3 +51,5 @@ quiz:
 {% include quiz.html %}
 
 <b id="f1">1</b> <span class="footnote">The Prisoner of Heaven by Carlos Ruiz Zafon</span>[↩](#a1)
+
+### آنچه از این کتاب در ذهنم ماند

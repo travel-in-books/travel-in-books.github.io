@@ -28,6 +28,7 @@ quiz:
 | سال چاپ | ۱۹۵۲  |
 | کشور | آمریکا |
 | ژانر | رمان ادبی |
+| تعداد صفحات | حدود ۷۵۰ صفحه |
 | امتیاز | {% include rating.html score=7 %} |
 
 تیتر انگلیسی<sup id="a1">[1](#f1)</sup>
@@ -391,3 +392,5 @@ quiz:
 {% include quiz.html %}
 
 <b id="f1">1</b><span class="footnote">East of Eden by John Steinbeck</span>[↩](#a1)
+
+### آنچه از این کتاب در ذهنم ماند

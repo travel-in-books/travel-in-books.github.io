@@ -28,6 +28,7 @@ quiz:
 | سال چاپ | ۱۸۸۰ |
 | کشور | روسیه |
 | ژانر | رمان طنز اجتماعی |
+| تعداد صفحات | حدود ۱۱۰۰ صفحه |
 | امتیاز | {% include rating.html score=9 %} |
 
 تیتر انگلیسی<sup id="a1">[1](#f1)</sup>
@@ -181,3 +182,5 @@ quiz:
 {% include quiz.html %}
 
 <b id="f1">1</b> <span class="footnote">The Brothers Karamazov by Fyodor Dostoevsky</span>[↩](#a1)
+
+### آنچه از این کتاب در ذهنم ماند

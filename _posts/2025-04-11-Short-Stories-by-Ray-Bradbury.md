@@ -15,6 +15,7 @@ toc: true
 | سال چاپ | ۱۹۵۲  |
 | کشور | آمریکا  |
 | ژانر | مجموعه داستان کوتاه  |
+| تعداد صفحات | حدود ۲۸۰ صفحه |
 | امتیاز | {% include rating.html score=7 %} |
 
 
@@ -35,3 +36,5 @@ toc: true
 </details>
 
 <b id="f1">1</b> <span class="footnote">A Sound of Thunder</span>[↩](#a1)
+
+### آنچه از این کتاب در ذهنم ماند
