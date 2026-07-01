@@ -39,6 +39,15 @@ order: 4
     direction: rtl;
   }
 
+  .au-avatar {
+    width: 3.2rem;
+    height: 3.2rem;
+    border-radius: 50%;
+    object-fit: cover;
+    flex-shrink: 0;
+    border: 2px solid var(--border-color, #dee2e6);
+  }
+
   .au-count {
     font-size: 0.7rem;
     font-weight: 600;
@@ -184,7 +193,7 @@ const posts = [
 /* Author bios/metadata from _data/authors.yml */
 const authorInfo = {
   {% for a in site.data.authors %}
-  {{ a.name | jsonify }}: { born: {{ a.born | default: "" | jsonify }}, died: {{ a.died | default: "" | jsonify }}, country: {{ a.country | default: "" | jsonify }}, works: {{ a.works | default: "" | jsonify }}, bio: {{ a.bio | default: "" | jsonify }} },
+  {{ a.name | jsonify }}: { born: {{ a.born | default: "" | jsonify }}, died: {{ a.died | default: "" | jsonify }}, country: {{ a.country | default: "" | jsonify }}, works: {{ a.works | default: "" | jsonify }}, bio: {{ a.bio | default: "" | jsonify }}, image: {{ a.image | default: "" | jsonify }} },
   {% endfor %}
 };
 
@@ -221,6 +230,18 @@ for (const author of authors) {
   const heading = document.createElement('h3');
   heading.className = 'au-name';
 
+  /* Author info (bio, life dates, country, works, portrait) */
+  const info = authorInfo[author];
+
+  if (info && info.image) {
+    const avatar = document.createElement('img');
+    avatar.className = 'au-avatar';
+    avatar.src = info.image;
+    avatar.alt = author;
+    avatar.loading = 'lazy';
+    heading.appendChild(avatar);
+  }
+
   const nameSpan = document.createElement('span');
   nameSpan.textContent = author;
 
@@ -232,8 +253,6 @@ for (const author of authors) {
   heading.appendChild(countBadge);
   group.appendChild(heading);
 
-  /* Author info (bio, life dates, country, works) */
-  const info = authorInfo[author];
   if (info) {
     const metaBits = [];
     if (info.country) metaBits.push(info.country);
