@@ -40,9 +40,9 @@ order: 4
   }
 
   .au-avatar {
-    width: 3.2rem;
-    height: 3.2rem;
-    border-radius: 50%;
+    width: 5rem;
+    height: 6.5rem;
+    border-radius: 6px;
     object-fit: cover;
     flex-shrink: 0;
     border: 2px solid var(--border-color, #dee2e6);
