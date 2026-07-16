@@ -48,6 +48,21 @@ order: 4
     border: 2px solid var(--border-color, #dee2e6);
   }
 
+  .au-name-block {
+    display: flex;
+    flex-direction: column;
+    gap: 0.1rem;
+    min-width: 0;
+  }
+
+  .au-name-en {
+    font-size: 0.75rem;
+    font-weight: 400;
+    color: #999;
+    direction: ltr;
+    text-align: right;
+  }
+
   .au-count {
     font-size: 0.7rem;
     font-weight: 600;
@@ -116,14 +131,14 @@ order: 4
   }
 
   .au-year {
-    font-size: 0.75rem;
+    font-size: 0.85rem;
     color: #aaa;
     white-space: nowrap;
     flex-shrink: 0;
   }
 
   .au-title a {
-    font-size: 0.9rem;
+    font-size: 1.05rem;
     color: inherit;
     text-decoration: none;
   }
@@ -193,7 +208,7 @@ const posts = [
 /* Author bios/metadata from _data/authors.yml */
 const authorInfo = {
   {% for a in site.data.authors %}
-  {{ a.name | jsonify }}: { born: {{ a.born | default: "" | jsonify }}, died: {{ a.died | default: "" | jsonify }}, country: {{ a.country | default: "" | jsonify }}, works: {{ a.works | default: "" | jsonify }}, bio: {{ a.bio | default: "" | jsonify }}, image: {{ a.image | default: "" | jsonify }} },
+  {{ a.name | jsonify }}: { nameEn: {{ a.name_en | default: "" | jsonify }}, born: {{ a.born | default: "" | jsonify }}, died: {{ a.died | default: "" | jsonify }}, country: {{ a.country | default: "" | jsonify }}, works: {{ a.works | default: "" | jsonify }}, bio: {{ a.bio | default: "" | jsonify }}, image: {{ a.image | default: "" | jsonify }} },
   {% endfor %}
 };
 
@@ -242,14 +257,25 @@ for (const author of authors) {
     heading.appendChild(avatar);
   }
 
+  const nameBlock = document.createElement('span');
+  nameBlock.className = 'au-name-block';
+
   const nameSpan = document.createElement('span');
   nameSpan.textContent = author;
+  nameBlock.appendChild(nameSpan);
+
+  if (info && info.nameEn) {
+    const nameEn = document.createElement('span');
+    nameEn.className = 'au-name-en';
+    nameEn.textContent = info.nameEn;
+    nameBlock.appendChild(nameEn);
+  }
 
   const countBadge = document.createElement('span');
   countBadge.className = 'au-count';
   countBadge.textContent = books.length;
 
-  heading.appendChild(nameSpan);
+  heading.appendChild(nameBlock);
   heading.appendChild(countBadge);
   group.appendChild(heading);
 
