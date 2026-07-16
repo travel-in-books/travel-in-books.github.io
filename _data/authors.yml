@@ -558,6 +558,7 @@
 
 - name: زویا پیرزاد
   name_en: "Zoya Pirzad"
+  image: /assets/img/authors/zoya-pirzad.webp
   country: ایران
   born: "۱۹۵۲"
   works: "چراغ‌ها را من خاموش می‌کنم، عادت می‌کنیم، طعم گس خرمالو"
@@ -720,6 +721,7 @@
 
 - name: مونا اواد
   name_en: "Mona Awad"
+  image: /assets/img/authors/mona-awad.webp
   country: کانادا
   born: "۱۹۷۸"
   works: "بانی، دختری چاق‌تر از همه که می‌شناسی، همه‌چیز اینجا زیباست"
