@@ -63,39 +63,25 @@ order: 5
 </div>
 
 <script>
+/* Coordinates come from _data/countries.yml — the single source of truth. */
 const coords = {
-  "آمریکا":         [37.090, -95.713],
-  "انگلیس":         [52.355,  -1.174],
-  "روسیه":          [61.524, 105.319],
-  "ژاپن":           [36.205, 138.253],
-  "فرانسه":         [46.228,   2.214],
-  "ایران":          [32.428,  53.688],
-  "آرژانتین":       [-38.416, -63.617],
-  "ایتالیا":        [41.872,  12.567],
-  "آلمان":          [51.166,  10.452],
-  "سوئیس":          [46.818,   8.228],
-  "نیجریه":         [ 9.082,   8.675],
-  "مکزیک":          [23.635, -102.553],
-  "کلمبیا":         [ 4.571, -74.297],
-  "کانادا":         [56.130, -106.347],
-  "پرو":            [-9.190, -75.015],
-  "ایرلند":         [53.142,  -7.692],
-  "مصر":            [26.821,  30.803],
-  "لهستان":         [51.919,  19.145],
-  "کره":            [35.908, 127.767],
-  "شیلی":           [-35.675, -71.543],
-  "سوئد":           [60.128,  18.644],
-  "سریلانکا":       [ 7.873,  80.772],
-  "چین":            [35.862, 104.195],
-  "ترکیه":          [38.964,  35.243],
-  "برزیل":          [-14.235, -51.925],
-  "استرالیا":       [-25.274, 133.775],
-  "اسپانیا":        [40.464,  -3.749],
-  "آفریقای جنوبی":  [-30.560,  22.938]
+  {% for c in site.data.countries %}
+  {{ c[0] | jsonify }}: [{{ c[1][0] }}, {{ c[1][1] }}],
+  {% endfor %}
 };
 
+/* The country list is derived from the posts themselves (a post's first tag
+   is its country), so a book from a new country appears on the map as soon
+   as its coordinates are added to _data/countries.yml. */
+{% assign names_str = "" %}
+{% for post in site.posts %}
+  {% unless post.path contains "template" %}
+    {% assign names_str = names_str | append: post.tags.first | append: "|" %}
+  {% endunless %}
+{% endfor %}
+{% assign country_list = names_str | split: "|" | uniq | sort %}
+
 const countryData = [
-  {% assign country_list = "آمریکا,انگلیس,روسیه,ژاپن,فرانسه,ایران,آرژانتین,ایتالیا,آلمان,سوئیس,نیجریه,مکزیک,کلمبیا,کانادا,پرو,ایرلند,مصر,لهستان,کره,شیلی,سوئد,سریلانکا,چین,ترکیه,برزیل,استرالیا,اسپانیا,آفریقای جنوبی" | split: "," %}
   {% for country in country_list %}
     {% assign posts_in_country = site.tags[country] %}
     {% assign count = posts_in_country | size %}
@@ -116,6 +102,16 @@ L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png', {
   subdomains: 'abcd',
   maxZoom: 19
 }).addTo(map);
+
+/* A country tagged on a post but absent from _data/countries.yml would be
+   dropped silently, so surface it instead of losing the books. */
+const missing = countryData.filter(d => !coords[d.name]);
+if (missing.length) {
+  console.warn(
+    'نقشه: این کشورها در _data/countries.yml مختصات ندارند و روی نقشه نیستند: ' +
+    missing.map(d => `${d.name} (${d.count})`).join('، ')
+  );
+}
 
 countryData.forEach(d => {
   const latlng = coords[d.name];

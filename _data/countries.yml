@@ -1,0 +1,37 @@
+# Map coordinates for the نقشه جهانی (map) page.
+# Keyed by the Persian country name exactly as it appears as the FIRST tag
+# of a post. The map derives its country list from the posts themselves, so
+# adding a book from a new country only requires adding its coordinates here.
+# A country tagged on a post but missing below is reported in the browser
+# console and drawn at no marker, so keep this in sync when adding countries.
+
+آمریکا:         [37.090, -95.713]
+انگلیس:         [52.355, -1.174]
+روسیه:          [61.524, 105.319]
+ژاپن:           [36.205, 138.253]
+فرانسه:         [46.228, 2.214]
+ایران:          [32.428, 53.688]
+آرژانتین:       [-38.416, -63.617]
+ایتالیا:        [41.872, 12.567]
+آلمان:          [51.166, 10.452]
+سوئیس:          [46.818, 8.228]
+نیجریه:         [9.082, 8.675]
+مکزیک:          [23.635, -102.553]
+کلمبیا:         [4.571, -74.297]
+کانادا:         [56.130, -106.347]
+پرو:            [-9.190, -75.015]
+ایرلند:         [53.142, -7.692]
+مصر:            [26.821, 30.803]
+لهستان:         [51.919, 19.145]
+کره:            [35.908, 127.767]
+شیلی:           [-35.675, -71.543]
+سوئد:           [60.128, 18.644]
+سریلانکا:       [7.873, 80.772]
+چین:            [35.862, 104.195]
+ترکیه:          [38.964, 35.243]
+برزیل:          [-14.235, -51.925]
+استرالیا:       [-25.274, 133.775]
+اسپانیا:        [40.464, -3.749]
+آفریقای جنوبی:  [-30.560, 22.938]
+اتریش:          [47.516, 14.550]
+مجارستان:       [47.162, 19.503]
