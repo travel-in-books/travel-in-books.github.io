@@ -20,7 +20,7 @@ toc: true
 
 تیتر انگلیسی<sup id="a1">[1](#f1)</sup>
 
-![Khosro and Shirin](KhosroShirin.png)
+![نگاره‌ای از خسرو و شیرین](/assets/img/covers/Khosro-and-Shirin-by-Nezami.webp)
 
 ### شخصیت ها
 - شخصیت اول: پدر خانواده
