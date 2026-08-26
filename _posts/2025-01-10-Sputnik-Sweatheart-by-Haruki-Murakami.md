@@ -2,7 +2,7 @@
 title: دلدار اسپوتنیک از هاروکی موراکامی
 description: رمان دلدار اسپوتنیک نوشته هاروکی موراکامی — داستان عشق‌های مثلثی و ناکام؛ زنی که به‌طور مرموز ناپدید می‌شود و مردی که دنبالش می‌گردد.
 categories: [ادبیات داستانی,رمان]
-tags: [ژاپن,⭐⭐⭐⭐⭐⭐⭐⭐☆☆ 8/10,۱۹۹۹,هاروکی موراکامی,فراواقع‌گرا,عشق,Something Vanishing,Vanishing Cats,Cats,Mysterious Woman,Unexpected Phone Call,Supernatural Powers,Parallel Worlds,Urban Ennui,Weird Sex,Unusual Name,Precocious Teenager]
+tags: [ژاپن,⭐⭐⭐⭐⭐⭐⭐⭐☆☆ 8/10,۱۹۹۹,هاروکی موراکامی,فراواقع‌گرا,عشق,ناپدیدشدن,گربه,جهان موازی]
 image:
   path: /assets/img/covers/Sputnik-Sweatheart-by-Haruki-Murakami.webp
   alt: جلد کتاب دلدار اسپوتنیک از هاروکی موراکامی

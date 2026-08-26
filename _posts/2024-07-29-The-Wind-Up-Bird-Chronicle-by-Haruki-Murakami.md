@@ -2,7 +2,7 @@
 title:  تاریخچه پرنده کوکی از هاروکی موراکامی
 description: رمان تاریخچه پرنده کوکی نوشته هاروکی موراکامی — داستانی رازآلود درباره مردی که همسرش ناپدید می‌شود و در جستجویش به اعماق ذهن و تاریخ فرو می‌رود.
 categories: [ادبیات داستانی,رمان فانتزی]
-tags: [ژاپن,⭐⭐⭐⭐⭐⭐⭐⭐☆☆ 8/10,۱۹۹۴,هاروکی موراکامی,فراواقع‌گرا,هویت,Dried-Up Well,Vanishing Cats,Cats,Unexpected Phone Call,Something Vanishing,Feeling of Being Followed,Mysterious Woman,Supernatural Powers,Secret Passageway,Parallel Worlds,Historical Flashback,Precocious Teenager,Cooking,Weird Sex,Unusual Name,Faceless Villain,Urban Ennui,Train Station,Old Jazz Record,Tokyo at Night]
+tags: [ژاپن,⭐⭐⭐⭐⭐⭐⭐⭐☆☆ 8/10,۱۹۹۴,هاروکی موراکامی,فراواقع‌گرا,هویت,چاه,گربه,جهان موازی,فلاش‌بک تاریخی]
 image:
   path: /assets/img/covers/The-Wind-Up-Bird-Chronicle-by-Haruki-Murakami.webp
   alt: جلد کتاب تاریخچه پرنده کوکی از هاروکی موراکامی

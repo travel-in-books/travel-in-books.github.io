@@ -2,7 +2,7 @@
 title: جنگل نروژی از هاروکی موراکامی
 description: رمان جنگل نروژی نوشته هاروکی موراکامی — داستانی نوستالژیک درباره عشق، از دست دادن و جوانی در توکیوی دهه ۱۹۶۰.
 categories: [ادبیات داستانی,رمان]
-tags: [ژاپن,⭐⭐⭐⭐⭐⭐☆☆☆☆ 6/10,۱۹۸۷,هاروکی موراکامی,عشق,مرگ,Dried-Up Well,Something Vanishing,Mysterious Woman,Unexpected Phone Call,Urban Ennui,Train Station,Precocious Teenager,Cooking,Weird Sex,Tokyo at Night,Unusual Name]
+tags: [ژاپن,⭐⭐⭐⭐⭐⭐☆☆☆☆ 6/10,۱۹۸۷,هاروکی موراکامی,عشق,مرگ,چاه,ناپدیدشدن,ملال شهری]
 image:
   path: /assets/img/covers/Norwegian-Wood-by-Haruki-Murakami.webp
   alt: جلد کتاب جنگل نروژی از هاروکی موراکامی

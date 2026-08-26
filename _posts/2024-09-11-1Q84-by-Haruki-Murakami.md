@@ -2,7 +2,7 @@
 title: رمان ۱کیو۸۴ از هاروکی موراکامی
 description: رمان ۱Q84 نوشته هاروکی موراکامی — داستانی در دو دنیای موازی توکیو سال ۱۹۸۴؛ رمانی درباره عشق، فرقه‌های مذهبی و واقعیت‌های موازی.
 categories: [ادبیات داستانی,رمان فانتزی]
-tags: [ژاپن,⭐⭐⭐⭐⭐⭐⭐☆☆☆ 7/10,۲۰۰۹,هاروکی موراکامی,فراواقع‌گرا,عشق,Parallel Worlds,Secret Passageway,Supernatural Powers,Mysterious Woman,Feeling of Being Followed,Unexpected Phone Call,Cats,Urban Ennui,Train Station,Historical Flashback,Precocious Teenager,Cooking,Weird Sex,Faceless Villain,Unusual Name,Chip Kidd Cover,Tokyo at Night,Something Vanishing]
+tags: [ژاپن,⭐⭐⭐⭐⭐⭐⭐☆☆☆ 7/10,۲۰۰۹,هاروکی موراکامی,فراواقع‌گرا,عشق,جهان موازی,ماوراءطبیعی,گذرگاه مخفی,شرور بی‌چهره]
 image:
   path: /assets/img/covers/1Q84-by-Haruki-Murakami.webp
   alt: جلد کتاب رمان ۱کیو۸۴ از هاروکی موراکامی

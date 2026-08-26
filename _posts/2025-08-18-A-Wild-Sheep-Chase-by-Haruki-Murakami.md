@@ -2,7 +2,7 @@
 title: تعقیب گوسفند وحشی از هاروکی موراکامی
 description: رمان تعقیب گوسفند وحشی نوشته هاروکی موراکامی — داستانی رازآلود و طنزآمیز درباره مردی که برای یافتن گوسفندی مرموز به ژاپن روستایی می‌رود.
 categories: [ادبیات داستانی,رمان]
-tags: [ژاپن,⭐⭐⭐⭐⭐⭐⭐⭐☆☆ 8/10,۱۹۸۲,هاروکی موراکامی,فراواقع‌گرا,هویت,Ear Fetish,Mysterious Woman,Something Vanishing,Feeling of Being Followed,Unexpected Phone Call,Cats,Old Jazz Record,Urban Ennui,Supernatural Powers,Train Station,Historical Flashback,Cooking,Faceless Villain,Unusual Name,Tokyo at Night]
+tags: [ژاپن,⭐⭐⭐⭐⭐⭐⭐⭐☆☆ 8/10,۱۹۸۲,هاروکی موراکامی,فراواقع‌گرا,هویت,گوش,ماوراءطبیعی,فلاش‌بک تاریخی,شرور بی‌چهره]
 image:
   path: /assets/img/covers/A-Wild-Sheep-Chase-by-Haruki-Murakami.webp
   alt: جلد کتاب تعقیب گوسفند وحشی از هاروکی موراکامی

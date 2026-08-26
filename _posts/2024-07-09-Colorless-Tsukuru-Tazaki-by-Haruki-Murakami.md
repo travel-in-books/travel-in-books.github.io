@@ -2,7 +2,7 @@
 title: سوکورو تازاکی بی‌رنگ و سال‌های زیارتش از هاروکی موراکامی
 description: رمان سوکورو تازاکی بی‌رنگ نوشته هاروکی موراکامی — داستان مردی که ناگهان از سوی دوستانش طرد شده و سال‌ها بعد برای یافتن دلیل به گذشته بازمی‌گردد.
 categories: [ادبیات داستانی,رمان]
-tags: [ژاپن,⭐⭐⭐⭐⭐⭐⭐⭐☆☆ 8/10,۲۰۱۳,هاروکی موراکامی,هویت,معاصر,Train Station,Something Vanishing,Unusual Name,Mysterious Woman,Unexpected Phone Call,Urban Ennui,Running,Supernatural Powers,Weird Sex,Historical Flashback]
+tags: [ژاپن,⭐⭐⭐⭐⭐⭐⭐⭐☆☆ 8/10,۲۰۱۳,هاروکی موراکامی,هویت,معاصر,ایستگاه قطار,ناپدیدشدن,اسم غیرعادی]
 image:
   path: /assets/img/covers/Colorless-Tsukuru-Tazaki-by-Haruki-Murakami.webp
   alt: جلد کتاب سوکورو تازاکی بی‌رنگ و سال‌های زیارتش از هاروکی موراکامی

@@ -2,7 +2,7 @@
 title: برقص برقص برقص از هاروکی موراکامی
 description: رمان برقص برقص برقص نوشته هاروکی موراکامی — دنباله تعقیب گوسفند وحشی؛ داستانی درباره تنهایی، از دست دادن و جستجو در دل توکیوی مدرن.
 categories: [ادبیات داستانی,رمان]
-tags: [ژاپن,⭐⭐⭐⭐⭐⭐⭐⭐☆☆ 8/10,۱۹۹۴,هاروکی موراکامی,فراواقع‌گرا,هویت,Ear Fetish,Mysterious Woman,Something Vanishing,Feeling of Being Followed,Unexpected Phone Call,Cats,Old Jazz Record,Urban Ennui,Supernatural Powers,Secret Passageway,Parallel Worlds,Precocious Teenager,Cooking,Weird Sex,Tokyo at Night,Unusual Name]
+tags: [ژاپن,⭐⭐⭐⭐⭐⭐⭐⭐☆☆ 8/10,۱۹۹۴,هاروکی موراکامی,فراواقع‌گرا,هویت,گوش,ماوراءطبیعی,جهان موازی,ملال شهری]
 image:
   path: /assets/img/covers/Dance-Dance-Dance-by-Haruki-Murakami.webp
   alt: جلد کتاب برقص برقص برقص از هاروکی موراکامی

@@ -2,7 +2,7 @@
 title: کافکا در کرانه از هاروکی موراکامی
 description: رمان کافکا در کرانه نوشته هاروکی موراکامی — دو روایت موازی درباره پسری فراری و پیرمردی که می‌تواند با گربه‌ها صحبت کند. رمانی فراواقعی و رازآلود.
 categories: [ادبیات داستانی,رمان فانتزی]
-tags: [ژاپن,⭐⭐⭐⭐⭐⭐⭐⭐☆☆ 8/10,۲۰۰۲,هاروکی موراکامی,فراواقع‌گرا,هویت,Cats,Speaking to Cats,Vanishing Cats,Supernatural Powers,Parallel Worlds,Secret Passageway,Mysterious Woman,Something Vanishing,Historical Flashback,Precocious Teenager,Cooking,Running,Weird Sex,Unusual Name,Faceless Villain,Feeling of Being Followed,Train Station]
+tags: [ژاپن,⭐⭐⭐⭐⭐⭐⭐⭐☆☆ 8/10,۲۰۰۲,هاروکی موراکامی,فراواقع‌گرا,هویت,گربه,جهان موازی,ماوراءطبیعی,گذرگاه مخفی]
 image:
   path: /assets/img/covers/Kafka-on-the-shore-by-Haruki-Murakami.webp
   alt: جلد کتاب کافکا در کرانه از هاروکی موراکامی

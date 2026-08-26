@@ -2,7 +2,7 @@
 title: بعد از زلزله از هاروکی موراکامی
 description: نقد و معرفی داستان‌های کوتاه بعد از زلزله نوشته هاروکی موراکامی — شش داستان در پی زلزله کوبه ۱۹۹۵؛ درباره شکاف‌های پنهان زندگی و روابط انسانی.
 categories: [ادبیات داستانی,داستان کوتاه]
-tags: [ژاپن,داستان کوتاه,⭐⭐⭐⭐⭐⭐⭐⭐☆☆ 8/10,۲۰۰۰,هاروکی موراکامی,فراواقع‌گرا,هویت,Supernatural Powers,Faceless Villain,Something Vanishing,Ear Fetish,Feeling of Being Followed,Train Station,Old Jazz Record,Mysterious Woman,Weird Sex,Cooking,Unusual Name,Tokyo at Night,Historical Flashback]
+tags: [ژاپن,داستان کوتاه,⭐⭐⭐⭐⭐⭐⭐⭐☆☆ 8/10,۲۰۰۰,هاروکی موراکامی,فراواقع‌گرا,هویت,ماوراءطبیعی,شرور بی‌چهره,ناپدیدشدن]
 image:
   path: /assets/img/covers/After-the-Quake-by-Haruki-Murakami.webp
   alt: جلد کتاب بعد از زلزله از هاروکی موراکامی
