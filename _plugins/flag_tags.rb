@@ -33,6 +33,10 @@ COUNTRY_FLAGS = {
   'نیجریه'        => '🇳🇬',
   'کره'           => '🇰🇷',
   'سریلانکا'      => '🇱🇰',
+  'یونان'         => '🇬🇷',
+  'اتریش'         => '🇦🇹',
+  'مجارستان'      => '🇭🇺',
+  'بلژیک'         => '🇧🇪',
 }.freeze
 
 # <a class="post-tag …">COUNTRY</a>  — tag pills on post cards and post pages
