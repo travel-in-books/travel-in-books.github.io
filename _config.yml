@@ -54,7 +54,7 @@ social:
 
 # Site Verification Settings
 webmaster_verifications:
-  google: "googled7b90164bb967357.html"
+  google: # verified via the googled7b90164bb967357.html file in the repo root
   bing: # fill in your Bing verification code
   alexa: # fill in your Alexa verification code
   yandex: # fill in your Yandex verification code
