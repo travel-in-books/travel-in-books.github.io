@@ -8,7 +8,7 @@ toc: true
 
 | نام اثر | داستان‌ کوتاه‌هایی |
 | نویسنده | نیکولای گوگول |
-| نام اصلی اثر | Shprt Stories by Nikolai Gogol  |
+| نام اصلی اثر | Short Stories by Nikolai Gogol |
 | سال چاپ | ۱۸۴۲ |
 | کشور | روسیه |
 | ژانر | طنز اجتماعی |
